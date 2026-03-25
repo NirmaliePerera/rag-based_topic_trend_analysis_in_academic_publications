@@ -1,8 +1,8 @@
 METADATA_PROMPT = """
 You are an academic metadata extraction system.
 
-From the first page image of a research paper, extract the following metadata.
-If a field is not found, return null.
+From the first page image of a research paper, extract the following metadata. 
+ If a field is not found, return null.
 
 Return ONLY valid JSON in this exact schema:
 
@@ -14,6 +14,6 @@ Return ONLY valid JSON in this exact schema:
   "institution": "",
   "year": "",
   "keywords": [],
-  "keywords from title and abstract": []
+  "6 keywords from title and abstract": []
 }
 """
