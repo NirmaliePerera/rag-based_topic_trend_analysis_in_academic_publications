@@ -211,3 +211,6 @@ data/sample_papers/*
 
 # Papers
 data/papers
+
+sample.pdf
+output.xml
