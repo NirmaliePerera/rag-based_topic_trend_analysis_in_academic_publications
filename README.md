@@ -34,3 +34,18 @@ Results:
 
 In this metadata ectraction method the versions selected were either did not excel in extracting metadata or did not belong in free tier (e.g. gemini-2.5-flash-image). Therefore, this method is halted for futher analysis in the future.
 
+    In the third method, GeneRation Of BIbliographic Data (GROBID) was used for extracting metadata. It is an open-source machine learning–based library designed to extract, structure, and normalize information from scholarly documents, primarily PDFs. 
+
+First Docker Descktop was installed. Then, the GROBID image was pulled which includes Java, ML models, and GROBID server. Next, GROBID server was started. After setting up the environment, it was tested for one sample pdf. The output observation included that the names of authors were extracted in the format of [Lastname, FirstName]. The title, abstract, and keywords did not have apperant diviation from the actual metadata.
+Next, it was tested for a set of 10 PDFs. For that, dependancies for lxml and tqdm had to be installed. 
+
+Limitations of automated metadata extraction in GROBID is, it may fail to produce valid TEI XML for certain PDFs, requiring error handling and fallback mechanisms. 
+There is also the limitation of full-text parsing, where it has taken the authors of the referenced papers as authors of the paper. To overcome this limitation, fulltext endpoint had to be used while extracting authors only from <teiHeader>
+
+Next observation was that universitie/institution names were extracted as author names and some author names were missing. Therefore, an author name cleaning mechanism had to be used. Even after the fix, GROBID still extracted an institution name (UC Berkeley) as an author name and one author name was missing in few records. 
+
+Keywords included stopwords and were combined with sentences, especially the last keyword. To fix this, following steps were taken: Split keywords by commas or semicolons (if available), remove stopwords like “and”, “full form”, “abbreviations”, keep only short phrases (<=5 words) for keyword. After the fixes were applied some keywords were still missing, specially the ones that had stopwords and were combined with sectences. Additionally, in one paper, words on an image were extracted as keywords.
+ 
+
+After careful consideration, a decision was made to ignore user-defined keywords. The reason being that some papers does not contain user-defined keywords. Furthermore, if keywords were to be taken in different ways, it might create variation. And most of the time, for topic modeling /trend analysis, the title and abstract are used instead of user-defined keywords, especially the models that are being considered in this research project, such as LDA, NMF, and BERT and its versions.
+Another consideration is adding the publication year. In arXiv files, the year is parsed from the file name. Although arXiv files are saved with the month and year, other files are not. Therefore this had to be taken into consideration.

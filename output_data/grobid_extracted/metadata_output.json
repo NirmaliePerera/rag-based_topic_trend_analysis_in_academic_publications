@@ -1,0 +1,278 @@
+[
+    {
+        "title": "A Novel Stacked Machine Learning Framework for Enhanced Prediction of Corporate CO 2 Emissions in Multisectoral Analysis",
+        "authors": [
+            "K N M P K Kosgahakumbura",
+            "S M M Lakmali",
+            "P P N V Kumara"
+        ],
+        "abstract": "Climate change and global warming are among the most pressing issues of our time, drawing worldwide attention due to their observable effects such as extreme weather events, heatwaves, flooding, and droughts. The major driver of these phenomena is the excessive carbon dioxide (CO2) emissions into the atmosphere, where corporations play a crucial role. This research aims to accurately predict CO2 emissions in the corporate sector. By providing precise predictions, corporations can gain valuable insights to inform decision-making and strategically plan their carbon neutrality initiatives in alignment with sustainability goals. The data used for this research was collected from 17 worldwide companies from 2017 to 2022. This study introduces a novel stacked model that leverages the strengths of four base models: Ridge Regression, XGBoost, CatBoost, and LSTM. A meta-learner, developed using a Random Forest algorithm, aggregates the predictions from these base models. The introduced stacked model significantly outperforms each base model, achieving the lowest MAE and RMSE values and the highest R² of 0.9587, demonstrating superior predictive power. This research contributes to corporate sustainability efforts and offers a wider societal benefit by encouraging reductions in CO2 emissions, ultimately supporting the fight against climate change and protecting the entire ecosystem.",
+        "keywords": [
+            "time-series forecasting",
+            "deep learning",
+            "carbon emission",
+            "machine learning"
+        ],
+        "year": 2010,
+        "file_name": "108.pdf"
+    },
+    {
+        "title": "Comparing the Behaviour of Ensemble Algorithms for Route Optimization in Last-Mile Deilivery Considering the Weather Condition and Holiday Effect",
+        "authors": [
+            "B D E Kodikara",
+            "H Niles Perera",
+            "Peshala Gamage",
+            "Amila Thibotuwa"
+        ],
+        "abstract": "Delivery Time Prediction (DTP) is a crucial factor in last mile logistics. A variety of studies were conducted under this domain using statistics, machine learning and deep learning approaches. The main intention of these kinds of systems is to measure the accuracy and the computational time. However, these improvements come at the cost of significantly increased implementation and operation expenses which are not affordable for small and medium scale businesses. Moreover, DTP considering dynamic factors such as weather, traffic conditions and holidays remains a challenge. Considering the above factors, this paper proposes a novel method of DTP based on the origin, destination geographical points (OD DTP) which is fitting for short distances. According to the case study analysis conducted on the delivery time of New York yellow cab data set using Light Gradient Boosting (LGB), Extreme Gradient Boosting (XGB), Cat Boosting Algorithms and Random Forest (RF), proved that Booting algorithms are much more capable of building DTP model with the exogenous factors such as weather conditions and holiday effect. The feature importance data explained that temperature, humidity, and wind directions are the most important factors within other selected climate criteria). Overall, the trip distance and the trip direction are the most important features when predicting short distance delivery time. The detailed analysis of the selected algorithm behavior concludes that, in terms of evaluation criteria (computational time, overfitting, accuracy, feature importance) LGB is good for model training which has short iteration rounds with small data sets, and the XGB is good for more complex predicting model which deal with large and complex data.",
+        "keywords": [
+            "travel time prediction",
+            "delivery time prediction",
+            "ensemble algorithms",
+            "boosting algorithms",
+            "route optimization",
+            "artificial intelligent",
+            "optimum route identification",
+            "machine learning"
+        ],
+        "year": 2015,
+        "file_name": "1570850783_27.pdf"
+    },
+    {
+        "title": "Reinforcement Learning Teachers of Test Time Scaling",
+        "authors": [
+            "Edoardo Cetin",
+            "Tianyu Zhao",
+            "Yujin Tang"
+        ],
+        "abstract": "Training reasoning language models (LMs) with reinforcement learning (RL) for one-hot correctness inherently relies on the LM being able to explore and solve its task with some chance at initialization. Furthermore, a key use case of reasoning LMs is to act as teachers for distilling new students and cold-starting future RL iterations rather than being deployed themselves. From these considerations, we introduce a new framework that avoids RL's exploration challenge by training a new class of Reinforcement-Learned Teachers (RLTs) focused on yielding the most effective downstream distillation. RLTs are prompted with both the question and solution to each problem, and tasked to simply \"connect-the-dots\" with detailed explanations tailored for their students. We train RLTs with dense rewards obtained by feeding each explanation to the student and testing its understanding of the problem's solution. In practice, the raw outputs of a 7B RLT provide higher final performance on competition and graduate-level tasks than existing distillation and cold-starting pipelines that collect and postprocess the reasoning traces of orders of magnitude larger LMs. Furthermore, RLTs maintain their effectiveness when training larger students and when applied zero-shot to out-of-distribution tasks, unlocking new levels of efficiency and re-usability for the RL reasoning framework. github.com/SakanaAI/RLT",
+        "keywords": [],
+        "year": 2025,
+        "file_name": "2506.08388v3.pdf"
+    },
+    {
+        "title": "Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency, and Ethics",
+        "authors": [
+            "Sadia Ahmad",
+            "Muhammad Zaeem Khan",
+            "Saleha Jamshed",
+            "Abdul Rehman",
+            "Faria Bibi",
+            "Kaynat Khatib",
+            "Asifullah Khan"
+        ],
+        "abstract": "This survey paper outlines the key developments in the field of Large Language Models (LLMs), including enhancements to their reasoning skills, adaptability to various tasks, increased computational efficiency, and the ability to make ethical decisions. The techniques that have been most effective in bridging the gap between human and machine communications include the Chain-of-Thought prompting, Instruction Tuning, and Reinforcement Learning from Human Feedback. The improvements in multimodal learning and few-shot or zero-shot techniques have further empowered LLMs to handle complex jobs with minor input. A significant focus is placed on efficiency, detailing scaling strategies, optimization techniques, and the influential Mixtureof-Experts (MoE) architecture, which strategically routes inputs to specialized subnetworks to boost predictive accuracy, while optimizing resource allocation. This survey also offers a broader perspective on recent advancements in LLMs, going beyond isolated aspects such as model architecture or ethical concerns. Additionally, it explores the role of LLMs in Agentic AI and their use as Autonomous Decision-Making Systems, and categorizes emerging methods that enhance LLM reasoning, efficiency, and ethical alignment. The survey also identifies underexplored areas such as interpretability, cross-modal integration, and sustainability. While significant advancements have been made in LLMs, challenges such as high computational costs, biases, and ethical risks remain. Overcoming these requires a focus on bias mitigation, transparent decision-making, and explicit ethical guidelines. Future research will generally focus on enhancing the model's ability to handle multiple inputs, thereby making it more intelligent, safe, and reliable.",
+        "keywords": [
+            "llm",
+            "few-shot learning",
+            "modal scaling",
+            "ethical ai",
+            "reinforcement learning from human feedback",
+            "multimodal",
+            "chain of thought",
+            "zero-shot learning",
+            "efficiency",
+            "agentic ai",
+            "large language models"
+        ],
+        "year": 2025,
+        "file_name": "2506.12365v2.pdf"
+    },
+    {
+        "title": "Steering Your Diffusion Policy with Latent Space Reinforcement Learning",
+        "authors": [
+            "Mitsuhiko Nakamoto",
+            "Waleed Yagoub",
+            "Andrew Wagenmaker",
+            "Sergey Levine",
+            "Yunchu Zhang",
+            "Anusha Nagabandi",
+            "U C Berkeley",
+            "Abhishek Gupta",
+            "Seohong Park"
+        ],
+        "abstract": "Robotic control policies learned from human demonstrations have achieved impressive results in many real-world applications. However, in scenarios where initial performance is not satisfactory, as is often the case in novel openworld settings, such behavioral cloning (BC)-learned policies typically require collecting additional human demonstrations to further improve their behavioran expensive and time-consuming process. In contrast, reinforcement learning (RL) holds the promise of enabling autonomous online policy improvement, but often falls short of achieving this due to the large number of samples it typically requires. In this work we take steps towards enabling fast autonomous adaptation of BC-trained policies via efficient real-world RL. Focusing in particular on diffusion policies-a state-of-the-art BC methodology-we propose diffusion steering via reinforcement learning (DSRL): adapting the BC policy by running RL over its latent-noise space. We show that DSRL is highly sample efficient, requires only black-box access to the BC policy, and enables effective real-world autonomous policy improvement. Furthermore, DSRL avoids many of the challenges associated with finetuning diffusion policies, obviating the need to modify the weights of the base policy at all. We demonstrate DSRL on simulated benchmarks, realworld robotic tasks, and for adapting pretrained generalist policies, illustrating its sample efficiency and effective performance at real-world policy improvement. Website: https://diffusion-steering.github.io.",
+        "keywords": [],
+        "year": 2025,
+        "file_name": "2506.15799v2.pdf"
+    },
+    {
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "authors": [
+            "Bryan Kian",
+            "Zhaoxuan Wu",
+            "Sunghwan Kim",
+            "Ao Qu",
+            "Hsiang Low",
+            "Jinhua Zhao",
+            "Zijian Zhou",
+            "Alok Prakash",
+            "Daniela Rus",
+            "Paul Pu Liang"
+        ],
+        "abstract": "Modern language agents must operate over long-horizon, multi-turn interactions, where they retrieve external information, adapt to observations, and answer interdependent queries. Yet, most LLM systems rely on full-context prompting, appending all past turns regardless of their relevance. This leads to unbounded memory growth, increased computational costs, and degraded reasoning performance on out-of-distribution input lengths. We introduce MEM1, an end-to-end reinforcement learning framework that enables agents to operate with constant memory across long multi-turn tasks. At each turn, MEM1 updates a compact shared internal state that jointly supports memory consolidation and reasoning. This state integrates prior memory with new observations from the environment while strategically discarding irrelevant or redundant information. To support training in more realistic and compositional settings, we propose a simple yet effective and scalable approach to constructing multi-turn environments by composing existing datasets into arbitrarily complex task sequences. Experiments across three domains, including internal retrieval QA, open-domain web QA, and multi-turn web shopping, show that MEM1-7B improves performance by 3.5× while reducing memory usage by 3.7× compared to Qwen2.5-14B-Instruct on a 16-objective multi-hop QA task, and generalizes beyond the training horizon. Our results demonstrate the promise of reasoning-driven memory consolidation as a scalable alternative to existing solutions for training long-horizon interactive agents, where both efficiency and performance are optimized. Code can be found at https://github.com/MIT-MI/MEM1.",
+        "keywords": [],
+        "year": 2025,
+        "file_name": "2506.15841v2.pdf"
+    },
+    {
+        "title": "Towards AI Search Paradigm",
+        "authors": [
+            "Jiayi Wu",
+            "Keyi Kong",
+            "Xinran Chen",
+            "Rui Kong",
+            "Yuchen Li",
+            "Jun Yang",
+            "Jiamin Chen",
+            "Haojie Zhang",
+            "Yiqun Chen",
+            "Wenwen Ye",
+            "Dawei Yin",
+            "Xinyu Ma",
+            "Lixin Su",
+            "Jiayi Li",
+            "Jiashu Zhao",
+            "Long Xia",
+            "Changle Qu",
+            "Haoyi Xiong"
+        ],
+        "abstract": "In this paper, we introduce the AI Search Paradigm, a comprehensive blueprint for nextgeneration search systems capable of emulating human information processing and decisionmaking. The paradigm employs a modular architecture of four LLM-powered agents (Master, Planner, Executor and Writer) that dynamically adapt to the full spectrum of information needs, from simple factual queries to complex multi-stage reasoning tasks. These agents collaborate dynamically through coordinated workflows to evaluate query complexity, decompose problems into executable plans, and orchestrate tool usage, task execution, and content synthesis. We systematically present key methodologies for realizing this paradigm, including task planning and tool integration, execution strategies, aligned and robust retrieval-augmented generation, and efficient LLM inference, spanning both algorithmic techniques and infrastructure-level optimizations. By providing an in-depth guide to these foundational components, this work aims to inform the development of trustworthy, adaptive, and scalable AI search systems.",
+        "keywords": [
+            "search engine",
+            "agentic search",
+            "web search",
+            "retrieval-augmented generation",
+            "multi-agent system",
+            "task planning",
+            "ai search",
+            "large language models"
+        ],
+        "year": 2025,
+        "file_name": "2506.17188v1.pdf"
+    },
+    {
+        "title": "Mercury: Ultra-Fast Language Models Based on Diffusion",
+        "authors": [
+            "Sawyer Birnbaum",
+            "Ziyang Luo",
+            "Aditya Grover",
+            "Shufan Li",
+            "Samar Khanna",
+            "Volodymyr Kuleshov",
+            "Eric Wang",
+            "Stefano Ermon",
+            "Akash Palrecha",
+            "Siddhant Kharbanda",
+            "Yanis Miraoui",
+            "Harshit Varma"
+        ],
+        "abstract": "We present Mercury, a new generation of commercial-scale large language models (LLMs) based on diffusion. These models are parameterized via the Transformer architecture and trained to predict multiple tokens in parallel. In this report, we detail Mercury Coder, our first set of diffusion LLMs designed for coding applications. Currently, Mercury Coder comes in two sizes: Mini and Small. These models set a new state-of-the-art on the speed-quality frontier. Based on independent evaluations conducted by Artificial Analysis, Mercury Coder Mini and Mercury Coder Small achieve state-of-the-art throughputs of 1109 tokens/sec and 737 tokens/sec, respectively, on NVIDIA H100 GPUs and outperform speed-optimized frontier models by up to 10× on average while maintaining comparable quality. We discuss additional results on a variety of code benchmarks spanning multiple languages and use-cases as well as real-world validation by developers on Copilot Arena, where the model currently ranks second on quality and is the fastest model overall. We also release a public API at platform.inceptionlabs.ai and free playground at chat.inceptionlabs.ai.",
+        "keywords": [],
+        "year": 2025,
+        "file_name": "2506.17298v1.pdf"
+    },
+    {
+        "title": "A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures",
+        "authors": [
+            "Xiang Chen",
+            "Shi Lin",
+            "Changting Lin",
+            "Muhammad Khurram Khan",
+            "Ningyu Zhang",
+            "Zhenhua Xu",
+            "Xuan Liu",
+            "Hujin Peng",
+            "Xun Wang",
+            "Meng Han",
+            "Yufeng Li",
+            "Zhebo Wang",
+            "Dezhang Kong",
+            "Yuyuan Li",
+            "Chaochao Chen",
+            "Zeyang Sha",
+            "Minghao Li",
+            "Yilun Zhang",
+            "Chunming Wu"
+        ],
+        "abstract": "In recent years, Large-Language-Model-driven AI agents have exhibited unprecedented intelligence and adaptability. Nowadays, agents are undergoing a new round of evolution. They no longer act as an isolated island like LLMs. Instead, they start to communicate with diverse external entities, such as other agents and tools, to perform complex tasks. Under this trend, agent communication is regarded as a foundational pillar of the next communication era, and many organizations have intensively begun to design related communication protocols (e.g., Anthropic's MCP and Google's A2A) within the past year. However, this new field exposes significant security hazards, which can cause severe damage to real-world scenarios. To help researchers quickly figure out this promising topic and benefit the future agent communication development, this paper presents a comprehensive survey of agent communication security. More precisely, we present the first clear definition of agent communication. Besides, we propose a framework that categorizes agent communication into three classes and uses a three-layered communication architecture to illustrate how each class works. Next, for each communication class, we dissect related communication protocols and analyze the security risks, illustrating which communication layer the risks arise from. Then, we provide an outlook on the possible defense countermeasures for each risk. In addition, we conduct experiments using MCP and A2A to help readers better understand the novel vulnerabilities brought by agent communication. Finally, we discuss open issues and future directions in this promising research field. We also publish a repository that maintains a list of related papers on https://github.com/theshi-1128/awesome-agentcommunication-security.",
+        "keywords": [
+            "weather",
+            "itinerary",
+            "…",
+            "ticket",
+            "hotel"
+        ],
+        "year": 2025,
+        "file_name": "2506.19676v4.pdf"
+    },
+    {
+        "title": "An Agentic System for Rare Disease Diagnosis with Traceable Reasoning",
+        "authors": [
+            "Yanjie Fan",
+            "Xin Sun",
+            "Chaoyi Wu",
+            "Yuze Sun",
+            "Weike Zhao",
+            "Yanfeng Wang",
+            "Kun Sun",
+            "Xiaoman Zhang",
+            "Weidi Xie",
+            "Pengcheng Qiu",
+            "Yongguo Yu",
+            "Xiao Zhou",
+            "Ya Zhang"
+        ],
+        "abstract": "Rare diseases collectively affect over 300 million individuals worldwide, yet timely and accurate diagnosis remains a pervasive challenge. This is largely due to their clinical heterogeneity, low individual prevalence, and the limited familiarity most clinicians have with rare conditions. Here, we introduce DeepRare, the first rare disease diagnosis agentic system powered by a large language model (LLM), capable of processing heterogeneous clinical inputs: free-text clinical descriptions, structured Human Phenotype Ontology (HPO) terms, and genetic testing results in variant call format (VCF). The system generates ranked diagnostic hypotheses for rare diseases, each accompanied by a transparent chain of reasoning that links intermediate analytic steps to verifiable medical evidence. This interpretability is critical for clinical adoption, supporting human-AI collaboration in diagnostic workflows. DeepRare comprises three key components: a central host with a long-term memory module; specialized agent servers responsible for domain-specific analytical tasks (e.g., phenotype extraction, variant prioritization) integrating over 40 specialized tools and web-scale, up-to-date medical knowledge sources, ensuring access to the most current clinical information. This modular and scalable design enables complex diagnostic reasoning while maintaining traceability and adaptability. We evaluate DeepRare on eight datasets sourced from literature, case reports, and clinical centers across Asia, North America, and Europe, spanning 14 medical specialties, including neurology, cardiology, immunology, and genetics. The system demonstrates exceptional diagnostic performance among 2,919 diseases, achieving 100% accuracy for 1013 diseases. In HPO-based evaluations, DeepRare significantly outperforms other 15 methods, like traditional bioinformatics diagnostic tools, large language models, and other agentic systems, achieving an average Recall@1 score of 57.18% and surpassing the second-best method (Reasoning LLM) by a substantial margin of 23.79 percentage points. For multi-modal input scenarios, DeepRare achieves 70.60% at Recall@1 compared to Exomiser's 53.20% in 109 cases. Manual verification of reasoning chains by clinical experts achieves 95.40% agreements, confirming that the system's intermediate reasoning steps are both medically valid and traceable to authoritative sources, enhancing its potential as a trustworthy decision support tool in rare disease diagnostics. Furthermore, the DeepRare system has been implemented as a user-friendly web application http://raredx.cn/doctor.",
+        "keywords": [],
+        "year": 2025,
+        "file_name": "2506.20430v2.pdf"
+    },
+    {
+        "title": "Whole-Body Conditioned Egocentric Video Prediction",
+        "authors": [
+            "Jitendra Malik",
+            "Danny Tran",
+            "Amir Bar",
+            "Trevor Darrell",
+            "Yann Lecun"
+        ],
+        "abstract": "We train models to Predict Ego-centric Video from human Actions (PEVA), given the past video and an action represented by the relative 3D body pose. By conditioning on kinematic pose trajectories, structured by the joint hierarchy of the body, our model learns to simulate how physical human actions shape the environment from a first-person point of view. We train an auto-regressive conditional diffusion transformer on Nymeria, a large-scale dataset of real-world egocentric video and body pose capture. We further design a hierarchical evaluation protocol with increasingly challenging tasks, enabling a comprehensive analysis of the model's embodied prediction and control abilities. Our work represents an initial attempt to tackle the challenges of modeling complex real-world environments and embodied agent behaviors with video prediction from the perspective of a human. 1",
+        "keywords": [],
+        "year": 2025,
+        "file_name": "2506.21552v1.pdf"
+    },
+    {
+        "title": "AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model",
+        "authors": [
+            "Demis Hassabis",
+            "Jun Cheng",
+            "Souradeep Basu",
+            "Kyle R Taylor",
+            "Taylor Applebaum",
+            "Joshua Pan",
+            "Eirini Arvaniti",
+            "Adam Gayoso",
+            "Clare Bycroft",
+            "Guido Novati",
+            "Matteo Perino",
+            "Richard Tanburn",
+            "Andrew Senior",
+            "Pavol Drotár",
+            "Žiga Avsec",
+            "Natasha Latysheva",
+            "Soham De",
+            "Pushmeet Kohli",
+            "Tom Ward",
+            "Adam Kosiorek",
+            "Anne Mottram",
+            "Vincent Dutordoir",
+            "Toby Sargeant",
+            "Alexander Karollus"
+        ],
+        "abstract": "Deep learning models that predict functional genomic measurements from DNA sequence are powerful tools for deciphering the genetic regulatory code. Existing methods trade off between input sequence length and prediction resolution, thereby limiting their modality scope and performance. We present AlphaGenome, which takes as input 1 megabase of DNA sequence and predicts thousands of functional genomic tracks up to single base pair resolution across diverse modalities -including gene expression, transcription initiation, chromatin accessibility, histone modifications, transcription factor binding, chromatin contact maps, splice site usage, and splice junction coordinates and strength. Trained on human and mouse genomes, AlphaGenome matches or exceeds the strongest respective available external models on 24 out of 26 evaluations on variant effect prediction. AlphaGenome's ability to simultaneously score variant effects across all modalities accurately recapitulates the mechanisms of clinically-relevant variants near the TAL1 oncogene. To facilitate broader use, we provide tools for making genome track and variant effect predictions from sequence. Currently, deep learning-based sequence-to-function models face two fundamental tradeoffs con-",
+        "keywords": [],
+        "year": 2001,
+        "file_name": "alphagenome.pdf"
+    }
+]
