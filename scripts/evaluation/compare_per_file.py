@@ -20,6 +20,7 @@ METHOD = sys.argv[1]
 # Map method names to folder names
 METHOD_TO_FOLDER = {
     "grobid": "grobid_metadata_output",
+    "grobid_enhanced": "grobid_enhanced_output",
     "gemini": "gemini",
     "openalex": "openalex"
 }
@@ -39,7 +40,8 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
 GT_PATH = os.path.join(PROJECT_ROOT, "data", "metadata_extraction_evaluation", "metadata", "papers.json")
-PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_baseline_output")
+PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_enhanced_output")
+#PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_baseline_output")
 #PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", FOLDER_NAME)
 OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", METHOD)
 
@@ -115,7 +117,7 @@ for filename in os.listdir(PRED_DIR):
         pred = pred_data
 
     source_file = pred.get("source_file") or pred.get("file_name")
-    
+
     if not source_file or source_file not in gt_map:
         print(f"Skipping {filename} (no match in ground truth)")
         continue
