@@ -1,0 +1,4475 @@
+[
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-020-00456-w",
+    "arxiv_id": null,
+    "title": "Peritoneal dissemination of breast cancer diagnosed by laparoscopy",
+    "authors": [
+      {
+        "name": "Tsuyoshi Nakagawa",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "Goshi Oda",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "Akifumi Kikuchi",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "Toshifumi Saito",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "Tomoyuki Fujioka",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "Kazunori Kubota",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "M. Mori",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "Iichiroh Onishi",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      },
+      {
+        "name": "Hiroyuki Uetake",
+        "department": null,
+        "institution": "Tokyo Medical and Dental University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Medicine",
+      "Laparoscopy",
+      "Breast cancer",
+      "Pathological",
+      "Radiology",
+      "Biopsy",
+      "Cancer",
+      "Lesion"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_0.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-0-387-35706-5_11",
+    "arxiv_id": null,
+    "title": "Monte-Carlo Go Developments",
+    "authors": [
+      {
+        "name": "Bruno Bouzy",
+        "department": null,
+        "institution": "Universit\u00e9 Paris Cit\u00e9",
+        "email": null
+      },
+      {
+        "name": "Bernard Helmstetter",
+        "department": null,
+        "institution": "Universit\u00e9 Paris 8",
+        "email": null
+      }
+    ],
+    "year": "2004",
+    "keywords": [
+      "Monte Carlo method",
+      "Monte Carlo tree search",
+      "Heuristic",
+      "Simulated annealing",
+      "Computer science",
+      "Pruning",
+      "Mathematical optimization",
+      "Algorithm"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_1.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-0-387-35562-7_23",
+    "arxiv_id": null,
+    "title": "Lsc\u2019s: Breathing Life Into Message Sequence Charts",
+    "authors": [
+      {
+        "name": "Werner Damm",
+        "department": null,
+        "institution": "Oldenburger Institut f\u00fcr Informatik",
+        "email": null
+      },
+      {
+        "name": "David Harel",
+        "department": null,
+        "institution": "Weizmann Institute of Science",
+        "email": null
+      }
+    ],
+    "year": "1999",
+    "keywords": [
+      "Liveness",
+      "Computer science",
+      "Sequence (biology)",
+      "Chart",
+      "Structuring",
+      "Programming language",
+      "Extension (predicate logic)",
+      "Object (grammar)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_2.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-015-0220-z",
+    "arxiv_id": null,
+    "title": "Huge polypoid endometriosis: report of a case and review of the literature",
+    "authors": [
+      {
+        "name": "Akiko Yamamoto",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Tomoka Usami",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Eiji Kondo",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Kazuyoshi Kato",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Teiichi Motoyama",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      }
+    ],
+    "year": "2015",
+    "keywords": [
+      "Endometriosis",
+      "Medicine",
+      "Differential diagnosis",
+      "Cyst",
+      "Biopsy",
+      "Gynecology",
+      "Pathology",
+      "Radiology"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_3.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-3-642-54239-8_16",
+    "arxiv_id": null,
+    "title": "About One-Sided One-Symbol Insertion-Deletion P Systems",
+    "authors": [
+      {
+        "name": "Sergiu Ivanov",
+        "department": null,
+        "institution": "Laboratoire d'Algorithmique, Complexit\u00e9 et Logique",
+        "email": null
+      },
+      {
+        "name": "Sergey Verlan",
+        "department": null,
+        "institution": "Academy of Sciences of Moldova",
+        "email": null
+      }
+    ],
+    "year": "2014",
+    "keywords": [
+      "Symbol (formal)",
+      "Completeness (order theory)",
+      "Computer science",
+      "Tree (set theory)",
+      "Context (archaeology)",
+      "Membrane computing",
+      "Algorithm",
+      "Computational complexity theory"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_4.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-3-032-06770-8_18",
+    "arxiv_id": null,
+    "title": "Handling Non-unitaries in\u00a0Quantum Circuit Equivalence Checking",
+    "authors": [
+      {
+        "name": "Lukas Burgholzer",
+        "department": null,
+        "institution": "Johannes Kepler University of Linz",
+        "email": null
+      },
+      {
+        "name": "Robert Wille",
+        "department": null,
+        "institution": "Technical University of Munich",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Electronic circuit",
+      "Quantum computer",
+      "Quantum circuit",
+      "Formal equivalence checking",
+      "Quantum",
+      "Equivalence (formal languages)",
+      "Unitary state"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_5.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-013-0082-1",
+    "arxiv_id": null,
+    "title": "A case of recurrent fallopian tube carcinoma in situ with para-aortic lymph node metastasis",
+    "authors": [
+      {
+        "name": "Hidetaka Nomura",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Akiko Abe",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Akiko Yamamoto",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Maki Matoda",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Kohei Omatsu",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Kazuyoshi Kato",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Kenji Umayahara",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      },
+      {
+        "name": "Reiko Furuta",
+        "department": null,
+        "institution": "Cancer Institute (WIA)",
+        "email": null
+      },
+      {
+        "name": "Nobuhiro Takeshima",
+        "department": null,
+        "institution": "The Cancer Institute Hospital",
+        "email": null
+      }
+    ],
+    "year": "2013",
+    "keywords": [
+      "Medicine",
+      "Metastasis",
+      "Radiology",
+      "Fallopian tube",
+      "Lymph node",
+      "Hysterectomy",
+      "Carcinoma",
+      "Adenocarcinoma"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_6.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-012-0022-5",
+    "arxiv_id": null,
+    "title": "Cancer risk and management in a woman with Peutz-Jeghers syndrome",
+    "authors": [
+      {
+        "name": "Koji Yasumoto",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Ayako Suzuki",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Noriomi Matsumura",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Tsukasa Baba",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Yoko Oiwa",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Shin\u2019ichi Miyamoto",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Minoru Matsuura",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Kazutaka Obama",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Aki Kido",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Shigeaki Umeoka",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Sachiko Minamiguchi",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Yoshiki Mikami",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Yumiko Yoshioka",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Kenzo Kosaka",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Masaki Mandai",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      },
+      {
+        "name": "Ikuo Konishi",
+        "department": null,
+        "institution": "Kyoto University Hospital",
+        "email": null
+      }
+    ],
+    "year": "2012",
+    "keywords": [
+      "Medicine",
+      "Peutz\u2013Jeghers syndrome",
+      "STK11",
+      "Hamartoma",
+      "Adenocarcinoma",
+      "Cancer",
+      "Gynecology",
+      "Pathology"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_7.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-025-00747-0",
+    "arxiv_id": null,
+    "title": "Primary adenocarcinoma of the lacrimal sac with 5-year recurrence-free survival after radiation therapy alone: a case report",
+    "authors": [
+      {
+        "name": "Daichi Takizawa",
+        "department": null,
+        "institution": "Hitachi General Hospital",
+        "email": null
+      },
+      {
+        "name": "Kayoko Ohnishi",
+        "department": null,
+        "institution": "International University of Health and Welfare",
+        "email": null
+      },
+      {
+        "name": "K. Hiratsuka",
+        "department": null,
+        "institution": "Hitachi General Hospital",
+        "email": null
+      },
+      {
+        "name": "Ryota Matsuoka",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Keiichiro Baba",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Masatoshi Nakamura",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Takashi Iizumi",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Kiyotaka Suzuki",
+        "department": null,
+        "institution": "Hitachi General Hospital",
+        "email": null
+      },
+      {
+        "name": "Masashi Mizumoto",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Hideyuki Sakurai",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      }
+    ],
+    "year": "2025",
+    "keywords": [
+      "Medicine",
+      "Surgery",
+      "Radiation therapy",
+      "Lacrimal sac",
+      "Adenocarcinoma",
+      "Primary treatment",
+      "Lacrimal gland"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_8.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-0-387-35706-5_23",
+    "arxiv_id": null,
+    "title": "Solving the Oshi-Zumo Game",
+    "authors": [
+      {
+        "name": "Michael Buro",
+        "department": null,
+        "institution": "University of Alberta",
+        "email": null
+      }
+    ],
+    "year": "2004",
+    "keywords": [
+      "Nash equilibrium",
+      "Mathematical economics",
+      "Computer science",
+      "Game theory",
+      "Strategy"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_9.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-0-387-35706-5_24",
+    "arxiv_id": null,
+    "title": "New Games Related to Old and New Sequences",
+    "authors": [
+      {
+        "name": "Aviezri S. Fraenkel",
+        "department": null,
+        "institution": "Weizmann Institute of Science",
+        "email": null
+      }
+    ],
+    "year": "2004",
+    "keywords": [
+      "Subtraction",
+      "Class (philosophy)",
+      "Combinatorial game theory",
+      "Function (biology)",
+      "Mathematics",
+      "Sample (material)",
+      "Computer science",
+      "Mathematical economics"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_10.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s10107-013-0651-2",
+    "arxiv_id": null,
+    "title": "Preemptive and non-preemptive generalized min sum set cover",
+    "authors": [
+      {
+        "name": "Sungjin Im",
+        "department": null,
+        "institution": "Duke University",
+        "email": null
+      },
+      {
+        "name": "Maxim Sviridenko",
+        "department": null,
+        "institution": "University of Warwick",
+        "email": null
+      },
+      {
+        "name": "Ruben van der Zwaan",
+        "department": null,
+        "institution": "Maastricht University",
+        "email": null
+      }
+    ],
+    "year": "2013",
+    "keywords": [
+      "Mathematics",
+      "Linear programming relaxation",
+      "Set cover problem",
+      "Preemption",
+      "Combinatorics",
+      "Cover (algebra)",
+      "Approximation algorithm",
+      "Relaxation (psychology)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_11.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-012-0021-6",
+    "arxiv_id": null,
+    "title": "A case of female adnexal tumor of probable Wolffian origin: significance of MRI findings",
+    "authors": [
+      {
+        "name": "Taisuke Sato",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Seiji Isonishi",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Kanae Sasaki",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Eri Nozawa",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Takenori Maruta",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Yoichi Sato",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Asuka Morikawa",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Kazu Ueda",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Keitaro Suzuki",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Satomi Kitai",
+        "department": null,
+        "institution": "The Jikei University Hospital",
+        "email": null
+      },
+      {
+        "name": "Masaharu Fukunaga",
+        "department": null,
+        "institution": "Jikei University School of Medicine",
+        "email": null
+      },
+      {
+        "name": "Tadao Tanaka",
+        "department": null,
+        "institution": "The Jikei University Hospital",
+        "email": null
+      }
+    ],
+    "year": "2012",
+    "keywords": [
+      "Mesonephric duct",
+      "Adnexal Diseases",
+      "Broad ligament",
+      "Pathological",
+      "Duct (anatomy)",
+      "Pathology",
+      "Biology",
+      "Medicine"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_12.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-021-00530-x",
+    "arxiv_id": null,
+    "title": "Urachal mucinous cystic tumor of low malignant potential in a polymorbid female: a case report and review of the literature",
+    "authors": [
+      {
+        "name": "Benjamin N. Schmeusser",
+        "department": null,
+        "institution": "Wright State University",
+        "email": null
+      },
+      {
+        "name": "Joseph Wiedemer",
+        "department": null,
+        "institution": "Wright State University",
+        "email": null
+      },
+      {
+        "name": "Dana R. Obery",
+        "department": null,
+        "institution": "Wright State University",
+        "email": null
+      },
+      {
+        "name": "Kaila Buckley",
+        "department": null,
+        "institution": "Riverside Methodist Hospital",
+        "email": null
+      },
+      {
+        "name": "Michael Yu",
+        "department": null,
+        "institution": "OhioHealth",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Mucinous Tumor",
+      "Medicine",
+      "General surgery",
+      "Pathology"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_13.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-024-00676-4",
+    "arxiv_id": null,
+    "title": "PD-L1 expression in keratinocyte and infiltration of CD4\u2009+\u2009T lymphocyte can predict a severe type of erythema multiforme major induced by the anti-PD-1 antibody, pembrolizumab",
+    "authors": [
+      {
+        "name": "Ryohei Kadoi",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Taichi Yoshida",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Mai Noto",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Aya Toyoshima",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Sino Fujii",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Koji Fukuda",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Kazuhiro Shimazu",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Daiki Taguchi",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Hanae Shinozaki",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Naoki Kodama",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Michihiro Kono",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      },
+      {
+        "name": "Hiroshi Nanjyo",
+        "department": null,
+        "institution": "Akita University Hospital",
+        "email": null
+      },
+      {
+        "name": "Hiroyuki Shibata",
+        "department": null,
+        "institution": "Akita University",
+        "email": null
+      }
+    ],
+    "year": "2024",
+    "keywords": [
+      "Medicine",
+      "Erythema",
+      "Pembrolizumab",
+      "Erythema multiforme",
+      "Skin biopsy",
+      "Dermatology",
+      "Methylprednisolone",
+      "Prednisolone"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_14.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-011-0009-7",
+    "arxiv_id": null,
+    "title": "Reactivation of cytomegalovirus following treatment of malignant glioma with temozolomide",
+    "authors": [
+      {
+        "name": "Yoshiko Okita",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      },
+      {
+        "name": "Yoshitaka Narita",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      },
+      {
+        "name": "Yasuji Miyakita",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      },
+      {
+        "name": "Makoto Ohno",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      },
+      {
+        "name": "Kohki Aihara",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      },
+      {
+        "name": "Shin\u2010ichiro Mori",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      },
+      {
+        "name": "Takamasa Kayama",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      },
+      {
+        "name": "Soichiro Shibui",
+        "department": null,
+        "institution": "National Cancer Center",
+        "email": null
+      }
+    ],
+    "year": "2011",
+    "keywords": [
+      "Medicine",
+      "Lymphocytopenia",
+      "Temozolomide",
+      "Pneumonia",
+      "Ganciclovir",
+      "Cytomegalovirus",
+      "Glioma",
+      "Internal medicine"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_15.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-022-00559-6",
+    "arxiv_id": null,
+    "title": "A rapid and durable response to larotrectinib in a patient with NTRK fusion-positive secretory carcinoma originating from the external auditory canal",
+    "authors": [
+      {
+        "name": "Yuichi Ando",
+        "department": null,
+        "institution": "Nagoya University Hospital",
+        "email": null
+      },
+      {
+        "name": "Sachi Morita",
+        "department": null,
+        "institution": "Nagoya University Hospital",
+        "email": null
+      },
+      {
+        "name": "Tomoya Shimokata",
+        "department": null,
+        "institution": "Nagoya University Hospital",
+        "email": null
+      },
+      {
+        "name": "Toyonori Tsuzuki",
+        "department": null,
+        "institution": "Aichi Medical University",
+        "email": null
+      },
+      {
+        "name": "Shigeru Inafuku",
+        "department": null,
+        "institution": "Aichi Medical University",
+        "email": null
+      },
+      {
+        "name": "Kenichiro Iwami",
+        "department": null,
+        "institution": "Aichi Medical University",
+        "email": null
+      },
+      {
+        "name": "Nicoletta Brega",
+        "department": null,
+        "institution": "Bayer (Italy)",
+        "email": null
+      },
+      {
+        "name": "Takashi Akagawa",
+        "department": null,
+        "institution": "Asahi Breweries (Japan)",
+        "email": null
+      },
+      {
+        "name": "Toshiaki Tsujino",
+        "department": null,
+        "institution": "Asahi Breweries (Japan)",
+        "email": null
+      },
+      {
+        "name": "Tetsuya Ogawa",
+        "department": null,
+        "institution": "Aichi Medical University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Trk receptor",
+      "Medicine",
+      "Malignancy",
+      "Tropomyosin receptor kinase A",
+      "Tropomyosin receptor kinase C",
+      "Medulla oblongata",
+      "Internal medicine",
+      "Neurotrophin"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_16.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-023-00648-0",
+    "arxiv_id": null,
+    "title": "Primary signet-ring cell carcinoma of the bladder treated with laparoscopic radical cystectomy: a case report",
+    "authors": [
+      {
+        "name": "Yuta Mukae",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Kojiro Ohba",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Kyohei Araki",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Yuichiro Nakamura",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Hiromi Nakanishi",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Takuji Yasuda",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Kensuke Mitsunari",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Tomohiro Matsuo",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Yasushi Mochizuki",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      },
+      {
+        "name": "Junji Irie",
+        "department": null,
+        "institution": "Nagasaki Medical Center",
+        "email": null
+      },
+      {
+        "name": "Ryoichi Imamura",
+        "department": null,
+        "institution": "Nagasaki University Hospital",
+        "email": null
+      }
+    ],
+    "year": "2024",
+    "keywords": [
+      "Medicine",
+      "Cystectomy",
+      "Gemcitabine",
+      "Signet ring cell carcinoma",
+      "Signet ring cell",
+      "Bladder cancer",
+      "Carcinoma",
+      "Urology"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_17.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-024-00678-2",
+    "arxiv_id": null,
+    "title": "BRAF-mutant microsatellite-stable rectal cancer with acquired KRAS mutation leading to drug resistance in liver metastasis",
+    "authors": [
+      {
+        "name": "Kunitoshi Shigeyasu",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Hideki Yamamoto",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Toshiaki Takahashi",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Kazuya Moriwake",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Masashi Kayano",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Sho Takeda",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Yuki Matsumi",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Yuzo Umeda",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Yoshitaka Kondo",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Fuminori Teraishi",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Kazuya Yasui",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Tomokazu Fuji",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Shunsuke Kagawa",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      },
+      {
+        "name": "Toshiyoshi Fujiwara",
+        "department": null,
+        "institution": "Okayama University",
+        "email": null
+      }
+    ],
+    "year": "2024",
+    "keywords": [
+      "KRAS",
+      "Colorectal cancer",
+      "Metastasis",
+      "Mutant",
+      "Microsatellite",
+      "Drug resistance",
+      "Mutation",
+      "Cancer research"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_18.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-016-0271-9",
+    "arxiv_id": null,
+    "title": "Possible de novo clear cell carcinoma in the contralateral ovary 9\u00a0years after fertility-sparing surgery for Stage IA clear cell ovarian carcinoma",
+    "authors": [
+      {
+        "name": "Keiko Nishida",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Yuri Tenjimbayashi",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Nobutaka Tasaka",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Ayumi Shikama",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "M. Sakuraiv",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Sari Nakao",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Hiroyuki Ochi",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Takeo Minaguchi",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      },
+      {
+        "name": "Toyomi Satoh",
+        "department": null,
+        "institution": "University of Tsukuba",
+        "email": null
+      }
+    ],
+    "year": "2016",
+    "keywords": [
+      "Ovary",
+      "Medicine",
+      "Stage (stratigraphy)",
+      "Clear cell carcinoma",
+      "Carcinoma",
+      "Endometriosis",
+      "Fertility",
+      "Gynecology"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_19.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-025-00761-2",
+    "arxiv_id": null,
+    "title": "Two Japanese patients with metastatic castration-resistant prostate cancer with somatic biallelic BRCA2 loss and RB1 splice site variant or loss who responded to Poly-ADP-ribose polymerase inhibitor: A case report",
+    "authors": [
+      {
+        "name": "Shiori Miyachi",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Takeshi Sasaki",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Momoko Kato",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Katsunori Uchida",
+        "department": null,
+        "institution": "Kansai Medical University",
+        "email": null
+      },
+      {
+        "name": "Shunsuke Owa",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Taketomo Nishikawa",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Shinichiro Higashi",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Hiroto Yuasa",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Kouhei Nishikawa",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Yoshinaga Okugawa",
+        "department": null,
+        "institution": "Mie University Hospital",
+        "email": null
+      },
+      {
+        "name": "Masatoshi Watanabe",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      },
+      {
+        "name": "Takahiro Inoue",
+        "department": null,
+        "institution": "Mie University",
+        "email": null
+      }
+    ],
+    "year": "2025",
+    "keywords": [
+      "Medicine",
+      "Prostate cancer",
+      "Somatic cell",
+      "PARP inhibitor",
+      "Internal medicine",
+      "Cancer research",
+      "Cancer",
+      "Poly ADP ribose polymerase"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_20.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-025-00843-1",
+    "arxiv_id": null,
+    "title": "Three cases of esophagorespiratory fistula following neoadjuvant DCF therapy for resectable esophageal cancer",
+    "authors": [
+      {
+        "name": "Asuma Ide",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Hironori Tsujimoto",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Seiichiro Fujishima",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Risa Kariya",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Naoyuki Uehata",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Takafumi Suzuki",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Hiroki Tashiro",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Keita Kouzu",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Yoshihisa Yaguchi",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      },
+      {
+        "name": "Hideki Ueno",
+        "department": null,
+        "institution": "National Defense Medical College",
+        "email": null
+      }
+    ],
+    "year": "2026",
+    "keywords": [
+      "Medicine",
+      "Docetaxel",
+      "Esophageal cancer",
+      "Fistula",
+      "Surgery",
+      "Pneumothorax",
+      "Radiology",
+      "Stent"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_21.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/s13691-025-00833-3",
+    "arxiv_id": null,
+    "title": "Pembrolizumab for high TMB castration-resistant prostate cancer: A precision medicine case report",
+    "authors": [
+      {
+        "name": "Vincenzo Terrano",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      },
+      {
+        "name": "Erica Perri",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      },
+      {
+        "name": "Chiara Cioffo",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      },
+      {
+        "name": "Giusi Mastroianni",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      },
+      {
+        "name": "Maria Antonina Palumbo",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      },
+      {
+        "name": "F. Ciardiello",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      },
+      {
+        "name": "Teresa Troiani",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      },
+      {
+        "name": "Stefania Napolitano",
+        "department": null,
+        "institution": "University of Campania \"Luigi Vanvitelli\"",
+        "email": null
+      }
+    ],
+    "year": "2026",
+    "keywords": [
+      "Medicine",
+      "Pembrolizumab",
+      "Oncology",
+      "Precision medicine",
+      "Prostate cancer",
+      "Internal medicine",
+      "Prostate",
+      "Immunotherapy"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_22.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-0-387-35706-5_13",
+    "arxiv_id": null,
+    "title": "Building the Checkers 10-Piece Endgame Databases",
+    "authors": [
+      {
+        "name": "Jonathan Schaeffer",
+        "department": null,
+        "institution": "University of Alberta",
+        "email": null
+      },
+      {
+        "name": "Yngvi Bj\u00f6rnsson",
+        "department": null,
+        "institution": "University of Alberta",
+        "email": null
+      },
+      {
+        "name": "Neil Burch",
+        "department": null,
+        "institution": "University of Alberta",
+        "email": null
+      },
+      {
+        "name": "Robert W. Lake",
+        "department": null,
+        "institution": "University of Alberta",
+        "email": null
+      },
+      {
+        "name": "P. Lu",
+        "department": null,
+        "institution": "University of Alberta",
+        "email": null
+      },
+      {
+        "name": "Steve Sutphen",
+        "department": null,
+        "institution": "University of Alberta",
+        "email": null
+      }
+    ],
+    "year": "2004",
+    "keywords": [
+      "Chess endgame",
+      "Database",
+      "nobody",
+      "Computer science"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_23.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1007/978-1-59745-320-2",
+    "arxiv_id": null,
+    "title": "Nutrition and Gastrointestinal Disease",
+    "authors": [
+      {
+        "name": "Mark H. DeLegge",
+        "department": null,
+        "institution": "Medical University of South Carolina",
+        "email": null
+      }
+    ],
+    "year": "2007",
+    "keywords": [
+      "Gastrointestinal disease",
+      "Disease",
+      "Medicine"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "springer_24.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.ijthermalsci.2025.110463",
+    "arxiv_id": null,
+    "title": "A Comprehensive Investigation Of Shell And Tube Heat Exchangers Based On Porous Baffle Design And Multi-Objective Parameter Optimization",
+    "authors": [
+      {
+        "name": "Bo Tian",
+        "department": null,
+        "institution": "Huazhong University of Science and Technology",
+        "email": null
+      },
+      {
+        "name": "Ningbo Wang",
+        "department": null,
+        "institution": "Huazhong University of Science and Technology",
+        "email": null
+      },
+      {
+        "name": "Lu Liu",
+        "department": null,
+        "institution": "Environmental Protection Engineering (Greece)",
+        "email": null
+      },
+      {
+        "name": "Peng Peng",
+        "department": null,
+        "institution": "Huazhong University of Science and Technology",
+        "email": null
+      },
+      {
+        "name": "Yanhua Guo",
+        "department": null,
+        "institution": "Huazhong University of Science and Technology",
+        "email": null
+      },
+      {
+        "name": "Li Liu",
+        "department": null,
+        "institution": "Environmental Protection Engineering (Greece)",
+        "email": null
+      },
+      {
+        "name": "Shuangquan Shao",
+        "department": null,
+        "institution": "Huazhong University of Science and Technology",
+        "email": null
+      }
+    ],
+    "year": "2025",
+    "keywords": [
+      "Baffle",
+      "Materials science",
+      "Pressure drop",
+      "Heat transfer",
+      "Mechanics",
+      "Heat exchanger",
+      "Shell and tube heat exchanger",
+      "Porosity"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_0.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.dam.2015.07.004",
+    "arxiv_id": null,
+    "title": "Trichotomy for integer linear systems based on their sign patterns",
+    "authors": [
+      {
+        "name": "Kei Kimura",
+        "department": null,
+        "institution": "Toyohashi University of Technology",
+        "email": null
+      },
+      {
+        "name": "Kazuhisa Makino",
+        "department": null,
+        "institution": "Kyoto University",
+        "email": null
+      }
+    ],
+    "year": "2015",
+    "keywords": [
+      "Trichotomy (philosophy)",
+      "Mathematics",
+      "Integer (computer science)",
+      "Sign (mathematics)",
+      "Combinatorics",
+      "Discrete mathematics",
+      "Integer matrix"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_1.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.artint.2017.12.006",
+    "arxiv_id": null,
+    "title": "The Complexity Landscape of Decompositional Parameters for ILP",
+    "authors": [
+      {
+        "name": "Robert Ganian",
+        "department": null,
+        "institution": "TU Wien",
+        "email": null
+      },
+      {
+        "name": "Sebastian Ordyniak",
+        "department": null,
+        "institution": "TU Wien",
+        "email": null
+      }
+    ],
+    "year": "2016",
+    "keywords": [
+      "Parameterized complexity",
+      "Integer programming",
+      "Matching (statistics)",
+      "Constraint (computer-aided design)",
+      "Treewidth",
+      "Range (aeronautics)",
+      "Matrix (chemical analysis)",
+      "Mathematics"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_2.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.artint.2021.103488",
+    "arxiv_id": null,
+    "title": "Peeking Behind the Ordinal Curtain: Improving Distortion via Cardinal Queries",
+    "authors": [
+      {
+        "name": "Georgios Amanatidis",
+        "department": null,
+        "institution": "University of Essex",
+        "email": null
+      },
+      {
+        "name": "Georgios Birmpas",
+        "department": null,
+        "institution": "Sapienza University of Rome",
+        "email": null
+      },
+      {
+        "name": "Aris Filos-Ratsikas",
+        "department": null,
+        "institution": "University of Liverpool",
+        "email": null
+      },
+      {
+        "name": "Alexandros A. Voudouris",
+        "department": null,
+        "institution": "University of Essex",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Distortion (music)",
+      "Social choice theory",
+      "Core (optical fiber)",
+      "Mathematical economics",
+      "Inefficiency",
+      "Computer science",
+      "Variety (cybernetics)",
+      "Mathematics"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_3.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.artint.2024.104178",
+    "arxiv_id": null,
+    "title": "Truthful Aggregation of Budget Proposals with Proportionality Guarantees",
+    "authors": [
+      {
+        "name": "Ioannis Caragiannis",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "George Christodoulou",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Nicos Protopapas",
+        "department": null,
+        "institution": null,
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Impossibility",
+      "Proportionality (law)",
+      "Computer science",
+      "Mechanism (biology)",
+      "Class (philosophy)",
+      "Imaging phantom",
+      "Mechanism design",
+      "Budget constraint"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_4.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.artint.2018.11.001",
+    "arxiv_id": null,
+    "title": "Optimizing Positional Scoring Rules for Rank Aggregation",
+    "authors": [
+      {
+        "name": "Ioannis Caragiannis",
+        "department": null,
+        "institution": "University of Patras",
+        "email": null
+      },
+      {
+        "name": "Xenophon Chatzigeorgiou",
+        "department": null,
+        "institution": "University of Patras",
+        "email": null
+      },
+      {
+        "name": "George A. Krimpas",
+        "department": null,
+        "institution": "University of Patras",
+        "email": null
+      },
+      {
+        "name": "Alexandros A. Voudouris",
+        "department": null,
+        "institution": "University of Oxford",
+        "email": null
+      }
+    ],
+    "year": "2017",
+    "keywords": [
+      "Ranking (information retrieval)",
+      "Aggregate (composite)",
+      "Complement (music)",
+      "Rank (graph theory)",
+      "Exploit",
+      "Crowdsourcing",
+      "Computer science",
+      "Scoring rule"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_5.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.ic.2021.104772",
+    "arxiv_id": null,
+    "title": "The Opacity of Backbones",
+    "authors": [
+      {
+        "name": "Lane A. Hemaspaandra",
+        "department": null,
+        "institution": "University of Rochester",
+        "email": null
+      },
+      {
+        "name": "David E. Narv\u00e1ez",
+        "department": null,
+        "institution": "University of Rochester",
+        "email": null
+      }
+    ],
+    "year": "2017",
+    "keywords": [
+      "Factoring",
+      "Integer (computer science)",
+      "Object (grammar)",
+      "Boolean data type",
+      "Mathematics",
+      "Existential quantification",
+      "Discrete mathematics",
+      "Combinatorics"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_6.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1016/j.nuclphysa.2020.121731",
+    "arxiv_id": null,
+    "title": "Evidence for top quark production in nucleus-nucleus collisions",
+    "authors": [
+      {
+        "name": "G. Krintiras",
+        "department": null,
+        "institution": "University of Kansas",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Physics",
+      "Particle physics",
+      "Quark",
+      "Top quark",
+      "Production (economics)",
+      "Bar (unit)",
+      "Quantum chromodynamics",
+      "Lepton"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "elsevier_7.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3485447.3512217",
+    "arxiv_id": null,
+    "title": "ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification",
+    "authors": [
+      {
+        "name": "Xinjie Lin",
+        "department": null,
+        "institution": "Institute of Information Engineering",
+        "email": null
+      },
+      {
+        "name": "Gang Xiong",
+        "department": null,
+        "institution": "Institute of Information Engineering",
+        "email": null
+      },
+      {
+        "name": "Gaopeng Gou",
+        "department": null,
+        "institution": "Institute of Information Engineering",
+        "email": null
+      },
+      {
+        "name": "Zhen Li",
+        "department": null,
+        "institution": "Institute of Information Engineering",
+        "email": null
+      },
+      {
+        "name": "Junzheng Shi",
+        "department": null,
+        "institution": "Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Jing Yu",
+        "department": null,
+        "institution": "Institute of Information Engineering",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Encryption",
+      "Traffic classification",
+      "Encoder",
+      "Artificial intelligence",
+      "Machine learning",
+      "Data mining"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_0.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3491102.3502030",
+    "arxiv_id": null,
+    "title": "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities",
+    "authors": [
+      {
+        "name": "Mina Lee",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      },
+      {
+        "name": "Percy Liang",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      },
+      {
+        "name": "Qian Yang",
+        "department": null,
+        "institution": "Cornell University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "GRASP",
+      "Generative grammar",
+      "Context (archaeology)",
+      "Argumentative",
+      "Human\u2013computer interaction",
+      "Ideation",
+      "Interface (matter)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_1.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3531146.3534639",
+    "arxiv_id": null,
+    "title": "A Review of Taxonomies of Explainable Artificial Intelligence (XAI) Methods",
+    "authors": [
+      {
+        "name": "Timo Speith",
+        "department": null,
+        "institution": "Saarland University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Taxonomy (biology)",
+      "Field (mathematics)",
+      "Construct (python library)",
+      "Data science",
+      "Management science",
+      "Artificial intelligence"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_2.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3534678.3539396",
+    "arxiv_id": null,
+    "title": "Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting",
+    "authors": [
+      {
+        "name": "Zezhi Shao",
+        "department": null,
+        "institution": "Institute of Computing Technology",
+        "email": null
+      },
+      {
+        "name": "Zhao Zhang",
+        "department": null,
+        "institution": "Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Fei Wang",
+        "department": null,
+        "institution": "Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Yongjun Xu",
+        "department": null,
+        "institution": "Institute of Computing Technology",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Time series",
+      "Scalability",
+      "Multivariate statistics",
+      "Graph",
+      "Series (stratigraphy)",
+      "Temporal database",
+      "Artificial intelligence"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_3.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3534678.3539253",
+    "arxiv_id": null,
+    "title": "Towards Representation Alignment and Uniformity in Collaborative Filtering",
+    "authors": [
+      {
+        "name": "Chenyang Wang",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Yuanqing Yu",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Weizhi Ma",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Min Zhang",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Chong Chen",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Yiqun Liu",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Shaoping Ma",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Representation (politics)",
+      "Collaborative filtering",
+      "Information retrieval"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_4.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3510003.3510222",
+    "arxiv_id": null,
+    "title": "Neural program repair with execution-based backpropagation",
+    "authors": [
+      {
+        "name": "He Ye",
+        "department": null,
+        "institution": "KTH Royal Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Mat\u00edas Mart\u00ednez",
+        "department": null,
+        "institution": "KTH Royal Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Martin Monperrus",
+        "department": null,
+        "institution": "KTH Royal Institute of Technology",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Overfitting",
+      "Novelty",
+      "Artificial neural network",
+      "Compiler",
+      "Artificial intelligence",
+      "Function (biology)",
+      "Backpropagation"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_5.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3485447.3512226",
+    "arxiv_id": null,
+    "title": "TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection",
+    "authors": [
+      {
+        "name": "Sijia Li",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Gaopeng Gou",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Chang Liu",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Chengshang Hou",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Zhenzhen Li",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Gang Xiong",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Phishing",
+      "Computer science",
+      "Database transaction",
+      "Representation (politics)",
+      "Transaction data",
+      "Graph",
+      "Enhanced Data Rates for GSM Evolution",
+      "Node (physics)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_6.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3635636.3656204",
+    "arxiv_id": null,
+    "title": "Homogenization Effects of Large Language Models on Human Creative Ideation",
+    "authors": [
+      {
+        "name": "Barrett R. Anderson",
+        "department": null,
+        "institution": "Film Independent",
+        "email": null
+      },
+      {
+        "name": "Jash Hemant Shah",
+        "department": null,
+        "institution": "Santa Clara University",
+        "email": null
+      },
+      {
+        "name": "Max Kreminski",
+        "department": null,
+        "institution": "Santa Clara University",
+        "email": null
+      }
+    ],
+    "year": "2024",
+    "keywords": [
+      "Homogenization (climate)",
+      "Ideation",
+      "Psychology",
+      "Econometrics",
+      "Cognitive psychology",
+      "Linguistics",
+      "Computer science"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_7.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3491102.3502004",
+    "arxiv_id": null,
+    "title": "Jury Learning: Integrating Dissenting Voices into Machine Learning Models",
+    "authors": [
+      {
+        "name": "Mitchell Gordon",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      },
+      {
+        "name": "Michelle S. Lam",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      },
+      {
+        "name": "Joon Sung Park",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      },
+      {
+        "name": "Kayur Patel",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Jeffrey T. Hancock",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      },
+      {
+        "name": "Tatsunori Hashimoto",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      },
+      {
+        "name": "Michael S. Bernstein",
+        "department": null,
+        "institution": "Stanford University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Dissenting opinion",
+      "Computer science",
+      "Jury",
+      "Artificial intelligence"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_8.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3485447.3512173",
+    "arxiv_id": null,
+    "title": "EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks",
+    "authors": [
+      {
+        "name": "Yushun Dong",
+        "department": null,
+        "institution": "University of Virginia",
+        "email": null
+      },
+      {
+        "name": "Ninghao Liu",
+        "department": null,
+        "institution": "University of Georgia",
+        "email": null
+      },
+      {
+        "name": "Brian Jalaian",
+        "department": null,
+        "institution": "DEVCOM Army Research Laboratory",
+        "email": null
+      },
+      {
+        "name": "Jundong Li",
+        "department": null,
+        "institution": "University of Virginia",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Debiasing",
+      "Data mining",
+      "Graph",
+      "Machine learning",
+      "Artificial intelligence",
+      "Data science"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_9.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3531146.3533157",
+    "arxiv_id": null,
+    "title": "The Forgotten Margins of AI Ethics",
+    "authors": [
+      {
+        "name": "Abeba Birhane",
+        "department": null,
+        "institution": "Mozilla Foundation",
+        "email": null
+      },
+      {
+        "name": "Elayne Ruane",
+        "department": null,
+        "institution": "University College Dublin",
+        "email": null
+      },
+      {
+        "name": "Thomas Laurent",
+        "department": null,
+        "institution": "University College Dublin",
+        "email": null
+      },
+      {
+        "name": "Matthew S. Brown",
+        "department": null,
+        "institution": "Bucknell University",
+        "email": null
+      },
+      {
+        "name": "Johnathan Flowers",
+        "department": null,
+        "institution": "Worcester State University",
+        "email": null
+      },
+      {
+        "name": "Anthony Ventresque",
+        "department": null,
+        "institution": "University College Dublin",
+        "email": null
+      },
+      {
+        "name": "Christopher L. Dancy",
+        "department": null,
+        "institution": "Pennsylvania State University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_10.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3485447.3512098",
+    "arxiv_id": null,
+    "title": "Disentangling Long and Short-Term Interests for Recommendation",
+    "authors": [
+      {
+        "name": "Yu Zheng",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Chen Gao",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Jianxin Chang",
+        "department": null,
+        "institution": "Kuaishou (China)",
+        "email": null
+      },
+      {
+        "name": "Yanan Niu",
+        "department": null,
+        "institution": "Kuaishou (China)",
+        "email": null
+      },
+      {
+        "name": "Yang Song",
+        "department": null,
+        "institution": "Kuaishou (China)",
+        "email": null
+      },
+      {
+        "name": "Depeng Jin",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      },
+      {
+        "name": "Yong Li",
+        "department": null,
+        "institution": "Tsinghua University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Term (time)",
+      "Counterfactual thinking",
+      "Interpretability",
+      "Pairwise comparison",
+      "Information retrieval",
+      "Encoder",
+      "Similarity (geometry)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_11.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3511808.3557262",
+    "arxiv_id": null,
+    "title": "Contrastive Cross-Domain Sequential Recommendation",
+    "authors": [
+      {
+        "name": "Jiangxia Cao",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Xin Cong",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Jiawei Sheng",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Tingwen Liu",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Bin Wang",
+        "department": null,
+        "institution": null,
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Bottleneck",
+      "Computer science",
+      "Domain (mathematical analysis)",
+      "Sequence (biology)",
+      "Pipeline (software)",
+      "Preference",
+      "Key (lock)",
+      "Artificial intelligence"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_12.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3534678.3539229",
+    "arxiv_id": null,
+    "title": "CrossCBR",
+    "authors": [
+      {
+        "name": "Yunshan Ma",
+        "department": null,
+        "institution": "National University of Singapore",
+        "email": null
+      },
+      {
+        "name": "Yingzhi He",
+        "department": null,
+        "institution": "National University of Singapore",
+        "email": null
+      },
+      {
+        "name": "An Zhang",
+        "department": null,
+        "institution": "National University of Singapore",
+        "email": null
+      },
+      {
+        "name": "Xiang Wang",
+        "department": null,
+        "institution": "University of Science and Technology of China",
+        "email": null
+      },
+      {
+        "name": "Tat\u2010Seng Chua",
+        "department": null,
+        "institution": "National University of Singapore",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Bundle",
+      "Computer science",
+      "Margin (machine learning)",
+      "Graph",
+      "Set (abstract data type)",
+      "Information retrieval",
+      "Artificial intelligence",
+      "Theoretical computer science"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_13.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3510003.3510205",
+    "arxiv_id": null,
+    "title": "What makes a good commit message?",
+    "authors": [
+      {
+        "name": "Yingchen Tian",
+        "department": null,
+        "institution": "Beijing Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Yuxia Zhang",
+        "department": null,
+        "institution": "Beijing Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Klaas-Jan Stol",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      },
+      {
+        "name": "Lin Jiang",
+        "department": null,
+        "institution": "Beijing Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Hui Liu",
+        "department": null,
+        "institution": "Beijing Institute of Technology",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Commit",
+      "Computer science",
+      "Programming language"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_14.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3491102.3517716",
+    "arxiv_id": null,
+    "title": "A Systematic Review and Thematic Analysis of Community-Collaborative Approaches to Computing Research",
+    "authors": [
+      {
+        "name": "Ned Cooper",
+        "department": null,
+        "institution": "Australian National University",
+        "email": null
+      },
+      {
+        "name": "Tiffanie N. Horne",
+        "department": null,
+        "institution": "Google (United States)",
+        "email": null
+      },
+      {
+        "name": "Gillian R. Hayes",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      },
+      {
+        "name": "Courtney Heldreth",
+        "department": null,
+        "institution": "Google (United States)",
+        "email": null
+      },
+      {
+        "name": "Michal Lahav",
+        "department": null,
+        "institution": "Google (United States)",
+        "email": null
+      },
+      {
+        "name": "Jess Holbrook",
+        "department": null,
+        "institution": "Google (United States)",
+        "email": null
+      },
+      {
+        "name": "Lauren Wilcox",
+        "department": null,
+        "institution": "Google (United States)",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Thematic analysis",
+      "Participatory design",
+      "Systematic review",
+      "Knowledge management",
+      "Participatory action research",
+      "Field (mathematics)",
+      "Citizen journalism",
+      "Thematic map"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_15.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3531146.3533113",
+    "arxiv_id": null,
+    "title": "Exploring How Machine Learning Practitioners (Try To) Use Fairness Toolkits",
+    "authors": [
+      {
+        "name": "Wesley Hanwen Deng",
+        "department": null,
+        "institution": "Carnegie Mellon University",
+        "email": null
+      },
+      {
+        "name": "Manish Nagireddy",
+        "department": null,
+        "institution": "Carnegie Mellon University",
+        "email": null
+      },
+      {
+        "name": "Michelle Seng Ah Lee",
+        "department": null,
+        "institution": "University of Cambridge",
+        "email": null
+      },
+      {
+        "name": "Jatinder Singh",
+        "department": null,
+        "institution": "University of Cambridge",
+        "email": null
+      },
+      {
+        "name": "Zhiwei Steven Wu",
+        "department": null,
+        "institution": "Carnegie Mellon University",
+        "email": null
+      },
+      {
+        "name": "Kenneth Holstein",
+        "department": null,
+        "institution": "Carnegie Mellon University",
+        "email": null
+      },
+      {
+        "name": "Haiyi Zhu",
+        "department": null,
+        "institution": "Carnegie Mellon University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Generality",
+      "Computer science",
+      "Work (physics)",
+      "Empirical research",
+      "Knowledge management",
+      "Resource (disambiguation)",
+      "Human\u2013computer interaction",
+      "Psychology"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_16.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3488560.3498451",
+    "arxiv_id": null,
+    "title": "EvoKG",
+    "authors": [
+      {
+        "name": "Namyong Park",
+        "department": null,
+        "institution": "Carnegie Mellon University",
+        "email": null
+      },
+      {
+        "name": "Fu\u2010Chen Liu",
+        "department": null,
+        "institution": "Microsoft (United States)",
+        "email": null
+      },
+      {
+        "name": "Purvanshi Mehta",
+        "department": null,
+        "institution": "Microsoft (United States)",
+        "email": null
+      },
+      {
+        "name": "Dana Cristofor",
+        "department": null,
+        "institution": "Microsoft (United States)",
+        "email": null
+      },
+      {
+        "name": "Christos Faloutsos",
+        "department": null,
+        "institution": "Carnegie Mellon University",
+        "email": null
+      },
+      {
+        "name": "Yuxiao Dong",
+        "department": null,
+        "institution": "Microsoft (United States)",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Timestamp",
+      "Focus (optics)",
+      "Event (particle physics)",
+      "Artificial intelligence",
+      "Machine learning",
+      "Data mining"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_17.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3487553.3524238",
+    "arxiv_id": null,
+    "title": "From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer",
+    "authors": [
+      {
+        "name": "Xin Xie",
+        "department": null,
+        "institution": "Zhejiang University",
+        "email": null
+      },
+      {
+        "name": "Ningyu Zhang",
+        "department": null,
+        "institution": "Zhejiang University",
+        "email": null
+      },
+      {
+        "name": "Zhoubo Li",
+        "department": null,
+        "institution": "Zhejiang University",
+        "email": null
+      },
+      {
+        "name": "Shumin Deng",
+        "department": null,
+        "institution": "Zhejiang University",
+        "email": null
+      },
+      {
+        "name": "Hui Chen",
+        "department": null,
+        "institution": "Alibaba Group (China)",
+        "email": null
+      },
+      {
+        "name": "Feiyu Xiong",
+        "department": null,
+        "institution": "Alibaba Group (China)",
+        "email": null
+      },
+      {
+        "name": "Mosha Chen",
+        "department": null,
+        "institution": "Alibaba Group (China)",
+        "email": null
+      },
+      {
+        "name": "Huajun Chen",
+        "department": null,
+        "institution": "Alibaba Group (China)",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Inference",
+      "Transformer",
+      "Knowledge graph",
+      "Generative grammar",
+      "Graph",
+      "Artificial intelligence",
+      "Language model"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_18.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3531146.3533101",
+    "arxiv_id": null,
+    "title": "Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation",
+    "authors": [
+      {
+        "name": "Angelina Wang",
+        "department": null,
+        "institution": "Princeton University",
+        "email": null
+      },
+      {
+        "name": "V. Ramaswamy",
+        "department": null,
+        "institution": "Princeton University",
+        "email": null
+      },
+      {
+        "name": "Olga Russakovsky",
+        "department": null,
+        "institution": "Princeton University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Machine learning",
+      "Computer science",
+      "Artificial intelligence",
+      "Benchmarking",
+      "Intersectionality",
+      "Normative",
+      "Constructive",
+      "Empirical research"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_19.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3548606.3559341",
+    "arxiv_id": null,
+    "title": "Empirical Analysis of EIP-1559",
+    "authors": [
+      {
+        "name": "Yulin Liu",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Yuxuan Lu",
+        "department": null,
+        "institution": "Peking University",
+        "email": null
+      },
+      {
+        "name": "Kartik Nayak",
+        "department": null,
+        "institution": "Duke University",
+        "email": null
+      },
+      {
+        "name": "Fan Zhang",
+        "department": null,
+        "institution": "Yale University",
+        "email": null
+      },
+      {
+        "name": "Luyao Zhang",
+        "department": null,
+        "institution": "Duke Kunshan University",
+        "email": null
+      },
+      {
+        "name": "Yinhong Zhao",
+        "department": null,
+        "institution": "Duke University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Database transaction",
+      "Blockchain",
+      "Computer science",
+      "Protocol (science)",
+      "Empirical research",
+      "Computer security",
+      "Block (permutation group theory)",
+      "Price discovery"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_20.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3477495.3531816",
+    "arxiv_id": null,
+    "title": "Generalizing to the Future",
+    "authors": [
+      {
+        "name": "Yongchun Zhu",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Qiang Sheng",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Juan Cao",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Shuokai Li",
+        "department": null,
+        "institution": "University of Chinese Academy of Sciences",
+        "email": null
+      },
+      {
+        "name": "Danding Wang",
+        "department": null,
+        "institution": "Institute of Computing Technology",
+        "email": null
+      },
+      {
+        "name": "Fuzhen Zhuang",
+        "department": null,
+        "institution": "Beihang University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Debiasing",
+      "Computer science",
+      "Fake news",
+      "Inference",
+      "Generalization",
+      "Data science",
+      "Perspective (graphical)",
+      "Causal inference"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_21.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3510003.3510172",
+    "arxiv_id": null,
+    "title": "CodeFill",
+    "authors": [
+      {
+        "name": "Maliheh Izadi",
+        "department": null,
+        "institution": "Delft University of Technology",
+        "email": null
+      },
+      {
+        "name": "Roberta Gismondi",
+        "department": null,
+        "institution": "Delft University of Technology",
+        "email": null
+      },
+      {
+        "name": "Georgios Gousios",
+        "department": null,
+        "institution": "Delft University of Technology",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Computer science"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_22.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3491102.3501904",
+    "arxiv_id": null,
+    "title": "Enabling Hand Gesture Customization on Wrist-Worn Devices",
+    "authors": [
+      {
+        "name": "Xuhai Xu",
+        "department": null,
+        "institution": "University of Washington",
+        "email": null
+      },
+      {
+        "name": "Jun Gong",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Carolina Brum",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Lilian Liang",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Bongsoo Suh",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Shivam Kumar Gupta",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Yash Agarwal",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Laurence Lindsey",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Runchang Kang",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Behrooz Shahsavari",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Tu Dinh Nguyen",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Heriberto Nieto",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Scott E. Hudson",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Charlie Maalouf",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Jax Seyed Mousavi",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      },
+      {
+        "name": "Gierad Laput",
+        "department": null,
+        "institution": "Apple (United States)",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Gesture",
+      "Computer science",
+      "Usability",
+      "Personalization",
+      "Human\u2013computer interaction",
+      "Learnability",
+      "Gesture recognition",
+      "Accelerometer"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_23.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1145/3491101.3519772",
+    "arxiv_id": null,
+    "title": "Trust in Human-AI Interaction: Scoping Out Models, Measures, and Methods",
+    "authors": [
+      {
+        "name": "Takane Ueno",
+        "department": null,
+        "institution": "Tokyo Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Yuto Sawa",
+        "department": null,
+        "institution": "Tokyo Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Yeong\u2010Dae Kim",
+        "department": null,
+        "institution": "Tokyo Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Jacqueline Urakami",
+        "department": null,
+        "institution": "Tokyo Institute of Technology",
+        "email": null
+      },
+      {
+        "name": "Hiroki Oura",
+        "department": null,
+        "institution": "Tokyo University of Science",
+        "email": null
+      },
+      {
+        "name": "Katie Seaborn",
+        "department": null,
+        "institution": "Tokyo Institute of Technology",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Wizard of oz",
+      "Computer science",
+      "Strengths and weaknesses",
+      "Data science",
+      "Human\u2013robot interaction",
+      "Wizard",
+      "Work (physics)",
+      "Key (lock)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "acm_24.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/iemtronics51293.2020.9216386",
+    "arxiv_id": null,
+    "title": "An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network",
+    "authors": [
+      {
+        "name": "Mohammad Marufur Rahman",
+        "department": null,
+        "institution": "Khulna University of Engineering and Technology",
+        "email": null
+      },
+      {
+        "name": "Md. Motaleb Hossen Manik",
+        "department": null,
+        "institution": "Khulna University of Engineering and Technology",
+        "email": null
+      },
+      {
+        "name": "Md. Milon Islam",
+        "department": null,
+        "institution": "Khulna University of Engineering and Technology",
+        "email": null
+      },
+      {
+        "name": "Saifuddin Mahmud",
+        "department": null,
+        "institution": "Kent State University",
+        "email": null
+      },
+      {
+        "name": "Jong\u2010Hoon Kim",
+        "department": null,
+        "institution": "Kent State University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Coronavirus disease 2019 (COVID-19)",
+      "Pandemic",
+      "Computer science",
+      "Architecture",
+      "Limit (mathematics)",
+      "Deep learning",
+      "Artificial intelligence",
+      "Smart city"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_0.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/stc-csit.2018.8526665",
+    "arxiv_id": null,
+    "title": "Ministry of Education and Science of Ukraine",
+    "authors": [],
+    "year": "2018",
+    "keywords": [
+      "Christian ministry",
+      "Political science",
+      "Engineering ethics"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_1.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/i-smac49090.2020.9243379",
+    "arxiv_id": null,
+    "title": "Impact of COVID-19 on digital platforms and change in E-commerce shopping trends",
+    "authors": [
+      {
+        "name": "Bhavna Galhotra",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Ayushi Dewan",
+        "department": null,
+        "institution": "Guru Gobind Singh Indraprastha University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "E-commerce",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Business",
+      "Pandemic",
+      "Digital transformation",
+      "Process (computing)",
+      "Computer science",
+      "Digital goods"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_2.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/b-htc50970.2020.9297902",
+    "arxiv_id": null,
+    "title": "Real-time Face Mask and Social Distancing Violation Detection System using YOLO",
+    "authors": [
+      {
+        "name": "Krisha Bhambani",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Tanmay Jain",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Kavita Sultanpure",
+        "department": null,
+        "institution": null,
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Social distance",
+      "Robustness (evolution)",
+      "Computer science",
+      "Inference",
+      "Artificial intelligence",
+      "Computer vision",
+      "Object detection",
+      "Computer security"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_3.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icicv50876.2021.9388375",
+    "arxiv_id": null,
+    "title": "Face Mask Detection Using OpenCV",
+    "authors": [
+      {
+        "name": "Harish Adusumalli",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "D. Kalyani",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "R.Krishna Sri",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "M. Pratapteja",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Parachuri V Rao",
+        "department": null,
+        "institution": null,
+        "email": null
+      }
+    ],
+    "year": "2021",
+    "keywords": [
+      "Face (sociological concept)",
+      "Computer science",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Face masks",
+      "Face detection",
+      "Artificial intelligence",
+      "Pandemic",
+      "Computer vision"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_4.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/bigdata52589.2021.9671848",
+    "arxiv_id": null,
+    "title": "Spike2Vec: An Efficient and Scalable Embedding Approach for COVID-19 Spike Sequences",
+    "authors": [
+      {
+        "name": "Sarwan Ali",
+        "department": null,
+        "institution": "Georgia State University",
+        "email": null
+      },
+      {
+        "name": "Murray Patterson",
+        "department": null,
+        "institution": "Georgia State University",
+        "email": null
+      }
+    ],
+    "year": "2021",
+    "keywords": [
+      "Scalability",
+      "Subsequence",
+      "Computer science",
+      "Spike (software development)",
+      "Cluster analysis",
+      "Sequence (biology)",
+      "Big data",
+      "Genomics"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_5.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icccis51004.2021.9397196",
+    "arxiv_id": null,
+    "title": "Deep Neural Architecture for Face mask Detection on Simulated Masked Face Dataset against Covid-19 Pandemic",
+    "authors": [
+      {
+        "name": "Alok Negi",
+        "department": null,
+        "institution": "National Institute of Technology Srinagar",
+        "email": null
+      },
+      {
+        "name": "Krishan Kumar",
+        "department": null,
+        "institution": "National Institute of Technology Srinagar",
+        "email": null
+      },
+      {
+        "name": "Prachi Chauhan",
+        "department": null,
+        "institution": "Govind Ballabh Pant University of Agriculture and Technology",
+        "email": null
+      },
+      {
+        "name": "Ravindra Kumar Singh Rajput",
+        "department": null,
+        "institution": "Govind Ballabh Pant University of Agriculture and Technology",
+        "email": null
+      }
+    ],
+    "year": "2021",
+    "keywords": [
+      "Face shield",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Pandemic",
+      "Face (sociological concept)",
+      "Government (linguistics)",
+      "Computer science",
+      "Personal protective equipment",
+      "Deep learning"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_6.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/embc46164.2021.9630224",
+    "arxiv_id": null,
+    "title": "Personalized Stress Monitoring using Wearable Sensors in Everyday Settings",
+    "authors": [
+      {
+        "name": "Ali Tazarv",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      },
+      {
+        "name": "Sina Labbaf",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      },
+      {
+        "name": "Stephanie M. Reich",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      },
+      {
+        "name": "Nikil Dutt",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      },
+      {
+        "name": "Amir M. Rahmani",
+        "department": null,
+        "institution": "Institute for the Future",
+        "email": null
+      },
+      {
+        "name": "Marco Levorato",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      }
+    ],
+    "year": "2021",
+    "keywords": [
+      "Context (archaeology)",
+      "Photoplethysmogram",
+      "Wearable computer",
+      "Heart rate variability",
+      "Computer science",
+      "Stress (linguistics)",
+      "Wearable technology",
+      "Binary classification"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_7.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icccs49678.2020.9277077",
+    "arxiv_id": null,
+    "title": "COVID Detection from Chest X-rays with DeepLearning: CheXNet",
+    "authors": [
+      {
+        "name": "D. Haritha",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "M. Krishna Pranathi",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "M. Reethika",
+        "department": null,
+        "institution": null,
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Coronavirus disease 2019 (COVID-19)",
+      "Computer science",
+      "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "2019-20 coronavirus outbreak",
+      "Binary number",
+      "Artificial intelligence",
+      "Pandemic"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_8.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icpc2t53885.2022.9776739",
+    "arxiv_id": null,
+    "title": "Second International Conference on Power, Control and Computing Technologies (ICPC2T-2022)",
+    "authors": [],
+    "year": "2022",
+    "keywords": [
+      "Computer science",
+      "Control (management)",
+      "Power (physics)",
+      "Power control"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_9.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icic50835.2020.9288655",
+    "arxiv_id": null,
+    "title": "Analysis of User Reviews for the PeduliLindungi Application on Google Play Using the Support Vector Machine and Naive Bayes Algorithm Based on Particle Swarm Optimization",
+    "authors": [
+      {
+        "name": "Ali Mustopa",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Hermanto Hermanto",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Anna Anna",
+        "department": null,
+        "institution": "Universitas Muhammadiyah Pontianak",
+        "email": null
+      },
+      {
+        "name": "Eri Bayu Pratama",
+        "department": null,
+        "institution": "Universitas Muhammadiyah Pontianak",
+        "email": null
+      },
+      {
+        "name": "Ade Hendini",
+        "department": null,
+        "institution": "Universitas Muhammadiyah Pontianak",
+        "email": null
+      },
+      {
+        "name": "Deni Risdiansyah",
+        "department": null,
+        "institution": "Universitas Muhammadiyah Pontianak",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Particle swarm optimization",
+      "Naive Bayes classifier",
+      "Support vector machine",
+      "Computer science",
+      "Machine learning",
+      "Algorithm",
+      "Artificial intelligence",
+      "Bayes' theorem"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_10.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icesc48915.2020.9156031",
+    "arxiv_id": null,
+    "title": "Automated Identification of Disaster News for Crisis Management using Machine Learning and Natural Language Processing",
+    "authors": [
+      {
+        "name": "Jayashree Domala",
+        "department": null,
+        "institution": "St. Francis College",
+        "email": null
+      },
+      {
+        "name": "Manmohan Dogra",
+        "department": null,
+        "institution": "St. Francis College",
+        "email": null
+      },
+      {
+        "name": "Vinit Masrani",
+        "department": null,
+        "institution": "St. Francis College",
+        "email": null
+      },
+      {
+        "name": "Dwayne Fernandes",
+        "department": null,
+        "institution": "St. Francis College",
+        "email": null
+      },
+      {
+        "name": "Kevin D'Souza",
+        "department": null,
+        "institution": "St. Francis College",
+        "email": null
+      },
+      {
+        "name": "Delicia Fernandes",
+        "department": null,
+        "institution": "St. Francis College",
+        "email": null
+      },
+      {
+        "name": "Tejal Carvalho",
+        "department": null,
+        "institution": "St. Francis College",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "nobody",
+      "Computer science",
+      "Identification (biology)",
+      "Dilemma",
+      "Emergency management",
+      "Crisis management",
+      "Natural disaster",
+      "Natural language"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_11.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/embc46164.2021.9629485",
+    "arxiv_id": null,
+    "title": "Towards Deeper Neural Networks for Neonatal Seizure Detection",
+    "authors": [
+      {
+        "name": "Aengus Daly",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      },
+      {
+        "name": "Alison O'Shea",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "Gordon Lightbody",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      },
+      {
+        "name": "Andriy Temko",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      }
+    ],
+    "year": "2021",
+    "keywords": [
+      "Artificial intelligence",
+      "Deep learning",
+      "Computer science",
+      "Artificial neural network",
+      "Machine learning",
+      "Residual",
+      "Field (mathematics)",
+      "Deep neural networks"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_12.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/embc48229.2022.9871073",
+    "arxiv_id": null,
+    "title": "Design, Fabrication and Performance Assessment of Flexible, Microneedle\u2013Based Electrodes For ECG Signal Monitoring",
+    "authors": [
+      {
+        "name": "Om Prakash Singh",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      },
+      {
+        "name": "Andrea Bocchino",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      },
+      {
+        "name": "Theo Guillerm",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      },
+      {
+        "name": "Conor O\u2019Mahony",
+        "department": null,
+        "institution": "University College Cork",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Fabrication",
+      "Electrode",
+      "SIGNAL (programming language)",
+      "Computer science",
+      "Materials science",
+      "Electronic engineering"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_13.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/embc48229.2022.9871721",
+    "arxiv_id": null,
+    "title": "Decoding Neural Correlation of Language-Specific Imagined Speech using EEG Signals",
+    "authors": [
+      {
+        "name": "Keon-Woo Lee",
+        "department": null,
+        "institution": "Korea University",
+        "email": null
+      },
+      {
+        "name": "Dae-Hyeok Lee",
+        "department": null,
+        "institution": "Korea University",
+        "email": null
+      },
+      {
+        "name": "Sungjin Kim",
+        "department": null,
+        "institution": "Korea University",
+        "email": null
+      },
+      {
+        "name": "Seong\u2010Whan Lee",
+        "department": null,
+        "institution": "Korea University",
+        "email": null
+      }
+    ],
+    "year": "2022",
+    "keywords": [
+      "Speech recognition",
+      "Computer science",
+      "Electroencephalography",
+      "Aphasia",
+      "Brain\u2013computer interface",
+      "Decoding methods",
+      "Speech perception",
+      "Speech processing"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_14.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/embc46164.2021.9629687",
+    "arxiv_id": null,
+    "title": "A Deep Learning Approach to Predict Blood Pressure from PPG Signals",
+    "authors": [
+      {
+        "name": "Ali Tazarv",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      },
+      {
+        "name": "Marco Levorato",
+        "department": null,
+        "institution": "University of California, Irvine",
+        "email": null
+      }
+    ],
+    "year": "2021",
+    "keywords": [
+      "Photoplethysmogram",
+      "Blood pressure",
+      "Computer science",
+      "Mean absolute error",
+      "Artificial intelligence",
+      "Artificial neural network",
+      "Pattern recognition (psychology)",
+      "SIGNAL (programming language)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_15.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/incet49848.2020.9154088",
+    "arxiv_id": null,
+    "title": "Computer Vision and Radiology for COVID-19 Detection",
+    "authors": [
+      {
+        "name": "Ravneet Punia",
+        "department": null,
+        "institution": "Delhi Technological University",
+        "email": null
+      },
+      {
+        "name": "Lucky Kumar",
+        "department": null,
+        "institution": "Delhi Technological University",
+        "email": null
+      },
+      {
+        "name": "Mohd. Mujahid",
+        "department": null,
+        "institution": "Delhi Technological University",
+        "email": null
+      },
+      {
+        "name": "Rajesh Rohilla",
+        "department": null,
+        "institution": "Delhi Technological University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Coronavirus disease 2019 (COVID-19)",
+      "Economic shortage",
+      "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "2019-20 coronavirus outbreak",
+      "Computer science",
+      "Radiology",
+      "Medicine",
+      "Medical physics"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_16.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/i-smac49090.2020.9243444",
+    "arxiv_id": null,
+    "title": "Successful Role of Smart Technology to Combat COVID-19",
+    "authors": [
+      {
+        "name": "Amtul Waheed",
+        "department": null,
+        "institution": "Prince Sattam Bin Abdulaziz University",
+        "email": null
+      },
+      {
+        "name": "Jana Shafi",
+        "department": null,
+        "institution": "Prince Sattam Bin Abdulaziz University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Pandemic",
+      "Battle",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Isolation (microbiology)",
+      "Social distance",
+      "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "Computer science",
+      "Big data"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_17.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/asyu50717.2020.9259848",
+    "arxiv_id": null,
+    "title": "Weighted Cross-Entropy for Unbalanced Data with Application on COVID X-ray images",
+    "authors": [
+      {
+        "name": "\u00d6zg\u00fcr \u00d6zdemir",
+        "department": null,
+        "institution": "Istanbul Bilgi University",
+        "email": null
+      },
+      {
+        "name": "Elena Battini S\u00f6nmez",
+        "department": null,
+        "institution": "Istanbul Bilgi University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Coronavirus disease 2019 (COVID-19)",
+      "Computer science",
+      "Residual",
+      "Entropy (arrow of time)",
+      "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "Artificial intelligence",
+      "Test set",
+      "2019-20 coronavirus outbreak"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_18.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icirca48905.2020.9183347",
+    "arxiv_id": null,
+    "title": "Self-Activating Sanitizer With Battery Imposed System For Cleansing Hands",
+    "authors": [
+      {
+        "name": "M. Srihari",
+        "department": null,
+        "institution": null,
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Hand sanitizer",
+      "Battery (electricity)",
+      "Timer",
+      "Reducer",
+      "Computer science",
+      "Automotive engineering",
+      "Bluetooth",
+      "Standby power"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_19.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/worlds450073.2020.9210363",
+    "arxiv_id": null,
+    "title": "Cybersecurity Attacks on Smart Home During Covid-19 Pandemic",
+    "authors": [
+      {
+        "name": "Roberto Andrade",
+        "department": null,
+        "institution": "National Polytechnic School",
+        "email": null
+      },
+      {
+        "name": "Iv\u00e1n Ortiz-Garc\u00e9s",
+        "department": null,
+        "institution": "Universidad de Las Am\u00e9ricas",
+        "email": null
+      },
+      {
+        "name": "Mar\u00eda Cazares",
+        "department": null,
+        "institution": "Politecnica Salesiana University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Computer security",
+      "Exploit",
+      "Context (archaeology)",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Computer science",
+      "Telecommuting",
+      "Pandemic",
+      "Internet privacy"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_20.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/worlds450073.2020.9210389",
+    "arxiv_id": null,
+    "title": "IoT Based Low-Cost Robotic Agent Design for Disabled and Covid-19 Virus Affected People",
+    "authors": [
+      {
+        "name": "Tajim Md. Niamat Ullah Akhund",
+        "department": null,
+        "institution": "Jahangirnagar University",
+        "email": null
+      },
+      {
+        "name": "Watry Biswas Jyoty",
+        "department": null,
+        "institution": "BRAC University",
+        "email": null
+      },
+      {
+        "name": "Md. Abu Bakkar Siddik",
+        "department": null,
+        "institution": "Daffodil International University",
+        "email": null
+      },
+      {
+        "name": "Nishat Tasnim Newaz",
+        "department": null,
+        "institution": "Jahangirnagar University",
+        "email": null
+      },
+      {
+        "name": "S.K. Ayub Al Wahid",
+        "department": null,
+        "institution": "BRAC University",
+        "email": null
+      },
+      {
+        "name": "M. Mesbahuddin Sarker",
+        "department": null,
+        "institution": "Jahangirnagar University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Accelerometer",
+      "Gyroscope",
+      "Computer science",
+      "Gesture",
+      "Internet of Things",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Wireless",
+      "Disabled people"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_21.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/i-smac49090.2020.9243471",
+    "arxiv_id": null,
+    "title": "IoT Based COVID Preventive System for Work Environment",
+    "authors": [
+      {
+        "name": "Kaaviya Baskaran",
+        "department": null,
+        "institution": "Sri Venkateswara University",
+        "email": null
+      },
+      {
+        "name": "P. Baskaran",
+        "department": null,
+        "institution": "Sri Venkateswara University",
+        "email": null
+      },
+      {
+        "name": "V. Rajaram",
+        "department": null,
+        "institution": "Sri Venkateswara University",
+        "email": null
+      },
+      {
+        "name": "N. Kumaratharan",
+        "department": null,
+        "institution": "Sri Venkateswara University",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Upload",
+      "Bluetooth",
+      "Cloud computing",
+      "Computer science",
+      "Attendance",
+      "Computer security",
+      "Work (physics)",
+      "Livelihood"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_22.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/citsm50537.2020.9268920",
+    "arxiv_id": null,
+    "title": "Clustering and Correlation Methods for Predicting Coronavirus COVID-19 Risk Analysis in Pandemic Countries",
+    "authors": [
+      {
+        "name": "Rahmad Kurniawan",
+        "department": null,
+        "institution": "Universitas Islam Negeri Sultan Syarif Kasim Riau",
+        "email": null
+      },
+      {
+        "name": "Siti Norul Huda Sheikh Abdullah",
+        "department": null,
+        "institution": "National University of Malaysia",
+        "email": null
+      },
+      {
+        "name": "Fitra Lestari",
+        "department": null,
+        "institution": "Universitas Islam Negeri Sultan Syarif Kasim Riau",
+        "email": null
+      },
+      {
+        "name": "Mohd Zakree Ahmad Nazri",
+        "department": null,
+        "institution": "National University of Malaysia",
+        "email": null
+      },
+      {
+        "name": "Akhmad Mujahidin",
+        "department": null,
+        "institution": "Universitas Islam Negeri Sultan Syarif Kasim Riau",
+        "email": null
+      },
+      {
+        "name": "Noridayu Adnan",
+        "department": null,
+        "institution": "National University of Malaysia",
+        "email": null
+      }
+    ],
+    "year": "2020",
+    "keywords": [
+      "Outbreak",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Coronavirus",
+      "Cluster analysis",
+      "Pandemic",
+      "Computer science",
+      "Hierarchical clustering",
+      "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_23.pdf"
+  },
+  {
+    "version": 1,
+    "doi": "10.1109/icicv50876.2021.9388378",
+    "arxiv_id": null,
+    "title": "Secured College Bus Management System using IoT for Covid-19 Pandemic Situation",
+    "authors": [
+      {
+        "name": "R. Santhana Krishnan",
+        "department": null,
+        "institution": "Social Change and Development",
+        "email": null
+      },
+      {
+        "name": "Aiswarya Kannan",
+        "department": null,
+        "institution": null,
+        "email": null
+      },
+      {
+        "name": "G. Manikandan",
+        "department": null,
+        "institution": "Dr. M.G.R. Educational and Research Institute",
+        "email": null
+      },
+      {
+        "name": "Sri Sathya KB",
+        "department": null,
+        "institution": "KPR Institute of Engineering and Technology",
+        "email": null
+      },
+      {
+        "name": "V. Krishna Sankar",
+        "department": null,
+        "institution": "Social Change and Development",
+        "email": null
+      },
+      {
+        "name": "K. Lakshmi Narayanan",
+        "department": null,
+        "institution": null,
+        "email": null
+      }
+    ],
+    "year": "2021",
+    "keywords": [
+      "Attendance",
+      "Pandemic",
+      "School bus",
+      "Coronavirus disease 2019 (COVID-19)",
+      "Order (exchange)",
+      "Computer security",
+      "Business",
+      "State (computer science)"
+    ],
+    "generated_keywords": [],
+    "ml_methods": [],
+    "references": [],
+    "source_file": "ieee_24.pdf"
+  }
+]
