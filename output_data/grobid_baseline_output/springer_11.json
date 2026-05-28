@@ -1,0 +1,22 @@
+{
+    "title": "Preemptive and Non-Preemptive Generalized Min Sum Set Cover",
+    "doi": "10.4230/LIPIcs.STACS.2012.465",
+    "authors": [
+        "Sungjin Im",
+        "Maxim Sviridenko",
+        "Ruben Van Der Zwaan"
+    ],
+    "abstract": "In the (non-preemptive) Generalized Min Sum Set Cover Problem, we are given n ground elements and a collection of sets S = {S 1 , S 2 , ..., S m } where each set S i ∈ 2 [n] has a positive requirement κ(S i ) that has to be fulfilled. We would like to order all elements to minimize the total (weighted) cover time of all sets. The cover time of a set S i is defined as the first index j in the ordering such that the first j elements in the ordering contain κ(S i ) elements in S i . This problem was introduced by [1] with interesting motivations in web page ranking and broadcast scheduling. For this problem, constant approximations are known [2, 15] . We study the version where preemption is allowed. The difference is that elements can be fractionally scheduled and a set S is covered in the moment when κ(S) amount of elements in S are scheduled. We give a 2-approximation for this preemptive problem. Our linear programming and analysis are completely different from [2, 15] . We also show that any preemptive solution can be transformed into a non-preemptive one by losing a factor of 6.2 in the objective function. As a byproduct, we obtain an improved 12.4-approximation for the non-preemptive problem.",
+    "keywords": [
+        "1998 ACM Subject Classification F.2.2. Nonnumerical Algorithms and Problems phrases Set Cover",
+        "Approximation",
+        "Preemption",
+        "Latency",
+        "Average cover time Digital Object Identifier 10.4230/LIPIcs.STACS.2012.465 Christoph Dürr",
+        "Thomas Wilke; pp. 465-476 Leibniz International Proceedings in Informatics Schloss Dagstuhl -Leibniz-Zentrum für Informatik",
+        "Dagstuhl Publishing",
+        "Germany"
+    ],
+    "year": null,
+    "file_name": "springer_11.pdf"
+}

@@ -1,0 +1,12 @@
+{
+    "title": "LSC'S: BREATHING LIFE INTO MESSAGE SEQUENCE CHARTS",
+    "doi": null,
+    "authors": [
+        "Werner Damm",
+        "David Harel"
+    ],
+    "abstract": "While message sequence charts (MSCs) are widely used in industry to document the interworking of processes or objects, they are expressively quite weak, being based on the modest semantic notion of a partial ordering of events as defined, e.g., in the ITU standard. A highly expressive and rigorously defined MSC language is a must for serious, semantically meaningful tool support for use-cases and scenarios. It is also a prerequisite to addressing what we regard as one of the central problems in behavioral specification of systems: relating scenario-based inter-object specification to state-machine intra-object specification. This paper proposes an extension of MSCs, which we call live sequence charts (or LSCs), since our main extension deals with specifying \"liveness\", i.e., things that must occur. In fact, LSCs allow the distinction between possible and necessary behavior both globally, on the level of an entire chart and locally, when specifying events, conditions and progress over time within a chart. This also makes it possible to specify forbidden scenarios, and strengthens structuring constructs like as subcharts, branching and iteration. P. Ciancarini et al. (eds.), Formal Methods for Open Object-Based Distributed Systems",
+    "keywords": [],
+    "year": null,
+    "file_name": "springer_2.pdf"
+}

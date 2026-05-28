@@ -1,0 +1,9 @@
+{
+    "title": "Microneedle-based electrodes have attracted significant attention for the monitoring of physiological signals, including ECG, EMG, and EOG, as they have the potential to eliminate the skin preparation and stability issues associated with conventional wet gel electrodes. This paper describes the development of a polymeric flexible microneedle electrode (FMNE) that does not require skin abrasion and can be used for long-term ECG monitoring. Fabricated using a combination of epoxy resin microneedles bonded to a flexible substrate, the performance of the FMNE was compared to that of a conventional wet-gel electrode by simultaneously capturing the ECG signal using both electrodes, and estimating the signal-tonoise ratio (SNR) of each. Results show that the flexible electrode can acquire ECG signals in which all the characteristic components of the wave are visible, and that are comparable in quality to those obtained using commercial wet electrodes. Bland-Altman plots were drawn to validate the performance of FMNE, and show that the mean difference ± standard deviation in SNR obtained using wet electrodes and FMNE was 0.9 ± 0.7 dB. Clinical Relevance-These microneedle-based 'dry electrodes' could be used in long-term monitoring of biopotential activity",
+    "doi": "10.1109/EMBC48229.2022.9871073",
+    "authors": [],
+    "abstract": null,
+    "keywords": [],
+    "year": null,
+    "file_name": "ieee_13.pdf"
+}

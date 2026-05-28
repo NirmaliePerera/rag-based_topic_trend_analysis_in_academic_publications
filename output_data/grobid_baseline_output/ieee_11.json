@@ -1,0 +1,27 @@
+{
+    "title": "Automated Identification of Disaster News for Crisis Management using Machine Learning and Natural Language Processing",
+    "doi": "10.14569/IJACSA.2019.0100742",
+    "authors": [
+        "Jayashree Domala",
+        "M Anmohan Dogra",
+        "Vinit M Asrani",
+        "Dwayne Fernandes",
+        "Kevin D'souza",
+        "Delicia Fernandes",
+        "Tejal Carvalho",
+        "U G Student"
+    ],
+    "abstract": "We are living in unprecedented times and anyone in this world could be impacted by natural disasters in some way or the other. Life is unpredictable and what is to come is unforeseeable. Nobody knows what the very next moment will hold, maybe it could be a disastrous one too. The past cannot be changed but it can act constructively towards the betterment of the current situation, 'Precaution is better than cure'. To be above this uncertain dilemma of life and death situations, 'Automated Identification of Disaster News for Crisis Management is proposed using Machine Learning and Natural Language Processing'. A software solution that can help disaster management websites to dynamically show the disaster relevant news which can be shared to other social media handles through their sites. The objective here is to automatically scrape news from English news websites and identify disaster relevant news using natural language processing techniques and machine learning concepts, which can further be dynamically displayed on the crisis management websites. The complete model is automated and requires no manual labor at all. The architecture is based on Machine Learning principles that classifies news scraped from top news websites using a spider-scraper into two categories, one being disaster relevant news and other being disaster irrelevant news and eventually displaying the relevant disaster news on the crisis management website.",
+    "keywords": [
+        "Crisis",
+        "Disaster",
+        "Machine Learning",
+        "Natural language processing",
+        "News",
+        "News Classification",
+        "Pandemic",
+        "Scrapy"
+    ],
+    "year": null,
+    "file_name": "ieee_11.pdf"
+}

@@ -1,0 +1,12 @@
+{
+    "title": "About One-Sided One-Symbol Insertion-Deletion P Systems",
+    "doi": null,
+    "authors": [
+        "Sergiu Ivanov",
+        "Sergey Verlan"
+    ],
+    "abstract": "In this article we consider insertion-deletion P systems inserting or deleting one symbol in one or two symbol(s) left context (more precisely of size (1, 2, 0; 1, 1, 0) and (1, 1, 0; 1, 2, 0)). We show that computational completeness can be achieved by using only 3 membranes in a tree-like structure. Hence we obtain a trade-off between the sizes of contexts of insertion and deletion rules and the number of membranes sufficient for computational completeness.",
+    "keywords": [],
+    "year": null,
+    "file_name": "springer_4.pdf"
+}

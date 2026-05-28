@@ -1,0 +1,21 @@
+{
+    "title": "A Comprehensive Investigation of Shell and Tube Heat Exchangers Based on Porous Baffle Design and Multi-Objective Parameter Optimization",
+    "doi": "10.1159/enfht26.120",
+    "authors": [
+        "Bo Tian",
+        "Ningbo Wang",
+        "Lu Liu",
+        "Peng Peng",
+        "Yanhua Guo",
+        "Li Liu",
+        "Shuangquan Shao"
+    ],
+    "abstract": "In this paper, the design and performance optimization of porous baffles in shell and tube heat exchanger (STHX) are systematically investigated through numerical simulation and response surface methods. The study focuses on the effects of key parameters such as baffle cut, porosity and number of tubes on the total heat transfer and pressure drop of the STHX.",
+    "keywords": [
+        "Shell and tube heat exchanger",
+        "Porous baffle",
+        "Computational fluid dynamics (CFD)"
+    ],
+    "year": null,
+    "file_name": "elsevier_0.pdf"
+}
