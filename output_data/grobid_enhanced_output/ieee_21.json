@@ -1,0 +1,38 @@
+{
+    "title": null,
+    "doi": null,
+    "authors": [
+        {
+            "name": "Tajim Md Niamat"
+        },
+        {
+            "name": "Ullah Akhund"
+        },
+        {
+            "name": "Watry Biswas"
+        },
+        {
+            "name": "Al Wahid"
+        },
+        {
+            "name": "Md Abu"
+        },
+        {
+            "name": "Bakkar Siddik"
+        },
+        {
+            "name": "M Mesbahuddin Sarker"
+        }
+    ],
+    "abstract": "Disabled people and Virus affected patients can be helped through Internet of Things and Robotic systems in this modern era. Recently the whole world is suffering from the Covid-19 pandemic. The virus affected and disabled people are helpless because caregivers, doctors and other people are afraid of the contagious virus. This work will result in an IoT based Robotic agent which will be able to help disabled and virus affected people with low cost systems. The robotic agent will be able to recognize the patient's Gesture and follow instructions through it with 360-degree movement. Without image processing the system is made with MPU 6050 Accelerometer Gyroscope sensor for Gesture Recognition. Radio Frequency communication was used to make the system wireless.",
+    "keywords": [
+        "wireless robot",
+        "gesture recognition",
+        "iot",
+        "covid-19",
+        "disable people"
+    ],
+    "year": null,
+    "confidence_score": 0.25,
+    "source_file": "ieee_21.pdf"
+}

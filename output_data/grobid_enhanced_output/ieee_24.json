@@ -1,0 +1,32 @@
+{
+    "title": "Secured College Bus Management System using IoT for Covid-19 Pandemic Situation",
+    "doi": "10.1109/ICICV50876.2021.9388378",
+    "authors": [
+        {
+            "name": "R Santhana Krishnan"
+        },
+        {
+            "name": "Ms Aiswarya Kannan"
+        },
+        {
+            "name": "G Manikandan"
+        },
+        {
+            "name": "V Krishna Sankar"
+        },
+        {
+            "name": "K Lakshmi Narayanan"
+        }
+    ],
+    "abstract": "College bus transportation system plays a vital role in students' life. They provide safe and secured journey compared to other mode of transportation. The current COVID-19 pandemic situation has driven the S tate Governments and all the college authorities around India to enforce limitations on transportation and movement of students in order to prevent the spread of disease. But taking the students education into considerations, many state governments have advised to open the colleges with proper precautionary measures. However, student health has to be given more importance as they are the backbone of the country. S o, a S ecured College Bus Management S ystem (S CBMS ) has been introduced which monitors the health of the student and the safety measures followed by the student before entering into the bus. Alert information will be passed to the parent and the college management if a person fails to cross these two stages of screening process. Vehicle location information is passed to the parents periodically in order to prepare their child for the school on scheduled time before the bus reaches their boarding point. College bus attendance is monitored efficiently and updated to college authorities for further actions.",
+    "keywords": [
+        "secured college bus management system",
+        "internet of things (iot)",
+        "smart transport system",
+        "gps",
+        "cloud server"
+    ],
+    "year": null,
+    "confidence_score": 0.75,
+    "source_file": "ieee_24.pdf"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "A rapid and durable response to larotrectinib in a patient with NTRK fusion-positive secretory carcinoma originating from the external auditory canal",
+    "doi": "10.1007/s13691-022-00559-6",
+    "authors": [
+        {
+            "name": "Yuichi Ando"
+        },
+        {
+            "name": "Sachi Morita"
+        },
+        {
+            "name": "Tomoya Shimokata"
+        },
+        {
+            "name": "Toyonori Tsuzuki"
+        },
+        {
+            "name": "Shigeru Inafuku"
+        },
+        {
+            "name": "Kenichiro Iwami"
+        },
+        {
+            "name": "• Nicoletta Brega"
+        },
+        {
+            "name": "Takashi Akagawa"
+        },
+        {
+            "name": "Toshiaki Tsujino"
+        },
+        {
+            "name": "Tetsuya Ogawa"
+        }
+    ],
+    "abstract": "For decades, no clear consensus existed on the standard treatment option for malignant tumors of the external auditory canal, an extremely rare disease. Here we report the case of a 55-year-old female patient with secretory carcinoma that originated from the left external auditory canal. Magnetic resonance imaging (MRI) at baseline showed that the tumor had extended to the medulla oblongata despite surgical and radiation treatments for more than 20 years from the initial diagnosis. Based on the results of a next-generation sequencing test of a formalin-fixed paraffin-embedded surgical specimen indicating that the tumor harbored ETV6-NTRK3 fusion, the patient was enrolled in a global basket study of larotrectinib, an oral selective tropomyosin receptor kinase (TRK) inhibitor. Three weeks after the start of larotrectinib treatment, MRI showed only small remnants of the tumor in the medulla oblongata and the patient's headache before the treatment had disappeared. Subsequent MRI after 12 weeks of treatment confirmed the complete disappearance of the tumor. The patient repeated grade 2 flu-like symptoms related to treatment, but did not experience any other grade 2 or worse treatment-related adverse events. TRK inhibitors, such as larotrectinib, exert potent antitumor activity against neurotrophic tyrosine receptor kinase (NTRK) fusionpositive tumors in a tumor-agnostic manner. To the best of our knowledge, this is the first report on NTRK fusion-positive secretory carcinoma of the external auditory canal, and this report provides a valuable insight into the management of the extremely rare but now treatable malignancy.",
+    "keywords": [
+        "ntrk fusion",
+        "secretory carcinoma",
+        "tropomyosin receptor kinase inhibitior",
+        "larotrectinib",
+        "external auditory canal cancer"
+    ],
+    "year": "2022",
+    "confidence_score": 1.0,
+    "source_file": "springer_16.pdf"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Analysis of User Reviews for the PeduliLindungi Application on Google Play Using the Support Vector Machine and Naive Bayes Algorithm Based on Particle Swarm Optimization",
+    "doi": null,
+    "authors": [
+        {
+            "name": "Ali Mustopa"
+        },
+        {
+            "name": "Deni Risdiansyah"
+        }
+    ],
+    "abstract": "Corona Virus 19 (COVID-19) is a contagious viral infection that has now spread to various countries, one of which is Indonesia. Monitoring of the spread of COVID-19 in Indonesia is handled directly by the Government of Indonesia, especially by the Ministry of Communication and Information (KOMINFO) with the creation of the Protected application found on Google Play. Users provide reviews or comments about the application, of course, users will choose applications that have good reviews. However, monitoring reviews from the general public is not easy, because there are so many of them to process. So that the researcher wants to know the extent of the analysis of user reviews of the PeduliLindungi application based on reviews of user comments by using classification techniques, namely the Support Vector Machine (SVM) Algorithm and Naive Bayes Based on Particle Swarm Optimization (PSO). The test results with the accuracy value and AUC value of each, namely for the PSO-based Naive Bayes algorithm the accuracy value = 69.00%, and AUC value = 0.659, while for the PSO-based SVM algorithm the accuracy value = 93.0% and the AUC value = 0.977. For this reason, the application of Particle Swarm Optimization (PSO) -based Support Vector Machine in this study has higher accuracy so that it can be used to provide solutions to sentiment analysis problems in review comments of users of the PeduliLindungi application.",
+    "keywords": [
+        "covid-19",
+        "google play",
+        "pedulilindungi",
+        "user reviews",
+        "support vector machine (svm)",
+        "naive bayes",
+        "particle swarm optimization (pso)"
+    ],
+    "year": null,
+    "confidence_score": 0.5,
+    "source_file": "ieee_10.pdf"
+}

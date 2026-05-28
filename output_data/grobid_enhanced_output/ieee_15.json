@@ -1,0 +1,17 @@
+{
+    "title": "A Deep Learning Approach to Predict Blood Pressure from PPG Signals",
+    "doi": null,
+    "authors": [
+        {
+            "name": "Ali Tazarv"
+        },
+        {
+            "name": "Marco Levorato"
+        }
+    ],
+    "abstract": "Blood Pressure (BP) is one of the four primary vital signs indicating the status of the body's vital (life-sustaining) functions. BP is difficult to continuously monitor using a sphygmomanometer (i.e. a blood pressure cuff), especially in everyday-setting. However, other health signals which can be easily and continuously acquired, such as photoplethysmography (PPG), show some similarities with the Aortic Pressure waveform. Based on these similarities, in recent years several methods were proposed to predict BP from the PPG signal. Building on these results, we propose an advanced personalized data-driven approach that uses a three-layer deep neural network to estimate BP based on PPG signals. Different from previous work, the proposed model analyzes the PPG signal in time-domain and automatically extracts the most critical features for this specific application, then uses a variation of recurrent neural networks (RNN) called Long-Short-Term-Memory (LSTM) to map the extracted features to the BP value associated with that time window. Experimental results on two separate standard hospital datasets, yielded absolute errors mean and absolute error standard deviation for systolic and diastolic BP values outperforming prior works.",
+    "keywords": [],
+    "year": null,
+    "confidence_score": 0.5,
+    "source_file": "ieee_15.pdf"
+}

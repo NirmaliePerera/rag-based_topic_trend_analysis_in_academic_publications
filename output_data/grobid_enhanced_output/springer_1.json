@@ -1,0 +1,21 @@
+{
+    "title": "MONTE-CARLO GO DEVELOPMENTS",
+    "doi": null,
+    "authors": [
+        {
+            "name": "B Bouzy"
+        },
+        {
+            "name": "B Helmstetter"
+        }
+    ],
+    "abstract": "We describe two Go programs, OLGA and OLEG, developed by a Monte-Carlo approach that is simpler than Bruegmann's (1993) approach. Our method is based on Abramson (1990) . We performed experiments,to assess ideas on (1) progressive pruning, (2) all moves as first heuristic, (3) temperature, (4) simulated annealing, and (5) depth-two tree search within the Monte-Carlo framework. Progressive pruning and the all moves as first heuristic are good speed-up enhancements that do not deteriorate the level of the program too much. Then, using a constant temperature is an adequate and simple heuristic that is about as good as simulated annealing. The depth-two heuristic gives deceptive results at the moment. The results of our Monte-Carlo programs against knowledge-based programs on 9x9 boards are promising. Finally, the ever-increasing power of computers lead us to think that Monte-Carlo approaches are worth considering for computer Go in the future.",
+    "keywords": [
+        "monte-carlo approach",
+        "computer go",
+        "heuristics"
+    ],
+    "year": null,
+    "confidence_score": 0.5,
+    "source_file": "springer_1.pdf"
+}

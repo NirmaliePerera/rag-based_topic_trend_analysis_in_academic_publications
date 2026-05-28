@@ -1,0 +1,33 @@
+{
+    "title": "BUILDING THE CHECKERS 10-PIECE ENDGAME DATABASES",
+    "doi": null,
+    "authors": [
+        {
+            "name": "J Schaeffer"
+        },
+        {
+            "name": "Y Bjămsson"
+        },
+        {
+            "name": "N Burch"
+        },
+        {
+            "name": "R Lake"
+        },
+        {
+            "name": "P Lu"
+        },
+        {
+            "name": "S Sutphen"
+        }
+    ],
+    "abstract": "In 1993, the CHINOOK tearn completed the computation of the 2 through 8piece checkers endgame databases, consisting of roughly 444 billion positions. Until recently, nobody had attempted to extend this work. In November 2001, we began an effort to compute the 9and 10-piece databases. By June 2003, the entire 9-piece database and the 5-piece versus 5-piece portion of the 10-piece database were completed. The result is a 13 trillion position database, compressed into 148 GB of data organized for real-time decompression. This represents the larg est endgame database initiative yet attempted. The results obtained from these computations are being used to aid an attempt to weakly salve the game. This paper describes our experiences working on building large endgame databases.",
+    "keywords": [
+        "retrograde analysis",
+        "endgame databases",
+        "checkers"
+    ],
+    "year": null,
+    "confidence_score": 0.5,
+    "source_file": "springer_23.pdf"
+}

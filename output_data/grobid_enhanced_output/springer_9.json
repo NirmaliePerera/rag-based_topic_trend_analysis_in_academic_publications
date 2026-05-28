@@ -1,0 +1,18 @@
+{
+    "title": "SOLVING THE OSHI-ZUMO GAME",
+    "doi": null,
+    "authors": [
+        {
+            "name": "M Bura"
+        }
+    ],
+    "abstract": "Kotani (2002) determined the part of the state space ofthe Japanese Oshi-Zumo game in which pure strategies suffice to win. This paper completes the analysis by computing and discussing a Nash-optimal mixed strategy for this game.",
+    "keywords": [
+        "nash-optimal strategy",
+        "oshi-zumo",
+        "two-player game"
+    ],
+    "year": null,
+    "confidence_score": 0.5,
+    "source_file": "springer_9.pdf"
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Jury Learning: Integrating Dissenting Voices into Machine Learning Models",
+    "doi": "10.1145/3491102.3502004",
+    "authors": [
+        {
+            "name": "Mitchell L Gordon"
+        },
+        {
+            "name": "Michelle S Lam"
+        },
+        {
+            "name": "Joon Sung Park"
+        },
+        {
+            "name": "Kayur Patel"
+        },
+        {
+            "name": "Jeffrey T Hancock"
+        },
+        {
+            "name": "Tatsunori Hashimoto"
+        },
+        {
+            "name": "Michael S Bernstein"
+        }
+    ],
+    "abstract": "Whose labels should a machine learning (ML) algorithm learn to emulate? For ML tasks ranging from online comment toxicity to misinformation detection to medical diagnosis, different groups in society may have irreconcilable disagreements about ground truth labels. Supervised ML today resolves these label disagreements implicitly using majority vote, which overrides minority groups' labels. We introduce jury learning, a supervised ML approach that resolves these disagreements explicitly through the metaphor of a jury: defining which people or groups, in what proportion, determine the classifier's prediction. For example, a jury learning model",
+    "keywords": [],
+    "year": "2022",
+    "confidence_score": 1.0,
+    "source_file": "acm_8.pdf"
+}

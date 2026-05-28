@@ -1,0 +1,22 @@
+{
+    "title": "Self-Activating Sanitizer With Battery Imposed System For Cleansing Hands",
+    "doi": "10.1007/s00138-009-0234-7",
+    "authors": [
+        {
+            "name": "Mr M M Srihari"
+        }
+    ],
+    "abstract": "This paper gives a brief idea about the automatic hand wash sanitizer. The motor pumps the sanitizer liquid or solution to the human while detecting the IR Sensor. The IR Sensor is the photodiode used for sensing the human hand detection and it is used to control the motor pump from the liquid. The motor is connected to an RC timer delay setup and the pipe connected to a reducer are used to control the flowing liquid of the sanitizer. It has three modes of Control LED's in the system, White LED is used for the user to understand that the setup is in working mode and battery is in use. Red LED is used for the user to understand that Battery is in charging mode. Green LED is used for the user to understand that battery is in full charged mode. It has an On/ Off switch to control the whole setup from the battery supply. The consumer is convenient to use the setup and the user also saves costs and power.",
+    "keywords": [
+        "touchless hand wash dispenser",
+        "automatic hand wash sanitizer",
+        "dispenser hand wash",
+        "covid-19 saniti1zer",
+        "covid19, corona virus",
+        "sanitation",
+        "battery imposed system"
+    ],
+    "year": null,
+    "confidence_score": 0.75,
+    "source_file": "ieee_19.pdf"
+}
