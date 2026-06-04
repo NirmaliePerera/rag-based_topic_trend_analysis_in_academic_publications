@@ -14,18 +14,28 @@ METHOD = sys.argv[1]
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
+#EVAL_DIR = os.path.join(
+#    PROJECT_ROOT,
+#    "output_data",
+#    "Evaluation_Output",
+#    "evaluations",
+#    METHOD
+#)
+
 EVAL_DIR = os.path.join(
     PROJECT_ROOT,
     "output_data",
     "Evaluation_Output",
     "evaluations",
-    METHOD
+    "grobid_enhanced_after_evaluation_modify"
 )
 
-OUTPUT_PATH = os.path.join(
-    EVAL_DIR,
-    "summary.json"
-)
+#OUTPUT_PATH = os.path.join(
+#    EVAL_DIR,
+#    "summary.json"
+#)
+
+OUTPUT_PATH = os.path.join(EVAL_DIR, "summary.json")
 
 if not os.path.exists(EVAL_DIR):
     print(f"Evaluation directory not found: {EVAL_DIR}")
