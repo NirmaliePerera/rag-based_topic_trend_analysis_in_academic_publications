@@ -1,0 +1,59 @@
+{
+    "title": "BRAF-mutant microsatellite-stable rectal cancer with acquired KRAS mutation leading to drug resistance in liver metastasis",
+    "doi": "10.1007/s13691-024-00678-2",
+    "authors": [
+        {
+            "name": "Kunitoshi Shigeyasu"
+        },
+        {
+            "name": "Hideki Yamamoto"
+        },
+        {
+            "name": "Toshiaki Takahashi"
+        },
+        {
+            "name": "Kazuya Moriwake"
+        },
+        {
+            "name": "Masashi Kayano"
+        },
+        {
+            "name": "Sho Takeda"
+        },
+        {
+            "name": "Yuki Matsumi"
+        },
+        {
+            "name": "Yuzo Umeda"
+        },
+        {
+            "name": "Yoshitaka Kondo"
+        },
+        {
+            "name": "Fuminori Teraishi"
+        },
+        {
+            "name": "Kazuya Yasui"
+        },
+        {
+            "name": "Tomokazu Fuji"
+        },
+        {
+            "name": "Shunsuke Kagawa"
+        },
+        {
+            "name": "Toshiyoshi Fujiwara"
+        }
+    ],
+    "abstract": "BRAF-mutant microsatellite-stable colorectal cancer (CRC), metastasized to distant sites, is associated with a poor prognosis. However, the BEACON CRC regimen, comprising a BRAF inhibitor, MEK inhibitor, and anti-EGFR antibody, offered a prolonged prognosis. Nonetheless, resistance to this regimen may occur, as observed in our reported case of CRC, where a KRAS mutation was identified in addition to the BRAF V600E mutation. Here, we present a case of 74-year-old woman with rectal cancer (pT4bN1bM0 Stage IIIc) harboring the BRAF V600E mutation. After resection of the primary tumor and during adjuvant chemotherapy using CAPOX (capecitabine and oxaliplatin), liver and lung metastases became apparent, and a companion diagnosis test revealed the presence of a BRAF V600E mutation. The new lesions were deemed resistant to the CAPOX regimen, and we decided to introduce encorafenib and cetuximab. After resection of liver metastases, encorafenib and cetuximab were reintroduced, but a new lesion appeared in hepatic S7, indicating resistance to the encorafenib and cetuximab regimen. The resistant liver metastasis was subsequently resected. To elucidate the resistance mechanism, we conducted a comprehensive analysis using the FoundationOne CDx cancer gene panel test, revealing the presence of a KRAS Q61H mutation alongside the BRAF V600E mutation. Subsequent liquid biopsy after liver recurrence confirmed the persistence of the KRAS Q61H mutation. Our results highlight the significance of cancer genome profiling tests (CGP tests) and liquid biopsies in guiding treatment strategies for BRAF-mutant colorectal cancer. Therefore, CGP testing offers valuable information for treatment, even if it does not lead to new drug administrations.",
+    "keywords": [
+        "braf",
+        "colorectal cancer",
+        "kras",
+        "resistance"
+    ],
+    "year": "2024",
+    "year_source": "publicationStmt",
+    "confidence_score": 1.0,
+    "source_file": "springer_18.pdf"
+}

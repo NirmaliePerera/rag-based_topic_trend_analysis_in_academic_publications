@@ -1,0 +1,21 @@
+{
+    "title": "Real-time Face Mask and Social Distancing Violation Detection System using YOLO",
+    "doi": "10.1109/CVPR.2017.53",
+    "authors": [
+        {
+            "name": "Krisha Bhambani"
+        },
+        {
+            "name": "Tanmay Jain"
+        },
+        {
+            "name": "Kavita A Sultanpure"
+        }
+    ],
+    "abstract": null,
+    "keywords": [],
+    "year": "2020",
+    "year_source": "date_attribute",
+    "confidence_score": 1.0,
+    "source_file": "ieee_3.pdf"
+}

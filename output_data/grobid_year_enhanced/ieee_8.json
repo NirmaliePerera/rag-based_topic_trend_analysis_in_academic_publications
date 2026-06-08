@@ -1,0 +1,26 @@
+{
+    "title": "COVID Detection from Chest X-rays with DeepLearning: CheXNet",
+    "doi": "10.2139/ssrn.3546547",
+    "authors": [
+        {
+            "name": "D Haritha"
+        },
+        {
+            "name": "M Krishna Pranathi"
+        },
+        {
+            "name": "M Reethika"
+        }
+    ],
+    "abstract": "The novel corona virus is a rapidly spreading viral infection that has become a pandemic posing severe threats around the world. It is necessary to identify the cases priorly so that we can prevent the spread of this epidemic. But the availability of test kits is low which is main drawback. To overcome this AI is assistive and even used in COVID detection and prediction. A model for COVID prediction from chest X-rays using CheXNet is presented in this paper. This proposed model classifies the binary classes (COVID and normal) with 99.9% accuracy. CheXNet is a CNN model that used ChestXray14 dataset and was trained to detect abnormalities in chest X-rays. Generally, this model was extended to detect all the 14 pathologies in chestXray14 dataset. We used it's pre trained model Densenet121 in our model to detect COVID19 from binary classes.",
+    "keywords": [
+        "covid 19",
+        "chexnet",
+        "densenet121",
+        "pneumonia"
+    ],
+    "year": "2020",
+    "year_source": "date_attribute",
+    "confidence_score": 1.0,
+    "source_file": "ieee_8.pdf"
+}

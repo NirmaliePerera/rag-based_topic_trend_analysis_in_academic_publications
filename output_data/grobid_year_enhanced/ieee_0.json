@@ -1,0 +1,36 @@
+{
+    "title": "An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network",
+    "doi": "10.7551/mitpress/11426.003.0005",
+    "authors": [
+        {
+            "name": "Mohammad Marufur Rahman"
+        },
+        {
+            "name": "Saifuddin Mahmud"
+        },
+        {
+            "name": "Md Motaleb"
+        },
+        {
+            "name": "Hossen Manik"
+        },
+        {
+            "name": "Jong-Hoon Kim"
+        },
+        {
+            "name": "Md Milon Islam"
+        }
+    ],
+    "abstract": "COVID-19 pandemic caused by novel coronavirus is continuously spreading until now all over the world. The impact of COVID-19 has been fallen on almost all sectors of development. The healthcare system is going through a crisis. Many precautionary measures have been taken to reduce the spread of this disease where wearing a mask is one of them. In this paper, we propose a system that restrict the growth of COVID-19 by finding out people who are not wearing any facial mask in a smart city network where all the public places are monitored with Closed-Circuit Television (CCTV) cameras. While a person without a mask is detected, the corresponding authority is informed through the city network. A deep learning architecture is trained on a dataset that consists of images of people with and without masks collected from various sources. The trained architecture achieved 98.7% accuracy on distinguishing people with and without a facial mask for previously unseen test data. It is hoped that our study would be a useful tool to reduce the spread of this communicable disease for many countries in the world.",
+    "keywords": [
+        "facial mask detection",
+        "covid-19",
+        "deep learning",
+        "convolutional neural network",
+        "smart city"
+    ],
+    "year": "2020",
+    "year_source": "date_attribute",
+    "confidence_score": 1.0,
+    "source_file": "ieee_0.pdf"
+}
