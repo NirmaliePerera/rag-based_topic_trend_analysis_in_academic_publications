@@ -22,12 +22,20 @@ PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 #    METHOD
 #)
 
+#EVAL_DIR = os.path.join(
+#    PROJECT_ROOT,
+#    "output_data",
+#    "Evaluation_Output",
+#    "evaluations",
+#    "grobid_enhanced_after_evaluation_modify"
+#)
+
 EVAL_DIR = os.path.join(
     PROJECT_ROOT,
     "output_data",
     "Evaluation_Output",
     "evaluations",
-    "grobid_enhanced_after_evaluation_modify"
+    "grobid_after_year_enhance"
 )
 
 #OUTPUT_PATH = os.path.join(
