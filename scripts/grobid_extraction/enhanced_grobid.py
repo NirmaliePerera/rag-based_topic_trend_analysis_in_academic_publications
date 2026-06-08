@@ -3,7 +3,9 @@ import json
 import re
 import requests
 import time
+import re
 from lxml import etree
+from collections import Counter
 
 # ================= CONFIG =================
 
@@ -11,7 +13,11 @@ GROBID_URL = "http://localhost:8070/api/processFulltextDocument"
 
 PDF_FOLDER = "data/metadata_extraction_evaluation/papers"
 
-OUTPUT_FOLDER = "output_data/grobid_enhanced_output"
+# Previous output folder (kept for reference)
+# OUTPUT_FOLDER = "output_data/grobid_enhanced_output"
+
+# New output folder for year-enhanced results
+OUTPUT_FOLDER = "output_data/grobid_year_enhanced"
 
 
 # ================= HELPERS =================
@@ -29,17 +35,17 @@ def normalize_text(text):
     return text.strip()
 
 
-def normalize_year(year_text):
+# def normalize_year(year_text):
 
-    if not year_text:
-        return None
+#     if not year_text:
+#         return None
 
-    match = re.search(r"(19|20)\d{2}", str(year_text))
+#     match = re.search(r"(19|20)\d{2}", str(year_text))
 
-    if match:
-        return match.group()
+#     if match:
+#         return match.group()
 
-    return None
+#     return None
 
 
 def clean_doi(doi):
@@ -140,6 +146,88 @@ def compute_confidence(data):
         score += 0.25
 
     return round(score, 2)
+
+
+
+def recover_year(root, xml_text):
+
+    ns = {"tei": "http://www.tei-c.org/ns/1.0"}
+
+    # -----------------------------
+    # Priority 1:
+    # publicationStmt date
+    # -----------------------------
+
+    date_text = root.xpath(
+        "//tei:publicationStmt//tei:date/text()",
+        namespaces=ns
+    )
+
+    if date_text:
+
+        match = re.search(
+            r"(19|20)\d{2}",
+            date_text[0]
+        )
+
+        if match:
+            return match.group(), "publicationStmt"
+
+    # -----------------------------
+    # Priority 2:
+    # date/@when attributes
+    # -----------------------------
+
+    date_attrs = root.xpath(
+        "//tei:date/@when",
+        namespaces=ns
+    )
+
+    for d in date_attrs:
+
+        match = re.search(
+            r"(19|20)\d{2}",
+            d
+        )
+
+        if match:
+            return match.group(), "date_attribute"
+
+    # -----------------------------
+    # Priority 3:
+    # search entire TEI XML
+    # -----------------------------
+
+    years = re.findall(
+        r"(?:19|20)\d{2}",
+        xml_text
+    )
+
+    if not years:
+        return None
+
+    # -----------------------------
+    # filter unreasonable years
+    # -----------------------------
+
+    years = [
+        int(y)
+        for y in years
+        if 1990 <= int(y) <= 2026
+    ]
+
+    if not years:
+        return None
+
+    # -----------------------------
+    # most frequent year
+    # -----------------------------
+
+    year_counter = Counter(years)
+
+    return str(
+        year_counter.most_common(1)[0][0]
+    ), "tei_fallback"
 
 # ================= GROBID EXTRACTION =================
 
@@ -263,14 +351,19 @@ def parse_tei(xml_text):
 
     # -------- YEAR --------
 
-    year = root.xpath(
-        "//tei:publicationStmt//tei:date/text()",
-        namespaces=ns
-    )
+    #year = root.xpath(
+     #   "//tei:publicationStmt//tei:date/text()",
+      #  namespaces=ns
+    #)
 
-    year = normalize_year(
-        year[0]
-    ) if year else None
+    #year = normalize_year(
+    #    year[0]
+    #) if year else None
+
+    year, year_source = recover_year(
+        root,
+        xml_text
+    )
 
     # -------- FINAL OUTPUT --------
 
@@ -280,7 +373,8 @@ def parse_tei(xml_text):
         "authors": authors,
         "abstract": abstract,
         "keywords": keywords,
-        "year": year
+        "year": year,
+        "year_source": year_source
     }
 
     result["confidence_score"] = (
