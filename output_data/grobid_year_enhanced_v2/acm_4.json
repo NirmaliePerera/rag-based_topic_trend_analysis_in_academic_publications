@@ -1,0 +1,38 @@
+{
+    "title": "Towards Representation Alignment and Uniformity in Collaborative Filtering",
+    "doi": "10.1145/3534678.3539253",
+    "authors": [
+        {
+            "name": "Chenyang Wang"
+        },
+        {
+            "name": "Yuanqing Yu"
+        },
+        {
+            "name": "Weizhi Ma"
+        },
+        {
+            "name": "Min Zhang"
+        },
+        {
+            "name": "Chong Chen"
+        },
+        {
+            "name": "Yiqun Liu"
+        },
+        {
+            "name": "Shaoping Ma"
+        }
+    ],
+    "abstract": "Collaborative filtering (CF) plays a critical role in the development of recommender systems. Most CF methods utilize an encoder to embed users and items into the same representation space, and the Bayesian personalized ranking (BPR) loss is usually adopted as the objective function to learn informative encoders. Existing studies mainly focus on designing more powerful encoders (e.g., graph neural network) to learn better representations. However, few efforts have been devoted to investigating the desired properties of representations in CF, which is important to understand the rationale of existing CF methods and design new learning objectives. In this paper, we measure the representation quality in CF from the perspective of alignment and uniformity on the hypersphere. We first theoretically reveal the connection between the BPR loss and these two properties. Then, we empirically analyze the learning dynamics of typical CF methods in terms of quantified alignment and uniformity, which shows that better alignment or uniformity both contribute to higher recommendation performance. Based on the analyses results, a learning objective that directly optimizes these two properties is proposed, named DirectAU. We conduct extensive experiments on three public datasets, and the proposed learning framework with a simple matrix factorization model leads to significant performance improvements compared to state-of-theart CF methods. Our implementations are publicly available 1 .",
+    "keywords": [
+        "recommender systems",
+        "collaborative filtering",
+        "representation learning",
+        "alignment and uniformity"
+    ],
+    "year": "2022",
+    "year_source": "publicationStmt",
+    "confidence_score": 1.0,
+    "source_file": "acm_4.pdf"
+}

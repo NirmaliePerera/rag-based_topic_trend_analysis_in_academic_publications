@@ -1,0 +1,31 @@
+{
+    "title": "Contrastive Cross-Domain Sequential Recommendation",
+    "doi": "10.1145/3511808.3557262",
+    "authors": [
+        {
+            "name": "Jiangxia Cao"
+        },
+        {
+            "name": "Xin Cong"
+        },
+        {
+            "name": "Jiawei Sheng"
+        },
+        {
+            "name": "Tingwen Liu"
+        },
+        {
+            "name": "Bin Wang"
+        }
+    ],
+    "abstract": "Cross-Domain Sequential Recommendation (CDSR) aims to predict future interactions based on user's historical sequential interactions from multiple domains. Generally, a key challenge of CDSR is how to mine precise cross-domain user preference based on the intra-sequence and inter-sequence item interactions. Existing works first learn single-domain user preference only with intra-",
+    "keywords": [
+        "cross-domain sequential recommendation",
+        "contrastive learning",
+        "mutual information maximization"
+    ],
+    "year": "2023",
+    "year_source": "publicationStmt",
+    "confidence_score": 1.0,
+    "source_file": "acm_12.pdf"
+}

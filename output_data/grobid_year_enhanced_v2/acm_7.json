@@ -1,0 +1,29 @@
+{
+    "title": "Homogenization Effects of Large Language Models on Human Creative Ideation",
+    "doi": "10.1145/3635636.3656204",
+    "authors": [
+        {
+            "name": "Barrett R Anderson"
+        },
+        {
+            "name": "Jash Hemant"
+        },
+        {
+            "name": "Max 2024 Kreminski"
+        },
+        {
+            "name": "Hemant Shah"
+        }
+    ],
+    "abstract": "Figure 1 : Homogenization analysis involves semantic similarity comparisons between artifacts produced by users of creativity support tools (CSTs). We apply homogenzation analysis to two different CSTs for divergent ideation, and find that users of the Oblique Strategies deck (on the left) and ChatGPT (on the right) each produce similarly homogenous sets of ideas as individuals-but collectively, users of ChatGPT produce a more homogenous set of ideas at the group level (as shown by the higher degree of overlap between the sets of ideas produced by each user).",
+    "keywords": [
+        "creativity support tools",
+        "divergent ideation",
+        "large language models",
+        "user study"
+    ],
+    "year": "2024",
+    "year_source": "publicationStmt",
+    "confidence_score": 1.0,
+    "source_file": "acm_7.pdf"
+}
