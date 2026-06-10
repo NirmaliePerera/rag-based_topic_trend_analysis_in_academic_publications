@@ -23,6 +23,7 @@ METHOD = sys.argv[1]
 METHOD_TO_FOLDER = {
     "grobid": "grobid_metadata_output",
     "grobid_enhanced": "grobid_enhanced_output",
+    "grobid_enhanced_v2": "grobid_year_enhanced_v2",
     "gemini": "gemini",
     "openalex": "openalex"
 }
@@ -30,6 +31,7 @@ METHOD_TO_FOLDER = {
 OUTPUT_FOLDER_TO_METHOD = {
     "grobid": "grobid_enhanced_after_evaluation_modify",
     "grobid_enhanced": "grobid_enhanced",
+    "grobid_enhanced_v2": "grobid_year_enhanced_v2",
     "gemini": "gemini",
     "openalex": "openalex"
 }
@@ -50,12 +52,14 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
 GT_PATH = os.path.join(PROJECT_ROOT, "data", "metadata_extraction_evaluation", "metadata", "papers.json")
-#PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_enhanced_output")
-#PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_baseline_output")
-#PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", FOLDER_NAME)
-PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced")
-#OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", OUTPUT_FOLDER_NAME)
-OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_after_year_enhance")
+# OLD: previous prediction paths (commented out)
+# OLD_PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_enhanced_output")
+# OLD_PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_baseline_output")
+# OLD_PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", FOLDER_NAME)
+PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2")
+# OLD: previous output path
+# OLD_OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2")
+OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2")
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
