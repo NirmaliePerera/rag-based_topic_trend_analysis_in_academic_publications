@@ -1,0 +1,14 @@
+{
+    "title": "Decoding Neural Correlation of Language-Specific Imagined Speech using EEG Signals",
+    "doi": "10.1109/EMBC48229.2022.9871721",
+    "authors": [
+        "Keon-Woo Lee",
+        "Dae-Hyeok Lee",
+        "Sung-Jin Kim",
+        "Seong-Whan Lee"
+    ],
+    "abstract": "Speech impairments due to cerebral lesions and degenerative disorders can be devastating. For humans with severe speech deficits, imagined speech in the brain-computer interface has been a promising hope for reconstructing the neural signals of speech production. However, studies in the EEG-based imagined speech domain still have some limitations due to high variability in spatial and temporal information and low signal-to-noise ratio. In this paper, we investigated the neural signals for two groups of native speakers with two tasks with different languages, English and Chinese. Our assumption was that English, a non-tonal and phonogram-based language, would have spectral differences in neural computation compared to Chinese, a tonal and ideogram-based language. The results showed the significant difference in the relative power spectral density between English and Chinese in specific frequency band groups. Also, the spatial evaluation of Chinese native speakers in the theta band was distinctive during the imagination task. Hence, this paper would suggest the key spectral and spatial information of word imagination with specialized language while decoding the neural signals of speech. Clinical relevance-Imagined speech-related studies lead to the development of assistive communication technology, especially for patients with speech disorders such as aphasia due to brain damage. This study suggests significant spectral features by analyzing cross-language differences of EEG-based imagined speech using two widely used languages.",
+    "keywords": [],
+    "year": null,
+    "file_name": "ieee_14.pdf"
+}

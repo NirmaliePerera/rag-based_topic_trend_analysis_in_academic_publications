@@ -1,0 +1,18 @@
+{
+    "title": "Computer Vision and Radiology for COVID-19 Detection",
+    "doi": null,
+    "authors": [
+        "Ravneet Punia",
+        "Lucky Kumar",
+        "Mohd Mujahid",
+        "Rajesh Rohilla"
+    ],
+    "abstract": "COVID-19 is spreading rapidly throughout the world. As of 14 April 2020, 128,000 people died of COVID-19, while 1.99 million cases in 210 countries and territories were reported in 219.747 cases. As the virus spreads at a very high rate, there is a huge shortage of medical testing kits all over the world. The respiratory system is the part of the human body most affected by the virus, so the use of X-rays of the chest may prove to be a more efficient way than the thermal screening of the human body. In this paper, we are trying to develop a method that uses radiology, i.e. X-rays for detecting the novel coronavirus. Along with the paper, we also release a dataset for the research community and further development extracted from various medical research hospital facilities treating COVID-19 patients.",
+    "keywords": [
+        "COVID-19",
+        "Computer Vision",
+        "Radiology"
+    ],
+    "year": null,
+    "file_name": "ieee_16.pdf"
+}

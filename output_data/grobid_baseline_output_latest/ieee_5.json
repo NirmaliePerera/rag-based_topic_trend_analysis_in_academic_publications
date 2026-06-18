@@ -1,0 +1,18 @@
+{
+    "title": "Spike2Vec: An Efficient and Scalable Embedding Approach for COVID-19 Spike Sequences",
+    "doi": "10.1109/BigData52589.2021.9671848",
+    "authors": [
+        "Sarwan Ali",
+        "Murray Patterson"
+    ],
+    "abstract": "With the rapid global spread of COVID-19, more and more data related to this virus is becoming available, including genomic sequence data. The total number of genomic sequences that are publicly available on platforms such as GISAID is currently several million, and is increasing with every day. The availability of such Big Data creates a new opportunity for researchers to study this virus in detail. This is particularly important with all of the dynamics of the COVID-19 variants which emerge and circulate. This rich data source will give us insights on the best ways to perform genomic surveillance for this and future pandemic threats, with the ultimate goal of mitigating or eliminating such threats. Analyzing and processing the several million genomic sequences is a challenging task. Although traditional methods for sequence classification are proven to be effective, they are not designed to deal with these specific types of genomic sequences. Moreover, most of the existing methods also face the issue of scalability. Previous studies which were tailored to coronavirus genomic data proposed to use spike sequences (corresponding to a subsequence of the genome), rather than using the complete genomic sequence, to perform different machine learning (ML) tasks such as classification and clustering. However, those methods suffer from scalability issues. In this paper, we propose an approach called Spike2Vec, an efficient and scalable feature vector representation for each spike sequence that can be used for downstream ML tasks. Through experiments, we show that Spike2Vec is not only scalable on several million spike sequences, but also outperforms the baseline models in terms of prediction accuracy, F1 score, etc. Since this type of study on such huge numbers of spike sequences has not been done before (to the best of our knowledge), we believe that it will open new doors for researchers to use this data and perform different tasks to unfold new information that was not available before. We also use information gain (IG) to compute the importance of each amino acid in the spike sequence. The amino acids with higher IG values tend to be the same as many reported by the USA based Centers for Disease Control and Prevention (CDC) for different variants.",
+    "keywords": [
+        "COVID-19 Spike Sequences",
+        "Feature Vector Representation",
+        "k-mers",
+        "Classification",
+        "Clustering"
+    ],
+    "year": null,
+    "file_name": "ieee_5.pdf"
+}

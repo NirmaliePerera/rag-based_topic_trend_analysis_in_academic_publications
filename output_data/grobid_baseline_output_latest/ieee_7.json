@@ -1,0 +1,16 @@
+{
+    "title": "Personalized Stress Monitoring using Wearable Sensors in Everyday Settings",
+    "doi": null,
+    "authors": [
+        "Ali Tazarv",
+        "Sina Labbaf",
+        "Stephanie M Reich",
+        "Nikil Dutt",
+        "Amir M Rahmani",
+        "Marco Levorato"
+    ],
+    "abstract": "Since stress contributes to a broad range of mental and physical health problems, the objective assessment of stress is essential for behavioral and physiological studies. Although several studies have evaluated stress levels in controlled settings, objective stress assessment in everyday settings is still largely under-explored due to challenges arising from confounding contextual factors and limited adherence for self-reports. In this paper, we explore the objective prediction of stress levels in everyday settings based on heart rate (HR) and heart rate variability (HRV) captured via low-cost and easy-to-wear photoplethysmography (PPG) sensors that are widely available on newer smart wearable devices. We present a layered system architecture for personalized stress monitoring that supports a tunable collection of data samples for labeling, and present a method for selecting informative samples from the stream of real-time data for labeling. We captured the stress levels of fourteen volunteers through self-reported questionnaires over periods of between 1-3 months, and explored binary stress detection based on HR and HRV using Machine Learning methods. We observe promising preliminary results given that the dataset is collected in the challenging environments of everyday settings. The binary stress detector is fairly accurate and can detect stressful vs non-stressful samples with a macro-F1 score of up to %76. Our study lays the groundwork for more sophisticated labeling strategies that generate context-aware, personalized models that will empower health professionals to provide personalized interventions.",
+    "keywords": [],
+    "year": null,
+    "file_name": "ieee_7.pdf"
+}
