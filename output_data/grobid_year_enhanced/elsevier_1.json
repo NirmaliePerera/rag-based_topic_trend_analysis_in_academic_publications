@@ -9,13 +9,13 @@
             "name": "Kazuhisa Makino"
         }
     ],
-    "abstract": "In this paper, we consider solving the integer linear systems, i.e., given a matrix A ∈ R m×n , a vector b ∈ R m , and a positive integer d, to compute an integer vector x ∈ D n such that Ax ≥ b, where m and n denote positive integers, R denotes the set of reals, and D = {0, 1, . . . , d -1}. The problem is one of the most fundamental NP-hard problems in computer science. For the problem, we propose a complexity index η which is based only on the sign pattern of A. For a real γ, let ILS = (γ) denote the family of the problem instances I with η(I) = γ. We then show the following trichotomy: ILS = (γ) is linearly solvable, if γ < 1, ILS = (γ) is weakly NP-hard and pseudo-polynomially solvable, if γ = 1, and ILS = (γ) is strongly NP-hard, if γ > 1. This, for example, includes the existing results that quadratic systems and Horn systems can be solved in pseudo-polynomial time.",
+    "abstract": "In this paper, we consider solving the integer linear systems, i.e., given a matrix A ∈ R m×n , a vector b ∈ R m , and a positive integer d, to compute an integer vector x ∈ D n such that Ax ≥ b, where m and n denote positive integers, R denotes the set of reals, and The problem is one of the most fundamental NP-hard problems in computer science. For the problem, we propose a complexity index η which is based only on the sign pattern of A. For a real γ, let ILS = (γ) denote the family of the problem instances I with η(I) = γ. We then show the following trichotomy: ILS = (γ) is linearly solvable, if γ < 1, ILS = (γ) is weakly NP-hard and pseudo-polynomially solvable, if γ = 1, and ILS = (γ) is strongly NP-hard, if γ > 1. This, for example, includes the existing results that quadratic systems and Horn systems can be solved in pseudo-polynomial time.",
     "keywords": [
         "1998 acm subject classification g.2.1 combinatorics phrases integer linear system",
         "sign pattern",
         "complexity index",
         "tvpi system",
-        "horn system christoph dürr",
+        "horn system digital object identifier 10.4230/lipics.stacs.2012.613 christoph dürr",
         "thomas wilke; pp. 613-623 leibniz international proceedings in informatics schloss dagstuhl -leibniz-zentrum für informatik",
         "dagstuhl publishing",
         "germany"
