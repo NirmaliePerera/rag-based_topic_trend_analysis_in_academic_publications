@@ -1,8 +1,4 @@
 # This script compares predicted metadata against ground truth on a per-file basis.
-#python scripts/evaluation/compare_per_file.py grobid
-#python scripts/evaluation/compare_per_file.py gemini
-#python scripts/evaluation/compare_per_file.py openalex
-
 
 import json
 import os
@@ -11,41 +7,6 @@ import re
 import sys
 from difflib import SequenceMatcher
 
-if len(sys.argv) < 2:
-    print("Usage: python compare_per_file.py <method>")
-    print("Available methods: grobid, gemini, openalex")
-    sys.exit(1)
-
-METHOD = sys.argv[1]
-  # e.g., grobid, gemini, openalex
-
-# Map method names to folder names
-METHOD_TO_FOLDER = {
-    "grobid": "grobid_metadata_output",
-    "grobid_enhanced": "grobid_enhanced_output",
-    "grobid_enhanced_v2": "grobid_year_enhanced_v2",
-    "gemini": "gemini",
-    "openalex": "openalex"
-}
-
-OUTPUT_FOLDER_TO_METHOD = {
-    "grobid": "grobid_enhanced_after_evaluation_modify",
-    "grobid_enhanced": "grobid_enhanced",
-    "grobid_enhanced_v2": "grobid_year_enhanced_v2",
-    "gemini": "gemini",
-    "openalex": "openalex"
-}
-
-if METHOD not in METHOD_TO_FOLDER:
-    print(f"Unknown method: {METHOD}")
-    print(f"Available methods: {', '.join(METHOD_TO_FOLDER.keys())}")
-    sys.exit(1)
-
-FOLDER_NAME = METHOD_TO_FOLDER[METHOD]
-OUTPUT_FOLDER_NAME = OUTPUT_FOLDER_TO_METHOD[METHOD]
-
-
-
 # -------- PATHS --------
 # Compute paths relative to project root
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -53,13 +14,27 @@ PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
 GT_PATH = os.path.join(PROJECT_ROOT, "data", "metadata_extraction_evaluation", "metadata", "papers.json")
 # OLD: previous prediction paths (commented out)
-# OLD_PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_enhanced_output")
-# OLD_PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_baseline_output")
-# OLD_PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", FOLDER_NAME)
-PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2")
+# PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_enhanced_output")
+
+# PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_baseline_output")
+# PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_baseline_output_latest")
+
+PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced")
+# PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_latest")
+
+# PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2")
+# PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2_latest")
+
 # OLD: previous output path
-# OLD_OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2")
-OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2")
+
+# OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_baseline")
+# OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_baseline_latest")
+
+OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhance")
+# OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhance_latest")
+
+# OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2")
+# OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2_latest")
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -91,7 +66,20 @@ def author_set(authors):
 
     for author in authors:
 
-        name = author.get("name")
+        # Format:
+        # {"name": "..."}
+        if isinstance(author, dict):
+
+            name = author.get("name")
+
+        # Format:
+        # "John Smith"
+        elif isinstance(author, str):
+
+            name = author
+
+        else:
+            continue
 
         if not name:
             continue
@@ -107,6 +95,22 @@ def jaccard(a, b):
         return 1.0
     return len(a & b) / len(a | b) if len(a | b) != 0 else 0
 
+    # ===============
+    # Normalized Year Extraction
+    # ===============
+
+def normalize_year(year):
+    if not year:
+        return None
+
+    match = re.search(r"(19|20)\d{2}", str(year))
+
+    return match.group(0) if match else None
+
+    # ===============
+    # Accent Removal for author names
+    # ===============
+
 def remove_accents(text):
     if not text:
         return ""
@@ -116,6 +120,9 @@ def remove_accents(text):
         if not unicodedata.combining(c)
     )
 
+    # ===============
+    # Canonical Author Name Generation
+    # ===============
 
 def canonical_author(name):
 
@@ -193,7 +200,8 @@ for filename in os.listdir(PRED_DIR):
         ),
 
         "year_match": exact_match(
-            str(gt.get("year")), str(pred.get("year"))
+            normalize_year(gt.get("year")),
+            normalize_year(pred.get("year"))
         ),
 
         "author_similarity": jaccard(
