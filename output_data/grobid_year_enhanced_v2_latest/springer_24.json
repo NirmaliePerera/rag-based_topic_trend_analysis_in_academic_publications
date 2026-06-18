@@ -1,0 +1,39 @@
+{
+    "title": null,
+    "doi": null,
+    "authors": [
+        {
+            "name": "Chris E Forsmark"
+        },
+        {
+            "name": "Karen E Kim"
+        },
+        {
+            "name": "Russell D Cohen"
+        },
+        {
+            "name": "George Y Wu"
+        },
+        {
+            "name": "Khalid Aziz"
+        },
+        {
+            "name": "Lily H Fiduccia"
+        },
+        {
+            "name": "Giles F Whalen"
+        },
+        {
+            "name": "Raymond S Koff"
+        },
+        {
+            "name": "Mark H Delegge"
+        }
+    ],
+    "abstract": null,
+    "keywords": [],
+    "year": "2001",
+    "year_source": "tei_fallback",
+    "confidence_score": 0.5,
+    "source_file": "springer_24.pdf"
+}

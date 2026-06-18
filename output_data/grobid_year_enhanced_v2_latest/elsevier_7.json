@@ -1,0 +1,20 @@
+{
+    "title": "Nuclear Physics A",
+    "doi": "10.1146/annurev-nucl-101917-020852",
+    "authors": [
+        {
+            "name": "G K Krintiras"
+        }
+    ],
+    "abstract": "Droplets of quark-gluon plasma (QGP), an exotic state of strongly interacting quantum chromodynamics (QCD) matter, are routinely produced in heavy nuclei high-energy collisions. Although the experimental signatures marked a paradigm shift away from expectations of a weakly coupled QGP, a challenge remains as to how the locally deconfined state with a lifetime of a few fm can be resolved. The only colored particle that decays mostly within the QGP is the top quark. Here we demonstrate, for the first time, that top quark decay products are identified, irrespective of whether interacting with the medium (bottom quarks) or not (leptonically decaying W bosons). Using 1.7 ± 0.1 nb -1 of lead-lead (A = 208) collision data recorded by the CMS experiment at a nucleon-nucleon center-of-mass energy of 5.02 TeV, we report evidence of top quark pair (tt ) production. Dilepton final states are selected, and the cross section (σ tt ) is measured from a likelihood fit to a multivariate discriminator using lepton kinematic variables. The σ tt measurement is additionally performed considering the jets originating from the hadronization of bottom quarks, which improve the sensitivity to the tt signal process. After background subtraction and analysis corrections, the measured σ tt is 2.56 ± 0.82 (tot) and 2.02 ± 0.69 (tot) µb in the two cases, respectively, consistent with predictions from perturbative QCD.",
+    "keywords": [
+        "cms",
+        "physics",
+        "heavy ions",
+        "top quark url: cern.ch/gkrintir"
+    ],
+    "year": "2019",
+    "year_source": "publicationStmt",
+    "confidence_score": 1.0,
+    "source_file": "elsevier_7.pdf"
+}
