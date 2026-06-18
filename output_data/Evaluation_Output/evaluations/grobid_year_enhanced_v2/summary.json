@@ -1,5 +1,5 @@
 {
-    "method": "grobid_enhanced_v2",
+    "method": "grobid_year_enhanced_v2",
     "total_files": 83,
     "doi_accuracy": 0.5542168674698795,
     "year_accuracy": 0.5060240963855421,
