@@ -1,44 +1,78 @@
 import os
-import requests
 import json
 import time
+from pathlib import Path
+import requests
 from lxml import etree
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
 # ================= CONFIG =================
 
-GROBID_URL = "http://localhost:8070/api/processFulltextDocument"
-PDF_FOLDER = "data/metadata_extraction_evaluation/papers"
-OUTPUT_FOLDER = "output_data/grobid_baseline_output"
+GROBID_BASE_URL = os.environ.get("GROBID_BASE_URL", "http://localhost:8070")
+GROBID_URL = f"{GROBID_BASE_URL}/api/processFulltextDocument"
+GROBID_ALIVE_URL = f"{GROBID_BASE_URL}/api/isalive"
+PDF_FOLDER = PROJECT_ROOT / "data" / "metadata_extraction_evaluation" / "papers"
+GROBID_REQUEST_TIMEOUT_SECONDS = int(
+    os.environ.get("GROBID_REQUEST_TIMEOUT_SECONDS", "180")
+)
+
+# Folder instead of single JSON file
+# OUTPUT_FOLDER = PROJECT_ROOT / "output_data" / "grobid_baseline_output"       # baseline with 0.8.0
+OUTPUT_FOLDER = PROJECT_ROOT / "output_data" / "grobid_baseline_output_latest"  # baseline with latest GROBID (0.9.1)
+GROBID_READY_TIMEOUT_SECONDS = 300
+GROBID_READY_POLL_SECONDS = 5
 
 
-# ================= EXTRACT XML FROM GROBID =================
+def is_grobid_available():
+    try:
+        response = requests.get(GROBID_ALIVE_URL, timeout=5)
+        return response.ok
+    except requests.RequestException:
+        return False
+
+
+def wait_for_grobid_ready():
+    elapsed_seconds = 0
+
+    while elapsed_seconds < GROBID_READY_TIMEOUT_SECONDS:
+        if is_grobid_available():
+            return True
+
+        print(
+            f"Waiting for GROBID at {GROBID_BASE_URL}... "
+            f"retrying in {GROBID_READY_POLL_SECONDS}s"
+        )
+        time.sleep(GROBID_READY_POLL_SECONDS)
+        elapsed_seconds += GROBID_READY_POLL_SECONDS
+
+    return False
 
 def extract_metadata(pdf_path):
+    try:
+        with open(pdf_path, "rb") as f:
 
-    for attempt in range(3):
-        try:
-            with open(pdf_path, "rb") as f:
-                files = {
-                    "input": (os.path.basename(pdf_path), f, "application/pdf")
-                }
+            files = {
+                "input": (os.path.basename(pdf_path), f, "application/pdf")
+            }
 
-                response = requests.post(
-                    GROBID_URL,
-                    files=files,
-                    timeout=300
-                )
+            response = requests.post(
+                GROBID_URL,
+                files=files,
+                timeout=GROBID_REQUEST_TIMEOUT_SECONDS,
+            )
 
-            if response.status_code == 200:
-                return response.text
+    except requests.RequestException as exc:
+        print(f"GROBID request failed for {pdf_path}: {exc}")
+        return None
 
-            print(f"HTTP Error: {response.status_code}")
+    if response.status_code == 200:
+        return response.text
 
-        except requests.exceptions.Timeout:
-            print(f"Timeout on attempt: {attempt+1}")
-
-        except Exception as e:
-            print(f"Attempt {attempt+1} failed: {e}")
-            
-        time.sleep(5)  # Wait before retrying
+    print(
+        f"GROBID returned status {response.status_code} for {pdf_path}: "
+        f"{response.text[:200]}"
+    )
     return None
 
 # ================= PARSE TEI XML =================
@@ -106,6 +140,14 @@ def process_folder():
 
     os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
+    if not wait_for_grobid_ready():
+        print(
+            "GROBID is not reachable at "
+            f"{GROBID_BASE_URL}. Start the Docker container first, "
+            "or set GROBID_BASE_URL to a running server."
+        )
+        return
+
     pdf_files = [
         f for f in os.listdir(PDF_FOLDER)
         if f.endswith(".pdf")
@@ -151,11 +193,8 @@ def process_folder():
 
         print(f"Saved: {output_path}")
 
-        time.sleep(10)  # Sleep to avoid overwhelming GROBID
-
 # ================= MAIN =================
 
 if __name__ == "__main__":
 
     process_folder()
-
