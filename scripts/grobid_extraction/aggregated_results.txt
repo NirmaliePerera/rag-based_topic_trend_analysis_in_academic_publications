@@ -1,0 +1,118 @@
+For GROBID version 0.9.0
+{
+    "method": "grobid_baseline",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.37349397590361444,
+    "average_title_similarity": 0.8664940342251068,
+    "average_author_similarity": 0.7609262989177383
+}
+For GROBID version 0.9.0
+{
+    "method": "grobid_baseline_latest",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.37349397590361444,
+    "average_title_similarity": 0.855951640560814,
+    "average_author_similarity": 0.7420030534884688
+}
+
+GROBID version 0.8.0
+{
+    "method": "grobid_after_year_enhanced",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.4939759036144578,
+    "average_title_similarity": 0.855951640560814,
+    "average_a0uthor_similarity": 0.7446676802494812
+}
+
+GROBID version 0.9.0
+{
+    "method": "grobid_year_enhanced_latest",
+    "total_files": 82,
+    "doi_accuracy": 0.5487804878048781,
+    "year_accuracy": 0.4878048780487805,
+    "average_title_similarity": 0.8541949532505799,
+    "average_author_similarity": 0.7432960317507815
+}
+For GROBID version 0.8.0
+{
+    "method": "grobid_enhanced_v2",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.5060240963855421,
+    "average_title_similarity": 0.8664940342251068,
+    "average_author_similarity": 0.7441783547601556
+}
+
+For GROBID version 0.9.0
+{
+    "method": "grobid_enhanced_v2_latest",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.4939759036144578,
+    "average_title_similarity": 0.855951640560814,
+    "average_author_similarity": 0.7446676802494812
+}
+
+========================== With same evaluation ===============================
+0.8.0
+{
+    "method": "grobid_baseline",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.37349397590361444,
+    "average_title_similarity": 0.8664940342251068,
+    "average_author_similarity": 0.7609262989177383
+}
+
+0.9.0
+{
+    "method": "grobid_baseline_latest",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.37349397590361444,
+    "average_title_similarity": 0.855951640560814,
+    "average_author_similarity": 0.7420030534884688
+}
+
+0.8.0
+{
+    "method": "grobid_year_enhance",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.5060240963855421,
+    "average_title_similarity": 0.8664940342251068,
+    "average_author_similarity": 0.7441783547601556
+}
+
+0.9.0
+{
+    "method": "grobid_year_enhance_latest",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.4939759036144578,
+    "average_title_similarity": 0.855951640560814,
+    "average_author_similarity": 0.7446676802494812
+}
+
+0.8.0
+{
+    "method": "grobid_year_enhanced_v2",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.5060240963855421,
+    "average_title_similarity": 0.8664940342251068,
+    "average_author_similarity": 0.7441783547601556
+}
+
+0.9.0
+{
+    "method": "grobid_year_enhanced_v2_latest",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.4939759036144578,
+    "average_title_similarity": 0.855951640560814,
+    "average_author_similarity": 0.7446676802494812
+}
