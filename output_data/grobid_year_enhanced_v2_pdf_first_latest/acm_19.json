@@ -1,0 +1,25 @@
+{
+    "title": "Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation",
+    "doi": "10.1145/3531146.3533101",
+    "authors": [
+        {
+            "name": "Angelina Wang"
+        },
+        {
+            "name": "Vikram V Ramaswamy"
+        },
+        {
+            "name": "Olga Russakovsky"
+        }
+    ],
+    "abstract": "Research in machine learning fairness has historically considered a single binary demographic attribute; however, the reality is of course far more complicated. In this work, we grapple with questions that arise along three stages of the machine learning pipeline when incorporating intersectionality as multiple demographic attributes: (1) which demographic attributes to include as dataset labels, (2) how to handle the progressively smaller size of subgroups during model training, and (3) how to move beyond existing evaluation metrics when benchmarking model fairness for more subgroups. For each question, we provide thorough empirical evaluation on tabular datasets derived from the US Census, and present constructive recommendations for the machine learning community. First, we advocate for supplementing domain knowledge with empirical validation when choosing which demographic attribute labels to train on, while always evaluating on the full set of demographic attributes. Second, we warn against using data imbalance techniques without considering their normative implications and suggest an alternative using the structure in the data. Third, we introduce new evaluation metrics which are more appropriate for the intersectional setting. Overall, we provide substantive suggestions on three necessary (albeit not sufficient!) considerations when incorporating intersectionality into machine learning.",
+    "keywords": [
+        "ccs concepts:",
+        "social and professional topics → user characteristics;",
+        "computing methodologies → machine learning approaches"
+    ],
+    "year": "2022",
+    "year_source": "publicationStmt",
+    "confidence_score": 1.0,
+    "source_file": "acm_19.pdf"
+}

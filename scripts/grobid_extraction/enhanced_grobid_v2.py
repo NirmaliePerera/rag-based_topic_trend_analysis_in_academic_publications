@@ -19,8 +19,8 @@ PDF_FOLDER = "data/metadata_extraction_evaluation/papers"
 # OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2"
 
 # New output folder for year-enhanced results
-OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first"
-# OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first_latest"
+# OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first"
+OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first_latest"
 
 
 # ================= HELPERS =================

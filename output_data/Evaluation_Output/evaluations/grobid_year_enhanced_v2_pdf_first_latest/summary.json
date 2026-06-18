@@ -1,0 +1,8 @@
+{
+    "method": "grobid_year_enhanced_v2_pdf_first_latest",
+    "total_files": 81,
+    "doi_accuracy": 0.5432098765432098,
+    "year_accuracy": 0.49382716049382713,
+    "average_title_similarity": 0.8523948909450315,
+    "average_author_similarity": 0.7401268469575812
+}

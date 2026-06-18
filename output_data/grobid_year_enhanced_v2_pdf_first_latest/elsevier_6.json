@@ -1,0 +1,18 @@
+{
+    "title": "The Opacity of Backbones",
+    "doi": null,
+    "authors": [
+        {
+            "name": "Lane A Hemaspaandra"
+        },
+        {
+            "name": "David E Narváez"
+        }
+    ],
+    "abstract": "A backbone of a boolean formula F is a collection S of its variables for which there is a unique partial assignment aS such that F [aS] is satisfiable (Monasson et al. 1999; Willams, Gomes, and Selman 2003) . This paper studies the nontransparency of backbones. We show that, under the widely believed assumption that integer factoring is hard, there exist sets of boolean formulas that have obvious, nontrivial backbones yet finding the values, a S , of those backbones is intractable. We also show that, under the same assumption, there exist sets of boolean formulas that obviously have large backbones yet producing such a backbone S is intractable. Further, we show that if integer factoring is not merely worst-case hard but is frequently hard, as is widely believed, then the frequency of hardness in our two results is not too much less than that frequency. In that definition, a S assigns a value (true or false) to each variable in S, and F [a S ] is a shorthand meaning F except with each variable in S assigned the value specified for it in a S . A backbone S is nontrivial if S = ∅. The size of a backbone S is the number of variables in S. For a backbone S (for formula F ), we say that a S is the value of the backbone S. For example, every satisfiable formula has the trivial backbone S = ∅. The formula x 1 ∧ x 2 has four backbones, ∅, {x 1 }, {x 2 }, and {x 1 , x 2 }, with respectively the values (listing values as bit-vectors giving the assignments in the lexicographical order of the names of the variables in S) , 1, 0, and 10. The formula x 1 ∨ x 2 has no nontrivial backbones. (Every formula that has a backbone will have a maximum backbone-a backbone that every other backbone is a",
+    "keywords": [],
+    "year": "1976",
+    "year_source": "date_attribute",
+    "confidence_score": 0.75,
+    "source_file": "elsevier_6.pdf"
+}

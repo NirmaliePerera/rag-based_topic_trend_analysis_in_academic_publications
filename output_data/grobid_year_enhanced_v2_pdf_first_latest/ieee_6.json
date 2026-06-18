@@ -1,0 +1,32 @@
+{
+    "title": "Deep Neural Architecture for Face mask Detection on Simulated Masked Face Dataset against Covid-19 Pandemic",
+    "doi": "10.1109/ICCCIS51004.2021.9397196",
+    "authors": [
+        {
+            "name": "Alok Negi"
+        },
+        {
+            "name": "Prachi Chauhan"
+        },
+        {
+            "name": "Krishan Kumar"
+        },
+        {
+            "name": "R S Rajput"
+        }
+    ],
+    "abstract": "The dangerous COVID-19 (SARS-CoV-2) is rising steadily and globally, with more than 72,851,747 confirmed cases observed to WHO including 1,643,339 deaths till 17 December 2020. The country's economy is now almost fully halted, people are stuck up and investment becomes deteriorating. So, this is turning to worry of the government for a development and health. Health organizations are often desperate for evolving decision-making innovations to overcome this viral virus and encourage people to receive rapid and effective responses in realtime. Thus, it is important to create auto-mechanisms as a preventive shield to ensure healthy humanity against SARS-CoV-2. Advanced analytics methods and other strategies could also empower researchers, learners and the pharmaceutical industry to acknowledge the hazardous COVID-19 and speed it up care procedures by efficiently testing vast volumes of research data. The prevention method consequence is being used to effectively manage, calculate, forecast and monitor current infected people and future potential cases. Therefore, we proposed CNN and VGG16 based deep learning models to incorporate and enforce AI-based precautionary measures to detect the face mask on Simulated Masked Face Dataset (SMFD). This technique is capable of recognizing masked and unmasked faces to help monitor safety breaches, facilitate the use of face masks, and maintain a secure working atmosphere.",
+    "keywords": [
+        "cnn",
+        "deep learning",
+        "data augmentation",
+        "face mask detection",
+        "simulated masked face dataset (smfd)",
+        "vgg 16",
+        "who"
+    ],
+    "year": "2020",
+    "year_source": "date_attribute",
+    "confidence_score": 1.0,
+    "source_file": "ieee_6.pdf"
+}

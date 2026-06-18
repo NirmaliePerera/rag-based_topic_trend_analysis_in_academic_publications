@@ -1,0 +1,26 @@
+{
+    "title": "Weighted Cross-Entropy for Unbalanced Data with Application on COVID X-ray images",
+    "doi": null,
+    "authors": [
+        {
+            "name": "Özgür Özdemir"
+        },
+        {
+            "name": "Elena Battini Sönmez"
+        }
+    ],
+    "abstract": "Chest X-ray images, together with Computed Tomography (CT) and Magnetic Resonance Imaging (MRI), are among the most used images in the medical field for therapeutic diagnosis. Every type of image has its own pros and cons; chest X-ray is the simple and cheap one, it can be acquire also with a portable device at the patients home; overall, since X-ray crosses the human body, it allows to analyse the internal structure of the body, without surgery.",
+    "keywords": [
+        "coronavirus",
+        "covid-19",
+        "deep learning",
+        "automatic diagnosis",
+        "weighted cross-entropy",
+        "loss functions",
+        "classification"
+    ],
+    "year": "2020",
+    "year_source": "date_attribute",
+    "confidence_score": 0.75,
+    "source_file": "ieee_18.pdf"
+}
