@@ -1,3 +1,6 @@
+# python scripts/evaluation/aggregate_results.py <method>
+# Example: python scripts/evaluation/aggregate_results.py grobid_year_enhance (Method is folder name in evaluations)
+
 import json
 import os
 import sys
@@ -14,13 +17,13 @@ METHOD = sys.argv[1]
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
-#EVAL_DIR = os.path.join(
+# EVAL_DIR = os.path.join(
 #    PROJECT_ROOT,
 #    "output_data",
 #    "Evaluation_Output",
 #    "evaluations",
-#    METHOD
-#)
+#    "grobid_baseline"
+# )
 
 #EVAL_DIR = os.path.join(
 #    PROJECT_ROOT,
@@ -35,15 +38,40 @@ PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 #     "output_data",
 #     "Evaluation_Output",
 #     "evaluations",
-#     "grobid_after_year_enhance"
+#     "grobid_baseline_latest"
 # )
+
+# EVAL_DIR = os.path.join(
+#     PROJECT_ROOT,
+#     "output_data",
+#     "Evaluation_Output",
+#     "evaluations",
+#     "grobid_year_enhance"
+# )
+
+# EVAL_DIR = os.path.join(
+#     PROJECT_ROOT,
+#     "output_data",
+#     "Evaluation_Output",
+#     "evaluations",
+#     "grobid_year_enhance_latest"
+# )
+
+# EVAL_DIR = os.path.join(
+#     PROJECT_ROOT,
+#     "output_data",
+#     "Evaluation_Output",
+#     "evaluations",
+#     "grobid_year_enhanced_v2"
+# )
+
 
 EVAL_DIR = os.path.join(
     PROJECT_ROOT,
     "output_data",
     "Evaluation_Output",
     "evaluations",
-    "grobid_year_enhanced_v2"
+    "grobid_year_enhanced_v2_latest"
 )
 
 #OUTPUT_PATH = os.path.join(
