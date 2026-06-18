@@ -1,0 +1,45 @@
+{
+    "title": "Automated Identification of Disaster News for Crisis Management using Machine Learning and Natural Language Processing",
+    "doi": "10.14569/IJACSA.2019.0100742",
+    "authors": [
+        {
+            "name": "Jayashree Domala"
+        },
+        {
+            "name": "M Anmohan Dogra"
+        },
+        {
+            "name": "Vinit M Asrani"
+        },
+        {
+            "name": "Dwayne Fernandes"
+        },
+        {
+            "name": "Kevin D'souza"
+        },
+        {
+            "name": "Delicia Fernandes"
+        },
+        {
+            "name": "Tejal Carvalho"
+        },
+        {
+            "name": "U G Student"
+        }
+    ],
+    "abstract": "We are living in unprecedented times and anyone in this world could be impacted by natural disasters in some way or the other. Life is unpredictable and what is to come is unforeseeable. Nobody knows what the very next moment will hold, maybe it could be a disastrous one too. The past cannot be changed but it can act constructively towards the betterment of the current situation, 'Precaution is better than cure'. To be above this uncertain dilemma of life and death situations, 'Automated Identification of Disaster News for Crisis Management is proposed using Machine Learning and Natural Language Processing'. A software solution that can help disaster management websites to dynamically show the disaster relevant news which can be shared to other social media handles through their sites. The objective here is to automatically scrape news from English news websites and identify disaster relevant news using natural language processing techniques and machine learning concepts, which can further be dynamically displayed on the crisis management websites. The complete model is automated and requires no manual labor at all. The architecture is based on Machine Learning principles that classifies news scraped from top news websites using a spider-scraper into two categories, one being disaster relevant news and other being disaster irrelevant news and eventually displaying the relevant disaster news on the crisis management website.",
+    "keywords": [
+        "crisis",
+        "disaster",
+        "machine learning",
+        "natural language processing",
+        "news",
+        "news classification",
+        "pandemic",
+        "scrapy"
+    ],
+    "year": "2014",
+    "year_source": "date_attribute",
+    "confidence_score": 1.0,
+    "source_file": "ieee_11.pdf"
+}

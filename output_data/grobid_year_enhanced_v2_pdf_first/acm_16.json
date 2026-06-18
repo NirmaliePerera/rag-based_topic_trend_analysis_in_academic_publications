@@ -1,0 +1,39 @@
+{
+    "title": "Exploring How Machine Learning Practitioners (Try To) Use Fairness Toolkits",
+    "doi": "10.1145/3531146.3533113",
+    "authors": [
+        {
+            "name": "Wesley Hanwen Deng"
+        },
+        {
+            "name": "Manish Nagireddy"
+        },
+        {
+            "name": "Michelle Seng"
+        },
+        {
+            "name": "Ah Lee"
+        },
+        {
+            "name": "Jatinder Singh"
+        },
+        {
+            "name": "Zhiwei Steven Wu"
+        },
+        {
+            "name": "Kenneth Holstein"
+        },
+        {
+            "name": "Haiyi Zhu"
+        },
+        {
+            "name": "Steven Wu"
+        }
+    ],
+    "abstract": "Recent years have seen the development of many open-source ML fairness toolkits aimed at helping ML practitioners assess and address unfairness in their systems. However, there has been little research investigating how ML practitioners actually use these toolkits in practice. In this paper, we conducted the first in-depth empirical exploration of how industry practitioners (try to) work with existing fairness toolkits. In particular, we conducted thinkaloud interviews to understand how participants learn about and use fairness toolkits, and explored the generality of our findings through an anonymous online survey. We identified several opportunities for fairness toolkits to better address practitioner needs and scaffold them in using toolkits effectively and responsibly. Based on these findings, we highlight implications for the design of future open-source fairness toolkits that can support practitioners in better contextualizing, communicating, and collaborating around ML fairness efforts.",
+    "keywords": [],
+    "year": "2023",
+    "year_source": "publicationStmt",
+    "confidence_score": 1.0,
+    "source_file": "acm_16.pdf"
+}

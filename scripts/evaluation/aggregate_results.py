@@ -66,13 +66,29 @@ PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 # )
 
 
+# EVAL_DIR = os.path.join(
+#     PROJECT_ROOT,
+#     "output_data",
+#     "Evaluation_Output",
+#     "evaluations",
+#     "grobid_year_enhanced_v2_latest"
+# )
+
 EVAL_DIR = os.path.join(
     PROJECT_ROOT,
     "output_data",
     "Evaluation_Output",
     "evaluations",
-    "grobid_year_enhanced_v2_latest"
+    "grobid_year_enhanced_v2_pdf_first"
 )
+
+# EVAL_DIR = os.path.join(
+#     PROJECT_ROOT,
+#     "output_data",
+#     "Evaluation_Output",
+#     "evaluations",
+#     "grobid_year_enhanced_v2_pdf_first_latest"
+# )
 
 #OUTPUT_PATH = os.path.join(
 #    EVAL_DIR,

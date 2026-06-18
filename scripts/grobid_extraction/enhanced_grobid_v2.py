@@ -19,7 +19,8 @@ PDF_FOLDER = "data/metadata_extraction_evaluation/papers"
 # OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2"
 
 # New output folder for year-enhanced results
-OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_latest"
+OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first"
+# OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first_latest"
 
 
 # ================= HELPERS =================
@@ -197,6 +198,18 @@ def recover_year(root, xml_text, pdf_path):
 
     # -----------------------------
     # Priority 3:
+    # PDF first-page recovery
+    # -----------------------------
+
+    pdf_year, pdf_source = recover_year_from_pdf(
+        pdf_path
+    )
+
+    if pdf_year:
+        return pdf_year, pdf_source
+
+    # -----------------------------
+    # Priority 4:
     # search entire TEI XML
     # -----------------------------
 
@@ -205,16 +218,6 @@ def recover_year(root, xml_text, pdf_path):
         xml_text
     )
 
-    if not years:
-
-        return recover_year_from_pdf(
-            pdf_path
-        )
-
-    # -----------------------------
-    # filter unreasonable years
-    # -----------------------------
-
     years = [
         int(y)
         for y in years
@@ -222,10 +225,7 @@ def recover_year(root, xml_text, pdf_path):
     ]
 
     if not years:
-
-        return recover_year_from_pdf(
-            pdf_path
-        )
+        return None, "not_found"
 
     # -----------------------------
     # most frequent year
@@ -233,9 +233,10 @@ def recover_year(root, xml_text, pdf_path):
 
     year_counter = Counter(years)
 
-    return str(
-        year_counter.most_common(1)[0][0]
-    ), "tei_fallback"
+    return (
+        str(year_counter.most_common(1)[0][0]),
+        "tei_fallback"
+    )
 
 # ================= FIRST PAGE EXTRACTION =================
 
