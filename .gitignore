@@ -214,3 +214,6 @@ data/papers
 
 sample.pdf
 output.xml
+
+# outputs
+output_data\grobid_extracted

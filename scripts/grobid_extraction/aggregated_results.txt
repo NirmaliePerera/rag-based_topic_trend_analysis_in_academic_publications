@@ -116,3 +116,23 @@ For GROBID version 0.9.0
     "average_title_similarity": 0.855951640560814,
     "average_author_similarity": 0.7446676802494812
 }
+
+For GROBID version 0.8.0
+{
+    "method": "grobid_year_enhanced_v2_pdf_first",
+    "total_files": 83,
+    "doi_accuracy": 0.5542168674698795,
+    "year_accuracy": 0.5180722891566265,
+    "average_title_similarity": 0.8664940342251068,
+    "average_author_similarity": 0.7441783547601556
+}
+
+For GROBID version 0.9.0
+{
+    "method": "grobid_year_enhanced_v2_pdf_first_latest",
+    "total_files": 81,
+    "doi_accuracy": 0.5432098765432098,
+    "year_accuracy": 0.49382716049382713,
+    "average_title_similarity": 0.8523948909450315,
+    "average_author_similarity": 0.7401268469575812
+}
