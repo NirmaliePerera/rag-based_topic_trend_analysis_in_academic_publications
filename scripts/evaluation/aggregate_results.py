@@ -90,6 +90,14 @@ EVAL_DIR = os.path.join(
     "grobid_year_enhanced_v2_pdf_first_latest"
 )
 
+EVAL_DIR = os.path.join(
+    PROJECT_ROOT,
+    "output_data",
+    "Evaluation_Output",
+    "evaluations",
+    "grobid_author_enhancement"
+)
+
 #OUTPUT_PATH = os.path.join(
 #    EVAL_DIR,
 #    "summary.json"
