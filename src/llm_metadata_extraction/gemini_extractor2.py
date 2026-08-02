@@ -11,6 +11,8 @@ Version history
 3 - constraint-driven topic/keyword extraction window; references removed.
 4 - full PDF context with strict attention window (Abstract/Intro/Discussion); 
     simplified schema (names only, specific fields removed).
+5 - improved prompt and schema; more robust error handling; retry logic for
+    rate-limited API calls; per-paper JSON output with resume support.
 """
 
 import time
