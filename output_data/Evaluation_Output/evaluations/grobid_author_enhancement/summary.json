@@ -1,0 +1,8 @@
+{
+    "method": "grobid_author_enhancement",
+    "total_files": 78,
+    "doi_accuracy": 0.5256410256410257,
+    "year_accuracy": 0.5,
+    "average_title_similarity": 0.8579359594959468,
+    "average_author_similarity": 0.7427520588198725
+}

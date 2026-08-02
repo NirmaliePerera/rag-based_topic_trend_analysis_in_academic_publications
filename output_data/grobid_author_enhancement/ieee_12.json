@@ -1,0 +1,11 @@
+{
+    "title": null,
+    "doi": "10.1136/adc.2005.086314",
+    "authors": [],
+    "abstract": "Machine learning and more recently deep learning have become valuable tools in clinical decision making for neonatal seizure detection. This work proposes a deep neural network architecture which is capable of extracting information from long segments of EEG. Residual connections as well as data augmentation and a more robust optimizer are efficiently exploited to train a deeper architecture with an increased receptive field and longer EEG input. The proposed system is tested on a large clinical dataset of 4,570 hours of duration and benchmarked on a publicly available Helsinki dataset of 112 hours duration. The performance has improved from an AUC of 95.41% to an AUC of 97.73% when compared to a deep learning baseline. Clinical Relevance -This research presents an improvement in performance over state-of-art neonatal seizure detection algorithms.",
+    "keywords": [],
+    "year": "2008",
+    "year_source": "date_attribute",
+    "confidence_score": 0.5,
+    "source_file": "ieee_12.pdf"
+}

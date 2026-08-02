@@ -1,0 +1,19 @@
+{
+    "title": "NEW GAMES RELATED TO OLD AND NEW SEQUENCES",
+    "doi": null,
+    "authors": [
+        {
+            "name": "A S Fraenkel"
+        }
+    ],
+    "abstract": "We detine an infinite class of 2-pile subtraction games, where the amount that can be subtracted from both piles simultaneously, is a function f of the size of the piles. Wythoti's game is a special case. For each game, the 2nd player winning positions are a pair of complementary sequenccs, some of which are related to well-known sequences, but most are new. The main result is a theorem giving necessary and sufficient conditions on f so that the sequences are 2nd player winning positions. Sample games are presented, strategy complexity questions are discussed, and possible further studies are indicated.",
+    "keywords": [
+        "2-pile subtraction games",
+        "complexity of games",
+        "integer sequences"
+    ],
+    "year": "1994",
+    "year_source": "date_attribute",
+    "confidence_score": 0.75,
+    "source_file": "springer_10.pdf"
+}
