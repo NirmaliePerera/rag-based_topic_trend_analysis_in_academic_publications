@@ -20,7 +20,10 @@ PDF_FOLDER = "data/metadata_extraction_evaluation/papers"
 
 # New output folder for year-enhanced results
 # OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first"
-OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first_latest"
+# OUTPUT_FOLDER = "output_data/grobid_year_enhanced_v2_pdf_first_latest"
+
+# New output folder for author-enhanced results
+OUTPUT_FOLDER = "output_data/grobid_author_enhancement"
 
 
 # ================= HELPERS =================
@@ -76,6 +79,27 @@ def clean_doi(doi):
 
     return doi
 
+# ================== NAME NORMALIZATION =================
+def normalize_author_name(name):
+
+    name = normalize_text(name)
+
+    if not name:
+        return None
+
+    # Remove standalone years (e.g., Hui 2022 Liu)
+    name = re.sub(r"\b(19|20)\d{2}\b", "", name)
+
+    # Remove standalone numbers (e.g., John 1 Smith)
+    name = re.sub(r"\b\d+\b", "", name)
+
+    # Remove common footnote markers
+    name = re.sub(r"[*†‡]+", "", name)
+
+    # Collapse whitespace again
+    name = re.sub(r"\s+", " ", name).strip()
+
+    return name
 
 def clean_authors(authors):
 
@@ -84,7 +108,7 @@ def clean_authors(authors):
 
     for author in authors:
 
-        name = normalize_text(author)
+        name = normalize_author_name(author)
 
         if not name:
             continue
