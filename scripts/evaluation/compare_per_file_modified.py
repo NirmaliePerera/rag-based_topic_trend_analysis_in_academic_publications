@@ -26,7 +26,10 @@ GT_PATH = os.path.join(PROJECT_ROOT, "data", "metadata_extraction_evaluation", "
 # PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2_latest")
 
 # PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2_pdf_first")
-PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2_pdf_first_latest")
+# PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2_pdf_first_latest")
+
+# After author extraction enhancement
+PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_author_enhancement")
 
 # OLD: previous output path
 
@@ -40,7 +43,8 @@ PRED_DIR = os.path.join(PROJECT_ROOT, "output_data", "grobid_year_enhanced_v2_pd
 # OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2_latest")
 
 # OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2_pdf_first")
-OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2_pdf_first_latest")
+# OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_year_enhanced_v2_pdf_first_latest")
+OUT_DIR = os.path.join(PROJECT_ROOT, "output_data", "Evaluation_Output", "evaluations", "grobid_author_enhancement")
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
