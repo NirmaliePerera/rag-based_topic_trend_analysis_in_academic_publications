@@ -1,10 +1,12 @@
-import os
+from pathlib import Path
+
 import pymupdf as fitz  # PyMuPDF
 
-PDF_DIR = "data/sample_papers"
-IMAGE_DIR = "output_data/gemini_extracted_data/first_page_images"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PDF_DIR = PROJECT_ROOT / "data" / "metadata_extraction_evaluation" / "papers"
+IMAGE_DIR = PROJECT_ROOT / "output_data" / "gemini_extracted_data" / "first_page_images"
 
-os.makedirs(IMAGE_DIR, exist_ok=True)
+IMAGE_DIR.mkdir(parents=True, exist_ok=True)
 
 def convert_first_page(pdf_path, output_image_path):
     doc = fitz.open(pdf_path)
@@ -14,13 +16,13 @@ def convert_first_page(pdf_path, output_image_path):
     doc.close()
 
 def process_all_pdfs():
-    for filename in os.listdir(PDF_DIR):
+    for pdf_path in sorted(PDF_DIR.iterdir()):
+        filename = pdf_path.name
         if not filename.lower().endswith(".pdf"):
             continue
 
-        pdf_path = os.path.join(PDF_DIR, filename)
-        base_name = os.path.splitext(filename)[0]
-        image_path = os.path.join(IMAGE_DIR, f"{base_name}_page1.png")
+        base_name = pdf_path.stem
+        image_path = IMAGE_DIR / f"{base_name}_page1.png"
 
         convert_first_page(pdf_path, image_path)
         print(f"Saved: {image_path}")
