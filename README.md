@@ -36,7 +36,7 @@ In this metadata ectraction method the versions selected were either did not exc
 
     In the third method, GeneRation Of BIbliographic Data (GROBID) was used for extracting metadata. It is an open-source machine learning–based library designed to extract, structure, and normalize information from scholarly documents, primarily PDFs. 
 
-First Docker Descktop was installed. Then, the GROBID image was pulled which includes Java, ML models, and GROBID server. Next, GROBID server was started. After setting up the environment, it was tested for one sample pdf. The output observation included that the names of authors were extracted in the format of [Lastname, FirstName]. The title, abstract, and keywords did not have apperant diviation from the actual metadata.
+First Docker Descktop was installed. Then, the GROBID image was pulled which includes Java, ML models, and GROBID server. Next, GROBID server was started. Older 0.8.x Docker images can fail on newer Docker/cgroup v2 setups with a JVM bootstrap NullPointerException, so the working setup should use a newer image such as `grobid/grobid:0.9.0-crf` or `grobid/grobid:0.9.0-full` instead of `lfoppiano/grobid:0.8.0`. After setting up the environment, it was tested for one sample pdf. The output observation included that the names of authors were extracted in the format of [Lastname, FirstName]. The title, abstract, and keywords did not have apperant diviation from the actual metadata.
 Next, it was tested for a set of 10 PDFs. For that, dependancies for lxml and tqdm had to be installed. 
 
 Limitations of automated metadata extraction in GROBID is, it may fail to produce valid TEI XML for certain PDFs, requiring error handling and fallback mechanisms. 

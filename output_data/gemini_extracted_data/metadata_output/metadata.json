@@ -1,105 +1,2358 @@
 [
   {
     "doi": null,
-    "arXiv_id": "2506.08388",
-    "title": "Reinforcement Learning Teachers of Test Time Scaling",
+    "arxiv_id": null,
+    "title": "Using Machine Learning and Feedback Filters for Localization in Ambient Assisted Living (AAL) Applications",
     "authors": [
-      "Edoardo Cetin",
-      "Tianyu Zhao",
-      "Yujin Tang"
+      "MWP Maduranga",
+      "H.K.I.S. Lakmal",
+      "RHNS Jayathissa",
+      "WMSRB Wijayarathne",
+      "WAMM Wanniarachchi"
     ],
-    "institution": "Sakana AI, Japan",
-    "year": "2025",
-    "keywords": null,
-    "keywords from title and abstract": [
-      "Reinforcement Learning",
-      "Language Models",
-      "RLTs",
-      "Distillation",
-      "Reasoning",
-      "Test Time Scaling"
+    "year": "2022",
+    "keywords": [
+      "Indoor Positioning Systems (IPS)",
+      "Supervised Learning",
+      "Feedback Filters",
+      "IoT",
+      "RSSI"
     ],
-    "source_image": "2506.08388v3_page1.png"
-  },
-  {
-    "source_image": "2506.12365v2_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 47.441045691s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}"
-  },
-  {
-    "source_image": "2506.15799v2_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 27.441979938s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}"
-  },
-  {
-    "source_image": "2506.15841v2_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 7.185683012s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}"
+    "generated_keywords": [
+      "Machine Learning",
+      "Indoor Positioning",
+      "Ambient Assisted Living",
+      "Localization",
+      "Supervised Classifiers",
+      "Feedback Filters"
+    ],
+    "source_file": "1570832274_4.pdf"
   },
   {
     "doi": null,
-    "arXiv_id": "2306.17188",
-    "title": "Towards AI Search Paradigm",
+    "arxiv_id": null,
+    "title": "Improving the Visibility at Night for Advanced Driver Assistance Systems Using Night-to-Day Image Translation",
     "authors": [
-      "Yuchen Li",
-      "Hengyi Cai",
-      "Rui Kong",
-      "Xinran Chen",
-      "Jiamin Chen",
-      "Jun Yang",
-      "Haojie Zhang",
-      "Jiayi Li",
-      "Jiayi Wu",
-      "Yiqun Chen",
-      "Changle Qu",
-      "Keyi Kong",
-      "Wenwen Ye",
-      "Lixin Su",
-      "Xinyu Ma",
-      "Long Xia",
-      "Daiting Shi",
-      "Jiashu Zhao",
-      "Haoyi Xiong",
-      "Shuaiqiang Wang",
-      "Dawei Yin"
+      "H.K.I.S. Lakmal",
+      "Maheshi B. Dissanayake"
     ],
-    "institution": "Baidu Search",
+    "year": "2022",
+    "keywords": [
+      "night-day images",
+      "image translation",
+      "Cycle-GAN",
+      "unsupervised learning",
+      "BRISQUE",
+      "ADAS"
+    ],
+    "generated_keywords": [
+      "Advanced Driver Assistance Systems",
+      "Night Vision",
+      "Image-to-Image Translation",
+      "Cycle-GAN",
+      "Unsupervised Learning",
+      "Image Quality Assessment"
+    ],
+    "source_file": "1570832285_8.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Short-Term Network Traffic Prediction with Multilayer Perceptron",
+    "authors": [
+      "Agnieszka Ganowicz",
+      "Bartosz Starosta",
+      "Aleksandra Knapińska",
+      "Krzysztof Walkowiak"
+    ],
+    "year": "2022",
+    "keywords": [
+      "network traffic prediction",
+      "machine learning",
+      "timeseries",
+      "multilayer perceptron",
+      "application-aware network"
+    ],
+    "generated_keywords": [
+      "Network Traffic Prediction",
+      "Multilayer Perceptron",
+      "Short-Term Forecasting",
+      "Neural Networks",
+      "Optical Networks",
+      "Machine Learning"
+    ],
+    "source_file": "1570834451_22.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Study on Using Signal Filtering Techniques for Machine Learning-based Indoor Positioning Systems(IPS)",
+    "authors": [
+      "RHNS Jayathissa",
+      "MWP Maduranga"
+    ],
+    "year": null,
+    "keywords": [
+      "wireless indoor localization",
+      "machine learning",
+      "IOT",
+      "location-based IOT applications"
+    ],
+    "generated_keywords": [
+      "Indoor Positioning Systems",
+      "Machine Learning",
+      "Signal Filtering",
+      "Internet of Things",
+      "RSSI",
+      "Position Estimation"
+    ],
+    "source_file": "1570838010_2.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Generative Adversarial Neural Networks based Oversampling Technique for Imbalanced Credit Card Dataset",
+    "authors": [
+      "Said El Kafhali",
+      "Mohammed Tayebi"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Imbalanced classification",
+      "oversampling techniques",
+      "generative adversarial neural networks"
+    ],
+    "generated_keywords": [
+      "Generative Adversarial Networks",
+      "Oversampling Technique",
+      "Imbalanced Dataset",
+      "Credit Card Fraud",
+      "Machine Learning",
+      "Classification"
+    ],
+    "source_file": "1570841891_17.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Operations that Allow the Manipulation of Basic Belief Assignment(BBAs)Defined on Product Space",
+    "authors": [
+      "Najat H. Qasim"
+    ],
+    "year": "2022",
+    "keywords": [
+      "belief function theory",
+      "classification",
+      "evidence",
+      "probability",
+      "combination",
+      "uncertainty"
+    ],
+    "generated_keywords": [
+      "Belief Functions",
+      "Basic Belief Assignment",
+      "Product Space",
+      "Evidence Combination",
+      "Uncertainty Management",
+      "Information Fusion"
+    ],
+    "source_file": "1570843216_20.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Prediction of Age Based on Development of Mandibular Third Molars in Sri Lankan Population",
+    "authors": [
+      "H.M.S.U Bandara",
+      "L. S. Nawarathna",
+      "P.V.K.S Hettiarachchi",
+      "R.D Jayasinghe"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Demirjian's method",
+      "Third molars",
+      "CART"
+    ],
+    "generated_keywords": [
+      "Age Estimation",
+      "Mandibular Third Molars",
+      "Demirjian's Method",
+      "Forensic Anthropology",
+      "CART Algorithm",
+      "Sri Lankan Population"
+    ],
+    "source_file": "1570843420_10.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Identifying Medicinal Plants And Their Fungal Diseases",
+    "authors": [
+      "M. M. V. Senanayake",
+      "N. M. T. De Silva"
+    ],
+    "year": "2022",
+    "keywords": [
+      "CNN",
+      "Transfer Learning",
+      "Medicinal Plant Identification",
+      "Disease Classification"
+    ],
+    "generated_keywords": [
+      "Medicinal Plants",
+      "Fungal Diseases",
+      "Convolutional Neural Network",
+      "Transfer Learning",
+      "Plant Disease Classification",
+      "Artificial Intelligence"
+    ],
+    "source_file": "1570843422_9.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Towards Machine Learning Approaches for Predicting Risk Level of Postpartum Depression",
+    "authors": [
+      "T. H. K. R. Prabhashware",
+      "N. Mihirini Wagarachchi"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Adaptive Neuro Fuzzy Inference System with Genetic Algorithm (ANFIS - GA)",
+      "Artificial Neural Network (FFANN)",
+      "Machine Learning (ML)",
+      "postpartum depression (PPD)"
+    ],
+    "generated_keywords": [
+      "Postpartum Depression",
+      "Machine Learning",
+      "Risk Prediction",
+      "Neural Networks",
+      "Genetic Algorithms",
+      "Mental Health"
+    ],
+    "source_file": "1570843440_18.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Faster RCNN Algorithm for Object Detection and Thereby provides a way for Tile Grading",
+    "authors": [
+      "Sewwandi D.A.I.S",
+      "Vidanagama D.U"
+    ],
+    "year": "2022",
+    "keywords": [
+      "computer vision",
+      "object detection",
+      "region of interest",
+      "faster RCNN"
+    ],
+    "generated_keywords": [
+      "Tile Grading",
+      "Faster RCNN",
+      "Object Detection",
+      "Deep Learning",
+      "Image Processing",
+      "Quality Control"
+    ],
+    "source_file": "1570843560_11.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Prediction of Cardiac Diseases with Dobutamine Stress Echocardiography",
+    "authors": [
+      "W.K.Uthsuka",
+      "Lakshika S. Nawaratna"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Classification Techniques",
+      "Dobutamine",
+      "Stress Echocardiography"
+    ],
+    "generated_keywords": [
+      "Cardiac Diseases",
+      "Dobutamine",
+      "Stress Echocardiography",
+      "Machine Learning",
+      "Myocardial Infarction",
+      "Classification Models"
+    ],
+    "source_file": "1570843594_14.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Directional Forecast with Dynamic Volatility and Time Regime Classification: An Evaluation on EUR/USD",
+    "authors": [
+      "Ramindu P. de Silva",
+      "Hasanthi Pathberiya"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Forex Market",
+      "Dynamic Volatility",
+      "Directional Prediction",
+      "Time Regime Classification",
+      "Change Point Analysis",
+      "Support Vector Machines"
+    ],
+    "generated_keywords": [
+      "Forex Market",
+      "Dynamic Volatility",
+      "Directional Prediction",
+      "Time Regime Classification",
+      "Change Point Analysis",
+      "Support Vector Machines"
+    ],
+    "source_file": "1570843595_23.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Automatic Sri Lankan Traditional Musical Instruments Recognition In Soundtracks",
+    "authors": [
+      "K.E.Nirozika",
+      "S.Thulasiga",
+      "T.Krishanthi",
+      "Murugaiya Ramashini",
+      "N.T.S.G.Gamachchige"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Principal Component Analysis",
+      "Support Vector Machine",
+      "K-nearest neighbour",
+      "Mel Frequency Cepstral Coefficients",
+      "Audio Signal Processing"
+    ],
+    "generated_keywords": [
+      "Musical Instrument Recognition",
+      "Sri Lankan Traditional Music",
+      "Audio Signal Processing",
+      "Machine Learning",
+      "Feature Extraction",
+      "Soundtracks"
+    ],
+    "source_file": "1570843697_5.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Dynamic Ontology Generation using Relational Schema",
+    "authors": [
+      "Hansika Gunasekara",
+      "Thushari Silva"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Dynamic ontology",
+      "Relational database",
+      "mapping"
+    ],
+    "generated_keywords": [
+      "Dynamic ontology",
+      "Relational schema",
+      "Ontology generation",
+      "Database mapping",
+      "Semantic systems",
+      "Knowledge representation"
+    ],
+    "source_file": "1570843724_16.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Time Series and Neural Network Approaches for Accurate Forecasting of Monthly Natural Rubber Prices in Sri Lanka",
+    "authors": [
+      "Erandi J.D.T",
+      "Dilshan L.H.K",
+      "Piyasena K.N.T",
+      "N.V. Chandrasekara"
+    ],
+    "year": "2022",
+    "keywords": [
+      "ARIMA",
+      "Natural Rubber",
+      "TDNN"
+    ],
+    "generated_keywords": [
+      "Natural Rubber Prices",
+      "Time Series Forecasting",
+      "Neural Networks",
+      "Machine Learning",
+      "ARIMA Model",
+      "Sri Lanka"
+    ],
+    "source_file": "1570843730_21.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "BRAINWAVE: EEG Based Brain and Voice Controlled Hybrid Smart Multi-Plug",
+    "authors": [
+      "I.P.A. Kalindu",
+      "G.K.C.R. Kodikara",
+      "R. Hirshan",
+      "W.G.C.W. Kumara"
+    ],
+    "year": "2022",
+    "keywords": [
+      "BCI",
+      "FFT",
+      "SSVEP",
+      "brainwave",
+      "electrode",
+      "EEG"
+    ],
+    "generated_keywords": [
+      "Brain-Computer Interface",
+      "EEG",
+      "Voice Control",
+      "Home Automation",
+      "Smart Multi-Plug",
+      "Artificial Intelligence"
+    ],
+    "source_file": "1570848343_7.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Overlapped Speech Detection for Improved Speaker Diarization on Tamil Dataset",
+    "authors": [
+      "S.T. Jarashanth",
+      "K. Ahilan",
+      "R. Valluvan",
+      "T. Thiruvaran",
+      "A. Kaneswaran"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Overlapped speech detection",
+      "Speaker diarization",
+      "Convolutional recurrent neural network",
+      "Binary classifier",
+      "Tamil dataset"
+    ],
+    "generated_keywords": [
+      "Speaker diarization",
+      "Overlapped speech detection",
+      "Convolutional recurrent neural network",
+      "Tamil dataset",
+      "Speech signal processing",
+      "Binary classification"
+    ],
+    "source_file": "1570850057_3.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Predicting Undergraduates Stress Level Using Eye Tracking",
+    "authors": [
+      "Murugesh Sujan",
+      "P.K.S.C.Jayasinghe"
+    ],
+    "year": "2022",
+    "keywords": [
+      "eye-tracking",
+      "stress prediction",
+      "pss-10",
+      "image-based eye-tracking",
+      "CNN"
+    ],
+    "generated_keywords": [
+      "Eye Tracking",
+      "Stress Prediction",
+      "Undergraduate Stress",
+      "Convolutional Neural Networks",
+      "Perceived Stress Scale",
+      "Machine Learning Classification"
+    ],
+    "source_file": "1570850167_12.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Non-Verbal Communication Based Emotion Detection in Online Interviews",
+    "authors": [
+      "V.A.S.A. Ranasinghe",
+      "D.D.M. Ranasinghe"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Emotion recognition",
+      "Nonverbal behavior prediction",
+      "job interviews",
+      "CNN",
+      "Facial recognition"
+    ],
+    "generated_keywords": [
+      "Online Interviews",
+      "Emotion Detection",
+      "Non-Verbal Communication",
+      "Facial Expression Analysis",
+      "Candidate Assessment",
+      "Deep Learning"
+    ],
+    "source_file": "1570850534_13.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "A data-driven approach for ranking entry and exit points in UAV-assisted firefighting missions",
+    "authors": [
+      "Mohamed El Yafrani",
+      "Peter Nielsen",
+      "Inkyung Sung",
+      "Amila Thibbotuwawa"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Fast disaster response",
+      "UAV-assisted wildfire mission planning"
+    ],
+    "generated_keywords": [
+      "UAVs",
+      "Firefighting",
+      "Wildfire management",
+      "Disaster response",
+      "Machine learning",
+      "Mission planning"
+    ],
+    "source_file": "1570850539_24.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Ruminations and Bioethics on AI for Humanity – A Review",
+    "authors": [
+      "Anuradha Kurunayakage",
+      "DPM Lakshan",
+      "RPS Kathriarachchi"
+    ],
+    "year": "2022",
+    "keywords": [
+      "AI",
+      "social issues",
+      "legal issues",
+      "bioethics"
+    ],
+    "generated_keywords": [
+      "Artificial Intelligence",
+      "Bioethics",
+      "Humanity",
+      "Social Impact",
+      "Ethical Implications",
+      "Technology Review"
+    ],
+    "source_file": "1570850544_19.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "A Deep Learning Based Approach for Janya Raga Classification in Carnatic Music",
+    "authors": [
+      "P. Kavitha",
+      "J. Charles",
+      "L. S. Lekamge"
+    ],
+    "year": "2022",
+    "keywords": [
+      "janya raga",
+      "carnatic music",
+      "deep learning",
+      "1D CNN-LSTM",
+      "mel-frequency cepstral coefficients"
+    ],
+    "generated_keywords": [
+      "Janya Raga Classification",
+      "Carnatic Music",
+      "Deep Learning",
+      "Raga Recognition",
+      "Music Information Retrieval",
+      "CNN-LSTM"
+    ],
+    "source_file": "1570850602_6.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Multi Agent Based Intelligent Personal Research Assistant",
+    "authors": [
+      "Asoka Karunananda",
+      "Thushari Silva",
+      "Dewmal Handapangoda",
+      "Sadika Sumanapala"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Research Methods",
+      "Multi-Agent Systems",
+      "Ontology"
+    ],
+    "generated_keywords": [
+      "Multi-Agent Systems",
+      "Intelligent Personal Assistant",
+      "Research Methodology",
+      "Academic Research",
+      "Information Extraction",
+      "Ontology"
+    ],
+    "source_file": "1570850637_25.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Emergency Vehicle Sound Classification: A Deep Learning Approach",
+    "authors": [
+      "S. Sathruhan",
+      "T. Sivakumar",
+      "Oshadhi K. Herath",
+      "Amila Thibbottuwawa"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Vehicle Classification",
+      "Emergency Vehicle sound detection",
+      "CNN Sound classification"
+    ],
+    "generated_keywords": [
+      "Emergency Vehicle",
+      "Sound Classification",
+      "Deep Learning",
+      "Convolutional Neural Network",
+      "MFCC",
+      "Vehicle Detection"
+    ],
+    "source_file": "1570850644_26.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Evaluating Deep Neural Network-based Speaker Verification Systems on Sinhala and Tamil Datasets",
+    "authors": [
+      "S. P. D. Anuraj",
+      "S. T. Jarashanth",
+      "K. Ahilan",
+      "R. Valluvan",
+      "T. Thiruvaran",
+      "A. Kaneswaran"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Speaker Verification",
+      "Sinhala",
+      "Tamil",
+      "Dataset",
+      "ResNet",
+      "Deep neural networks"
+    ],
+    "generated_keywords": [
+      "Speaker Verification",
+      "Deep Neural Networks",
+      "Sinhala Datasets",
+      "Tamil Datasets",
+      "Speech Biometrics",
+      "Domain Adaptation"
+    ],
+    "source_file": "1570850676_1.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Predicting the Class of a Bachelor's Degree Student Using an Artificial Neural Network",
+    "authors": [
+      "N.M.Siyad",
+      "L.A.K.U. Liyanarachchi",
+      "A.S.R.A. Ranawaka",
+      "H.U.W. Ratnayake"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Neural network",
+      "GPA",
+      "Deep learning",
+      "Degree class prediction",
+      "AI"
+    ],
+    "generated_keywords": [
+      "Student performance prediction",
+      "Artificial neural networks",
+      "Higher education",
+      "Degree classification",
+      "Academic status",
+      "Dropout prediction"
+    ],
+    "source_file": "1570850699_15.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Comparing the Behaviour of Ensemble Algorithms for Route Optimization in Last-Mile Deilivery Considering the Weather Condition and Holiday Effect",
+    "authors": [
+      "B.D.E.Kodithuwakku",
+      "Amila Thibotuwa",
+      "H.Niles Perera",
+      "Peshala Gamage"
+    ],
+    "year": "2022",
+    "keywords": [
+      "Artificial Intelligent",
+      "Machine learning",
+      "Delivery Time Prediction",
+      "Travel Time Prediction",
+      "Ensemble algorithms",
+      "Optimum route identification",
+      "Route Optimization"
+    ],
+    "generated_keywords": [
+      "Last-Mile Delivery",
+      "Delivery Time Prediction",
+      "Ensemble Algorithms",
+      "Route Optimization",
+      "Weather Conditions",
+      "Machine Learning"
+    ],
+    "source_file": "1570850783_27.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Ontology Based Machine Learning Approach For Predictive Maintenance Of Industrial Robots",
+    "authors": [
+      "Shamali Weerasinghe",
+      "Thushari Silva"
+    ],
     "year": "2023",
     "keywords": [
-      "AI Search",
-      "Web Search",
-      "Agentic Search",
-      "Search Engine",
+      "Ontology",
+      "Machine Learning",
+      "reactive maintenance",
+      "preventive maintenance",
+      "predictive maintenance",
+      "fault prediction",
+      "Random Forest",
+      "Anomaly Detection"
+    ],
+    "generated_keywords": [
+      "Predictive Maintenance",
+      "Machine Learning",
+      "Industrial Robots",
+      "Fault Prediction",
+      "Ontology",
+      "Maintenance Optimization"
+    ],
+    "source_file": "1570927892_7.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Identifying Key Aspects of How People Experience Co-creative System: In Reference to Weavesilk Application",
+    "authors": [
+      "W.S.V. Lakshan",
+      "K.D.V.C. Katugampala"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Co-creative systems",
+      "semi-structured",
+      "Thematic Analysis",
+      "Transcribe"
+    ],
+    "generated_keywords": [
+      "Co-creative systems",
+      "User experience",
+      "Human-AI interaction",
+      "Artificial intelligence",
+      "Thematic analysis",
+      "Creative process"
+    ],
+    "source_file": "1570927893_6.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "RSSI and Machine Learning-Based Indoor Localization Systems for Smart Cities",
+    "authors": [
+      "R M M R Rathnayake",
+      "M W P Maduranga",
+      "Maheshi B. Dissanayake"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Indoor localization",
+      "LoRa",
+      "Machine Learning",
+      "Smart cities"
+    ],
+    "generated_keywords": [
+      "Indoor Localization",
+      "Machine Learning",
+      "Internet of Things",
+      "RSSI",
+      "LoRa",
+      "Smart Cities"
+    ],
+    "source_file": "1570937181_1.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Machine Learning-Based Indoor Localization System to Support 5G Location-Based Services",
+    "authors": [
+      "MWP Maduranga",
+      "LP Kalansooriya",
+      "Guenther Retscher",
+      "Jelena Gabela"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Indoor Localization",
+      "5G",
+      "Machine Learning",
+      "Location-based-services"
+    ],
+    "generated_keywords": [
+      "Indoor Localization",
+      "Machine Learning",
+      "5G Networks",
+      "Location-Based Services",
+      "LoRa",
+      "Wireless Positioning"
+    ],
+    "source_file": "1570937379_10.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Enhancing Visual Fidelity in Unpaired Night-to-Day Image Translation through a Perceptual Quality Focused Training Objective",
+    "authors": [
+      "H.K.I.S. Lakmal",
+      "Maheshi B. Dissanayake",
+      "Supavadee Aramvith"
+    ],
+    "year": "2023",
+    "keywords": [
+      "night driving",
+      "image translation",
+      "night-to-day",
+      "cycle-GAN",
+      "perceptual quality"
+    ],
+    "generated_keywords": [
+      "Image Translation",
+      "Night-to-Day",
+      "Cycle-GAN",
+      "Perceptual Quality",
+      "Visual Fidelity",
+      "Unpaired Learning"
+    ],
+    "source_file": "1570938684_11.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "A Model for Enhancing User Experience in an E-learning System: A Review on Student Behavior and Content Formatting",
+    "authors": [
+      "D.P.D. Udugahapattuw",
+      "M.S.D. Fernando"
+    ],
+    "year": "2023",
+    "keywords": [
+      "E-learning",
+      "Educational Data Mining",
+      "Content Recommendation"
+    ],
+    "generated_keywords": [
+      "E-learning System",
+      "User Experience",
+      "Student Behavior",
+      "Content Formatting",
+      "Data Mining",
+      "Personalized Learning"
+    ],
+    "source_file": "1570941551_2.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Sign Language Translation Techniques Using Artificial Intelligence for the Hearing Impaired Community in Sri Lanka: A Review",
+    "authors": [
+      "Malith Priyankara",
+      "Asela Gunasekara",
+      "Kalani Ilmini"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Sign Language Translation",
+      "Sri Lankan Sign Language",
+      "Hidden Markov Model",
+      "Image Processing",
+      "Machine Learning",
+      "Convolutional Neural Network",
+      "Support Vector Machine"
+    ],
+    "generated_keywords": [
+      "Sign Language Translation",
+      "Artificial Intelligence",
+      "Hearing Impaired",
+      "Sri Lanka",
+      "Systematic Review",
+      "Machine Learning"
+    ],
+    "source_file": "1570943905_12.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "ECG Beat Classification using Capsule Networks",
+    "authors": [
+      "Pawan Supul Samaratunga",
+      "Thushari Silva",
+      "Asoka Karunananda"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Electrocardiogram",
+      "Capsule Network",
+      "Beat Classification",
+      "Explainability"
+    ],
+    "generated_keywords": [
+      "ECG Classification",
+      "Capsule Networks",
+      "Deep Learning",
+      "Cardiovascular Disease",
+      "Machine Learning",
+      "Beat Detection"
+    ],
+    "source_file": "1570947674_14.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Deep Rule Visualizer: A Novel Explainable Deep Neural Network Visualization Architecture",
+    "authors": [
+      "Lahiru Kavinda Rathnayake",
+      "Subha Fernando"
+    ],
+    "year": "2023",
+    "keywords": [
+      "XAI",
+      "xDNN",
+      "LIME",
+      "Deep Rule Visualizer",
+      "Deep Rule Score"
+    ],
+    "generated_keywords": [
+      "Deep Rule Visualizer",
+      "Explainable AI",
+      "Deep Neural Networks",
+      "Interpretability",
+      "Visualization Architecture",
+      "Prediction Reliability"
+    ],
+    "source_file": "1570948628_15.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Design a Beach Cleaning Robot Based on AI and Node-RED Interface for Debris Sorting and Monitor the Parameters",
+    "authors": [
+      "Thushani Mallikarathne",
+      "Chamod Rathnayake",
+      "Hashan Abeysinghe",
+      "Madhushani Perera"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Beach Cleaning",
+      "Node-RED",
+      "Sensor Integration",
+      "Debris Sorting",
+      "Ai-mode"
+    ],
+    "generated_keywords": [
+      "Beach Cleaning Robot",
+      "Artificial Intelligence",
+      "Node-RED Interface",
+      "Debris Sorting",
+      "Sensor Integration",
+      "Environmental Management"
+    ],
+    "source_file": "1570948763_13.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Impact of Personal Intelligent Agent's Anthropomorphism on Gen-Z Consumers' Intention in the Retail Sector",
+    "authors": [
+      "H.A.Dimuthu Maduranga Arachchi",
+      "G. D. Samarasinghe"
+    ],
+    "year": "2023",
+    "keywords": [
+      "PIA",
+      "voice assistant",
+      "awe experience",
+      "purchase intention",
+      "Generation Z"
+    ],
+    "generated_keywords": [
+      "Personal Intelligent Agent",
+      "Anthropomorphism",
+      "Gen-Z Consumers",
+      "Retail Sector",
+      "Purchase Intention",
+      "Voice Assistant"
+    ],
+    "source_file": "1570948767_16.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "microConceptBERT: Concept-Relation based Document Information Extraction Framework",
+    "authors": [
+      "Kanishka Silva",
+      "Thushari Silva",
+      "Gayani Nanayakkara"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Concept-Relations",
+      "Entity Analysis",
+      "Ontology",
+      "Transformers",
+      "Question Answering"
+    ],
+    "generated_keywords": [
+      "Information Extraction",
+      "Concept-Relations",
+      "Natural Language Processing",
+      "Question Answering",
+      "BERT Models",
+      "Document Information Extraction"
+    ],
+    "source_file": "1570948772_4.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Early Detection of Alzheimer's Disease using Neuro Imaging and Deep Learning Techniques",
+    "authors": [
+      "A.U.F. Ahamad",
+      "A. Hamdhee",
+      "M.N.M. Aashiq",
+      "R. Hirshan",
+      "W.G.C.W. Kumara"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Alzheimer's disease (AD)",
+      "Convolutional Neural Networks (CNN)",
+      "deep learning",
+      "MRI"
+    ],
+    "generated_keywords": [
+      "Alzheimer's Disease",
+      "Deep Learning",
+      "Neuroimaging",
+      "MRI",
+      "Convolutional Neural Networks",
+      "Disease Detection"
+    ],
+    "source_file": "1570948773_3.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Utilizing Ensemble Learning in Detecting Parkinson's Disease with Reduced Facial Expressions and Hand-Written Drawings",
+    "authors": [
+      "SN Karunarathne",
+      "S Vasanthapriyan",
+      "KGL Chathumini"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Parkinson's Disease",
+      "Hipomimia",
+      "Handwritten-Drawings",
+      "Ensemble Learning"
+    ],
+    "generated_keywords": [
+      "Parkinson's Disease",
+      "Ensemble Learning",
+      "Facial Expressions",
+      "Handwriting Analysis",
+      "Machine Learning",
+      "Diagnosis"
+    ],
+    "source_file": "1570949899_17.pdf"
+  },
+  {
+    "doi": "979-8-3503-1926-2/23",
+    "arxiv_id": null,
+    "title": "Digital Twins as a Framework for IoT Applications: A Review",
+    "authors": [
+      "Madara Premawardhana Dassanayake Mudiyanselage",
+      "Harin Sellahewa"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Internet of Things",
+      "Digital Twins"
+    ],
+    "generated_keywords": [
+      "Digital Twins",
+      "Internet of Things",
+      "IoT Applications",
+      "Review Paper",
+      "Data Integration",
+      "Architectural Considerations"
+    ],
+    "source_file": "1570950282_5.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Automated Evaluation of Student Answers for Geometric Questions Based on the Theorem 'Angles on a Straight Line Add to 180°'",
+    "authors": [
+      "C.P.Edirimanna",
+      "W. A. C. Weerakoon"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Automated Evaluation",
+      "Geometric questions",
+      "multi-step answers",
+      "image processing"
+    ],
+    "generated_keywords": [
+      "Automated Assessment",
+      "Geometric Reasoning",
+      "Student Performance",
+      "Theorem Application",
+      "Image Analysis",
+      "Educational Technology"
+    ],
+    "source_file": "1570952284_18.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Utilizing Machine Learning for Forecasting Profitable Vegetable Crops and Land Use in Sri Lankan Agriculture",
+    "authors": [
+      "S.A.H Nethmini",
+      "W.A.C. Weerakoon"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Linear Regression",
+      "Long Short-Term Memory",
+      "Multinomial Logistic Regression",
+      "Random Forest",
+      "Random Forest Regressor"
+    ],
+    "generated_keywords": [
+      "Machine Learning",
+      "Agricultural Forecasting",
+      "Vegetable Crops",
+      "Sri Lankan Agriculture",
+      "Crop Yield Prediction",
+      "Land Use Optimization"
+    ],
+    "source_file": "1570952286_9.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "AI-based Covid-19 Diagnosis Approach using Chest X-Ray and Chest CT-Images",
+    "authors": [
+      "Sahan Pradeepa"
+    ],
+    "year": "2023",
+    "keywords": [
+      "Covid-19",
+      "Artificial Intelligence",
+      "CT scans",
+      "Chest X-Rays",
+      "detection",
+      "Transfer Learning"
+    ],
+    "generated_keywords": [
+      "Covid-19 Diagnosis",
+      "Artificial Intelligence",
+      "Medical Imaging",
+      "Chest X-Ray",
+      "CT Scans",
+      "Transfer Learning"
+    ],
+    "source_file": "1570957583_8.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "A Fully Automated Approach for Enhancing Ancient Tamil Inscriptions Using Deep Learning",
+    "authors": [
+      "Suthakar Sivasashanth",
+      "Eugene Yugarajah Andrew Charles",
+      "Siyamalan Manivannan"
+    ],
+    "year": "2024",
+    "keywords": [
+      "ancient Tamil inscription",
+      "deep learning for archaeology",
+      "fully convolutional neural network"
+    ],
+    "generated_keywords": [
+      "Ancient Tamil Inscriptions",
+      "Deep Learning",
+      "Image Enhancement",
+      "Convolutional Neural Networks",
+      "Archaeology",
+      "Readability Enhancement"
+    ],
+    "source_file": "003.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Enhancing Small Dataset Classification Using Projected Quantum Kernels with Convolutional Neural Networks",
+    "authors": [
+      "A.M.A.S.D. Alagiyawanna",
+      "Asoka Karunananda",
+      "A. Mahasinghe",
+      "Thushari Silva"
+    ],
+    "year": "2024",
+    "keywords": [
+      "quantum machine learning",
+      "scalability",
+      "feature extraction",
+      "quantum-enhanced convolutional neural network",
+      "image classification",
+      "convolutional neural network",
+      "projected quantum kernel"
+    ],
+    "generated_keywords": [
+      "Convolutional Neural Networks",
+      "Quantum Kernels",
+      "Small Dataset Classification",
+      "Image Classification",
+      "Feature Extraction",
+      "Quantum Machine Learning"
+    ],
+    "source_file": "004.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Hybrid Machine Learning and Moving Target Defense (MTD) for Comprehensive Switchport Attack Detection",
+    "authors": [
+      "R.G.C. Upeksha",
+      "M.W.P. Maduranga",
+      "N.W. Chanka Lasantha",
+      "N.G.S. Aminda"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Switchport attacks",
+      "ARP poisoning",
+      "Moving Target Defense (MTD)",
+      "Machine Learning (ML)",
+      "Network Security",
+      "IP Randomization"
+    ],
+    "generated_keywords": [
+      "Hybrid Machine Learning",
+      "Moving Target Defense",
+      "Switchport Attack Detection",
+      "ARP Poisoning",
+      "IP Randomization",
+      "Network Security"
+    ],
+    "source_file": "009.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Cross-Platform Topic Analysis: Identifying Trends and Divergences in Social Media Discourse",
+    "authors": [
+      "Amila Chethana Nanayakkara",
+      "Banage T.G.S. Kumara",
+      "R. M. Kapila Tharanga Rathnayaka"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Black Lives Matter (BLM)",
+      "BERTopic",
+      "RoBERTa",
+      "Social Media Analysis",
+      "Cross-Platform",
+      "Topic Modelling"
+    ],
+    "generated_keywords": [
+      "Topic Analysis",
+      "Social Media",
+      "Black Lives Matter",
+      "Cross-Platform",
+      "BERTopic",
+      "RoBERTa"
+    ],
+    "source_file": "010.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Udarata Dance Pose Detection and Validation Using Computer Vision and Deep Neural Networks: A Comparative Study of Static and Dynamic Approaches",
+    "authors": [
+      "S.D.T. Akalanka Siriwardana",
+      "M.W.P. Maduranga"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Pose detection",
+      "Computer vision",
+      "Deep neural networks",
+      "Static pose detection",
+      "Dynamic pose detection",
+      "Mediapipé",
+      "LSTM Model",
+      "Body Landmarks",
+      "Dance Validation"
+    ],
+    "generated_keywords": [
+      "Udarata Dance",
+      "Pose Detection",
+      "Computer Vision",
+      "Deep Learning",
+      "Neural Networks",
+      "Dance Validation"
+    ],
+    "source_file": "011.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Optimizing Feature Selection in Spam Email Detection Using Co-Evolutionary Algorithms",
+    "authors": [
+      "Nethni Hirusna Wanigasingha",
+      "T.G.I. Fernando"
+    ],
+    "year": "2024",
+    "keywords": [
+      "co-evolutionary",
+      "feature selection",
+      "Random Forest",
+      "Logistic Regression",
+      "Naïve Bayes"
+    ],
+    "generated_keywords": [
+      "Spam Email Detection",
+      "Feature Selection",
+      "Co-Evolutionary Algorithms",
+      "Machine Learning",
+      "Classification",
+      "Optimization Problems"
+    ],
+    "source_file": "016.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Cluster-Based Time Series Modelling and Forecasting of Mobile Network Traffic",
+    "authors": [
+      "Vigneshwaran Palanisamy",
+      "Charles Joseph"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Cellular networks",
+      "K-Means clustering",
+      "Within-cluster sum of squares (WCSS)",
+      "Time-series analysis"
+    ],
+    "generated_keywords": [
+      "Mobile Network Traffic",
+      "Time Series Modeling",
+      "Traffic Forecasting",
+      "Cluster-Based Approach",
+      "K-Means Clustering",
+      "Network Resource Allocation"
+    ],
+    "source_file": "017.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Comparative Performance Analysis of machine learning models for Breast Cancer Prediction",
+    "authors": [
+      "H.A.Dimuthu Maduranga Arachchi",
+      "Amila Samarasinghe",
+      "H.P. Dimuth Prasanna Pathirana",
+      "G.D.Samarasinghe"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Machine Learning",
+      "Breast Cancer",
+      "k-nearest neighbor",
+      "logistic regression",
+      "Naïve bias model",
+      "support vector machine",
+      "AdoBoost"
+    ],
+    "generated_keywords": [
+      "Breast Cancer Prediction",
+      "Machine Learning Models",
+      "Ensemble Learning",
+      "Classification",
+      "WBCD Dataset",
+      "Performance Analysis"
+    ],
+    "source_file": "018.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Nutrient Deficiency Detection System for Black Pepper Leaf using Machine Learning",
+    "authors": [
+      "A.M.S.K. Abeysinghe",
+      "G. Anthonys"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Machine Learning",
+      "CNN",
+      "Black Pepper",
+      "Xception"
+    ],
+    "generated_keywords": [
+      "Nutrient Deficiency Detection",
+      "Black Pepper Plants",
+      "Machine Learning",
+      "Convolutional Neural Networks",
+      "Xception Model",
+      "Image Analysis"
+    ],
+    "source_file": "024.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Enhanced Failure Detection in Induction Motors Using Supervised Learning and Data Smoothing Techniques",
+    "authors": [
+      "W.C.Nirmal",
+      "H.K.I.S.Lakmal",
+      "S.A.K.Dhananjaya"
+    ],
+    "year": "2024",
+    "keywords": [
+      "classification",
+      "supervised learning",
+      "predictive maintenance",
+      "data smoothing"
+    ],
+    "generated_keywords": [
+      "Failure Detection",
+      "Induction Motors",
+      "Supervised Learning",
+      "Data Smoothing",
+      "Predictive Maintenance",
+      "Machine Learning"
+    ],
+    "source_file": "025.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Implementing Cognitive Behavioral Therapy in Chatbots to Reduce Students' Exam Stress using ChatGPT",
+    "authors": [
+      "M. M. A. H. Indumini",
+      "K. A. S. H. Kulathilake",
+      "D. K. Hettiarachchi"
+    ],
+    "year": "2024",
+    "keywords": [
+      "AI chatbot",
+      "Cognitive Behavioral Therapy (CBT)",
+      "Large Language Models (LLM)",
+      "Support Vector Machine (SVM)",
+      "mental health support"
+    ],
+    "generated_keywords": [
+      "Chatbots",
+      "Cognitive Behavioral Therapy",
+      "Exam Stress",
+      "Mental Health Support",
       "Large Language Models",
-      "Retrieval-Augmented Generation",
-      "Task Planning",
-      "Multi-Agent System"
+      "Student Well-being"
     ],
-    "keywords from title and abstract": [
-      "AI Search Paradigm",
-      "LLM-powered agents",
-      "Search systems",
-      "Task planning",
-      "Retrieval-augmented generation",
-      "Information processing"
+    "source_file": "026.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "A Promptable Segmentation Approach to Automatic Floor Plan Analysis using Vision Transformers",
+    "authors": [
+      "M.D.P.P. Goonathilake",
+      "A.L.A.R.R. Thanuja"
     ],
-    "source_image": "2506.17188v1_page1.png"
+    "year": "2024",
+    "keywords": [
+      "Automatic floor plan analysis",
+      "Promptable segmentation",
+      "Real-time object detection",
+      "Vision transformers"
+    ],
+    "generated_keywords": [
+      "Floor Plan Analysis",
+      "Promptable Segmentation",
+      "Vision Transformers",
+      "Object Detection",
+      "Computer Vision",
+      "Image Segmentation"
+    ],
+    "source_file": "028.pdf"
   },
   {
-    "source_image": "2506.17298v1_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 17.114829369s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}"
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Handling Data Imbalance in Video Satisfaction Analysis",
+    "authors": [
+      "P.D. Thimira Madusanka",
+      "U.A. Piumi Ishanka"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Satisfaction",
+      "Sinhala",
+      "Data Imbalance",
+      "Sampling Techniques",
+      "Machine Learning"
+    ],
+    "generated_keywords": [
+      "Video Satisfaction",
+      "Data Imbalance",
+      "Sentiment Analysis",
+      "Machine Learning",
+      "Sampling Techniques",
+      "Sinhala Language"
+    ],
+    "source_file": "029.pdf"
   },
   {
-    "source_image": "2506.19676v4_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 50.577836702s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}"
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Automated Algae Detection and Quantification on Coral Reefs Using U-Net Segmentation Model",
+    "authors": [
+      "S.M.H.M. Samarakoon",
+      "B.K.K.S. Rodrigo",
+      "N.P.U.N. Pathirana",
+      "M.N.F. Nifra",
+      "M.N.R. Begum",
+      "K.A.S.H. Kulathilake"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Coral Reef Conservation",
+      "Algae Segmentation",
+      "U Net",
+      "Deep Learning",
+      "Marine Ecosystems"
+    ],
+    "generated_keywords": [
+      "Coral Reefs",
+      "Algae Detection",
+      "U-Net",
+      "Image Segmentation",
+      "Marine Conservation",
+      "Deep Learning"
+    ],
+    "source_file": "030.pdf"
   },
   {
-    "source_image": "2506.20430v2_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 28.090297607s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}"
+    "doi": null,
+    "arxiv_id": null,
+    "title": "2D AI Avatar Attributes Impacting on Bank Customers' Perceived Experience",
+    "authors": [
+      "Surasi Muthumini De Silva",
+      "Imesha Imangi",
+      "Supun Lakshan",
+      "H.A.Dimuthu Maduranga Arachchi",
+      "G. D. Samarasinghe"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Artificial Intelligence",
+      "Avatar",
+      "Customer Experience",
+      "Value Percept Disparity Theory",
+      "UCD Theory"
+    ],
+    "generated_keywords": [
+      "AI avatars",
+      "customer experience",
+      "banking sector",
+      "customer satisfaction",
+      "perceived value",
+      "online service"
+    ],
+    "source_file": "032.pdf"
   },
   {
-    "source_image": "2506.21552v1_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 7.624066896s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}"
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Review on AI Assistant Systems for Programming Language Learning in Learning Environments",
+    "authors": [
+      "Savithree Senanayake",
+      "Kasun Karunanayaka",
+      "K.V.J.P. Ekanayake"
+    ],
+    "year": "2024",
+    "keywords": [
+      "AI Assistant",
+      "Chatbot",
+      "Online Learning",
+      "NLP",
+      "Large Language Model",
+      "Interactive Learning Environment"
+    ],
+    "generated_keywords": [
+      "AI Assistant Systems",
+      "Programming Language Learning",
+      "Learning Environments",
+      "Gamification",
+      "Student Engagement",
+      "Online Learning"
+    ],
+    "source_file": "037.pdf"
   },
   {
-    "source_image": "alphagenome_page1.png",
-    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 46.543575328s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}}"
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Dynamic Ontology-based Travel Recommendation System",
+    "authors": [
+      "Hansika Gunasekara",
+      "Thushari Silva"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Travel Recommendation System",
+      "Dynamic Ontology",
+      "Fuzzy-Based Semantic Knowledge Graph Integrator",
+      "Social Media Content",
+      "Semantic Inference",
+      "Hybrid Filtering",
+      "Personalized Travel Planning",
+      "Context-Aware Recommendations"
+    ],
+    "generated_keywords": [
+      "Travel Recommendation Systems",
+      "Dynamic Ontology",
+      "Semantic Web",
+      "Personalized Travel",
+      "Fuzzy Logic",
+      "Hybrid Filtering"
+    ],
+    "source_file": "040.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Analyze Factors Affecting Thread Consumption in a Garment and Develop a Machine Learning-based Prediction Model",
+    "authors": [
+      "Vindya Ubayawickrema",
+      "Samantha Mathara Arachchige",
+      "Pandula Pallewatta",
+      "Kasun Karunanayaka",
+      "Akila Maithripala"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Artificial Neural Network",
+      "Cost Control",
+      "Garment Manufacturing",
+      "Machine Learning",
+      "Streamlit",
+      "Thread Consumption Prediction",
+      "User Interface"
+    ],
+    "generated_keywords": [
+      "Thread Consumption",
+      "Machine Learning",
+      "Garment Manufacturing",
+      "Prediction Model",
+      "Artificial Neural Networks",
+      "Inventory Management"
+    ],
+    "source_file": "046.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Optimizing Production Efficiency in the Garment Industry: The Role of Predictive Analytics Techniques in Sri Lanka's Textile Sector",
+    "authors": [
+      "Zamith Ahamed",
+      "Dinesh Asanka",
+      "Chathura Rajapakse"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Predictive Analytics",
+      "Garment",
+      "Production",
+      "Machine Learning",
+      "Operational Decision-Making"
+    ],
+    "generated_keywords": [
+      "Predictive Analytics",
+      "Garment Industry",
+      "Production Efficiency",
+      "Sri Lanka",
+      "Textile Sector",
+      "Machine Learning"
+    ],
+    "source_file": "047.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "LawKey – Law Constitution Chatbot",
+    "authors": [
+      "W Shamini Fernando",
+      "Mandinu Handapangoda",
+      "Nividula Samindi",
+      "Maneth Gamage",
+      "Dileeka Alwis"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Natural Language Processing (NLP)",
+      "Q-learning",
+      "Reinforcement Learning",
+      "Chatbot",
+      "Sri Lankan Constitution"
+    ],
+    "generated_keywords": [
+      "Legal Chatbot",
+      "Natural Language Processing",
+      "Sri Lankan Law",
+      "Reinforcement Learning",
+      "Constitutional Guidance",
+      "Legal Information Retrieval"
+    ],
+    "source_file": "048.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Knee Osteoarthritis Detection Using Machine Learning on Pre-Processed X-ray Images and Treatment Recommendation",
+    "authors": [
+      "Nuha Rameez",
+      "G.G Dewmi Dissanayake",
+      "G. A. Chanula Senindu",
+      "P.M.H Liyanage",
+      "Vishmi Embuldeniya"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Knee osteoarthritis(KOA)",
+      "Convolution Neural Network (CNN)",
+      "Preprocessed X-ray images",
+      "Personalized Treatment recommendation",
+      "Machine Learning"
+    ],
+    "generated_keywords": [
+      "Knee Osteoarthritis",
+      "Machine Learning",
+      "X-ray Images",
+      "Disease Detection",
+      "Treatment Recommendation",
+      "Convolutional Neural Network"
+    ],
+    "source_file": "049.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Advancing Demand Forecasting for Material Requirements Planning in Food Manufacturing: A Hierarchical Forecasting Approach",
+    "authors": [
+      "Achala Hasini Perera",
+      "H. Niles Perera",
+      "Priyanga Dilini Talagala",
+      "Amila Thibbotuwawa"
+    ],
+    "year": "2024",
+    "keywords": [
+      "supply chain management",
+      "hierarchical forecasting",
+      "forecast reconciliation",
+      "forecast accuracy",
+      "production planning",
+      "machine learning"
+    ],
+    "generated_keywords": [
+      "Demand Forecasting",
+      "Hierarchical Forecasting",
+      "Material Requirements Planning",
+      "Food Manufacturing",
+      "Machine Learning",
+      "Production Planning"
+    ],
+    "source_file": "050.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "A Review of Automated Bird Sound Recognition and Analysis in the New AI Era",
+    "authors": [
+      "Akila Maithripala",
+      "Samantha Mathara Arachchi",
+      "Kasun Karunanayaka",
+      "Ravindu Perera",
+      "Pandula Pallewatta"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Bioacoustics",
+      "Bird Surveys",
+      "Deep Learning",
+      "Soundscape Analysis"
+    ],
+    "generated_keywords": [
+      "Automated Bird Sound Recognition",
+      "Deep Learning",
+      "AI Era",
+      "Bioacoustics",
+      "Biodiversity Monitoring",
+      "Machine Learning"
+    ],
+    "source_file": "051.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Development of a Computationally Efficient CNN-Based Deep Learning Model for Anomaly Detection in Retail Surveillance",
+    "authors": [
+      "Lavanya Ravichandran",
+      "Fathima Riztha",
+      "Thakshanah Selvakumar",
+      "Zamith Ahamed"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Anomaly",
+      "Retail Security",
+      "Deep Learning",
+      "Convolutional Neural Networks"
+    ],
+    "generated_keywords": [
+      "Retail Surveillance",
+      "Anomaly Detection",
+      "Deep Learning",
+      "Convolutional Neural Networks",
+      "Shoplifting Detection",
+      "Resource-Constrained Environments"
+    ],
+    "source_file": "052.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Development of a Real-Time Hand Gesture Recognition System for Aid of Hearing-Impaired Communication Using Flex Sensors and Machine Learning Algorithms",
+    "authors": [
+      "Chamod Rathnayake",
+      "Rukshan Gamage",
+      "Ruwan Kalubowila",
+      "B.L.Sanjaya Thilakarathne"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Assistive Technology",
+      "Flex Sensors",
+      "Gesture Recognition",
+      "Graphical User Interface (GUI)",
+      "Machine Learning"
+    ],
+    "generated_keywords": [
+      "Hand Gesture Recognition",
+      "Flex Sensors",
+      "Machine Learning",
+      "Hearing Impaired Aid",
+      "Real-Time System",
+      "Communication Technology"
+    ],
+    "source_file": "057.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "AI-Powered Student Learning System",
+    "authors": [
+      "Aneesah Sabar",
+      "Sahan Gamage",
+      "Abishek S",
+      "Charuka Lakmal",
+      "K A Dilini T Kulawansa",
+      "Pamoda Perera"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Artificial Intelligence",
+      "Student Learning System",
+      "Moodle",
+      "AISLS"
+    ],
+    "generated_keywords": [
+      "AI-Powered Learning",
+      "Student Learning System",
+      "Educational Technology",
+      "Web Application",
+      "Moodle Integration",
+      "Chatbot Assistance"
+    ],
+    "source_file": "060.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Quality Assurance for LLM-Generated Test Cases: A Systematic Literature Review",
+    "authors": [
+      "Hasali Edirisinghe",
+      "Dilani Wickramaarachchi"
+    ],
+    "year": "2024",
+    "keywords": [
+      "large language models (LLMs)",
+      "black-box testing",
+      "test case generation",
+      "Quality Assurance (QA)",
+      "evaluation metrics"
+    ],
+    "generated_keywords": [
+      "Large Language Models",
+      "Test Case Generation",
+      "Quality Assurance",
+      "Black-box Testing",
+      "Software Testing",
+      "Evaluation Metrics"
+    ],
+    "source_file": "061.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "RSSI-Based Indoor Localization Using Deep Learning with A Custom Loss Function",
+    "authors": [
+      "M.W.P. Maduranga",
+      "Udesh Oruthota",
+      "H.K.I.S. Lakmal",
+      "Shamila Kulatunga"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Location-Based Services",
+      "Wireless Indoor Localization",
+      "RSSI",
+      "Deep Learning",
+      "Custom Loss Function",
+      "Neural Networks"
+    ],
+    "generated_keywords": [
+      "RSSI",
+      "Indoor Localization",
+      "Deep Learning",
+      "Custom Loss Function",
+      "Wireless Localization",
+      "Neural Networks"
+    ],
+    "source_file": "063.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Comparative Analysis of Deep Learning Models for Multilingual Language Translation",
+    "authors": [
+      "Divya Nimma",
+      "V. K. Somasekhar Srinivas",
+      "Santoshi Sen Gupta",
+      "Hari Nair",
+      "R. Latha Devi",
+      "B. Kiran Bala"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Multilingual Language Translation",
+      "Deep Learning Models",
+      "Low-Resource Languages",
+      "Cross-Lingual Transfer Learning",
+      "Sequence-to-Sequence Transformer"
+    ],
+    "generated_keywords": [
+      "Multilingual Language Translation",
+      "Deep Learning Models",
+      "Low-Resource Languages",
+      "Transformer Models",
+      "mBERT",
+      "Sequence-to-Sequence"
+    ],
+    "source_file": "066.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Data Driven Analysis of Protest Dynamics: Comparing Black Lives Matter Movement 2020 and South African Unrest 2021 on Twitter",
+    "authors": [
+      "Amila Chethana Nanayakkara",
+      "Banage T.G.S. Kumara",
+      "R. M. Kapila Tharanga Rathnayaka"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Twitter Analysis",
+      "Protest Social Media Archetype",
+      "South African Unrest (SAU)2021",
+      "Black Lives Matter Movement (BLMM) 2020",
+      "Correlation"
+    ],
+    "generated_keywords": [
+      "Protest Dynamics",
+      "Social Media Analysis",
+      "Black Lives Matter",
+      "South African Unrest",
+      "Twitter Data",
+      "Digital Activism"
+    ],
+    "source_file": "067.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Enhancing Financial Risk Management with Federated AI",
+    "authors": [
+      "Vineet Dhanawat",
+      "Varun Shinde",
+      "Vishal Karande",
+      "Kartik Singhal"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Federated Learning",
+      "Explainable AI",
+      "Fraud Detection",
+      "Data Privacy",
+      "Imbalanced Datasets",
+      "Financial Institutions",
+      "Model Transparency",
+      "Collaborative Learning",
+      "Customer Confidentiality",
+      "Risk Management"
+    ],
+    "generated_keywords": [
+      "Federated AI",
+      "Financial Risk Management",
+      "Fraud Detection",
+      "Data Privacy",
+      "Explainable AI",
+      "Imbalanced Datasets"
+    ],
+    "source_file": "070.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Performance Comparison of Machine Learning Approaches for Predicting Wind Power Generation of Thambapavani Wind Farm in Sri Lanka",
+    "authors": [
+      "W.M.S.K Kumari",
+      "N. Yapage"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Wind energy prediction",
+      "Thambapavani wind farm",
+      "LSTM",
+      "MLR",
+      "ANN"
+    ],
+    "generated_keywords": [
+      "Wind power generation",
+      "Machine learning",
+      "Wind energy prediction",
+      "Thambapavani wind farm",
+      "Sri Lanka",
+      "LSTM"
+    ],
+    "source_file": "071.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Multi-Agent Reinforcement Learning based Warehouse Task Assignment",
+    "authors": [
+      "Ashan Priyadarshana Kuruppu",
+      "Asoka S. Karunananda"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Multi-Agent Reinforcement Learning (MARL)",
+      "Warehouse Management",
+      "Human-Robot Collaboration",
+      "Dynamic Task Assignment",
+      "Deep Q-Networks (DQNs)"
+    ],
+    "generated_keywords": [
+      "Multi-Agent Reinforcement Learning",
+      "Warehouse Task Assignment",
+      "Deep Q-Networks",
+      "Dynamic Task Allocation",
+      "Human-Robot Collaboration",
+      "E-commerce Warehouses"
+    ],
+    "source_file": "072.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Evaluating the Features of Indoor Positioning Systems Using Explainable AI",
+    "authors": [
+      "S.A.K.Dhananjaya",
+      "H.K.I.S.Lakmal",
+      "W.C.Nirmal"
+    ],
+    "year": "2024",
+    "keywords": [
+      "explainable ai",
+      "wireless sensor network",
+      "indoor positioning",
+      "machine learning"
+    ],
+    "generated_keywords": [
+      "Explainable AI",
+      "Indoor Positioning Systems",
+      "Machine Learning",
+      "SHAP",
+      "LIME",
+      "System Interpretability"
+    ],
+    "source_file": "077.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Exploring Mind Models: A Comparative Study as the Inaugural Step Towards Consciousness Chatbots",
+    "authors": [
+      "D.K.D.K Amarasinghe",
+      "Budditha Hettige"
+    ],
+    "year": "2024",
+    "keywords": [
+      "cognitive psychology",
+      "consciousness",
+      "human cognition",
+      "mind models",
+      "personality assessment"
+    ],
+    "generated_keywords": [
+      "Consciousness Chatbots",
+      "Mind Models",
+      "Personality Assessment",
+      "Human Cognition",
+      "Conversational Agents",
+      "Psycholinguistics"
+    ],
+    "source_file": "079.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Enhancing Perception for Autonomous Driving Systems with Dual-Vision Input Cycle GAN for Night-to-Day Image Translation",
+    "authors": [
+      "K.J.P.Fernando",
+      "H.K.I.S.Lakmal",
+      "M.B.Dissanayake",
+      "L.P.Kalansooriya"
+    ],
+    "year": "2024",
+    "keywords": [
+      "Generative Adversarial Networks",
+      "Night to Day Image Translation",
+      "Unsupervised Learning",
+      "Autonomous Driving"
+    ],
+    "generated_keywords": [
+      "Autonomous Driving Systems",
+      "Night-to-Day Image Translation",
+      "CycleGAN",
+      "Low-light Perception",
+      "Dual-Vision",
+      "Unsupervised Learning"
+    ],
+    "source_file": "080.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "IoT-Enabled Dual-Sensing Smart Waste Management System: Enhancing Urban Cleanliness and Sustainability in Smart Cities",
+    "authors": [
+      "R.M.P.M.D. Rathnayake",
+      "T.M.M. Chanaka",
+      "P.T.R. Dabare",
+      "K.P. Hewagamage"
+    ],
+    "year": "2024",
+    "keywords": [
+      "IoT",
+      "Data Driven",
+      "Dual Sensing",
+      "Garbage Management",
+      "Route Optimization"
+    ],
+    "generated_keywords": [
+      "IoT",
+      "Smart Waste Management",
+      "Urban Cleanliness",
+      "Sustainability",
+      "Dual Sensing",
+      "Route Optimization"
+    ],
+    "source_file": "086.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "1D CNN-Based Traditional Instrument Classification and Notation Generation in Sinhala for Gataberaya and Flute",
+    "authors": [
+      "P.G.R.Dulmi",
+      "B.Hettige"
+    ],
+    "year": "2024",
+    "keywords": [
+      "ID CNN",
+      "Music Transcription",
+      "Sinhala Musical Notation",
+      "Deep Learning",
+      "Large Language Model"
+    ],
+    "generated_keywords": [
+      "Traditional Sri Lankan Music",
+      "Instrument Classification",
+      "Music Notation Generation",
+      "1D Convolutional Neural Networks",
+      "Deep Learning",
+      "Audio Signal Processing"
+    ],
+    "source_file": "093.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "PaddyShield: A CNN-Based Rice Leaf Diseases Detection and Management System",
+    "authors": [
+      "Shalika Chathuranga",
+      "Pavithra Subhashini",
+      "Jeeva Ekanayake"
+    ],
+    "year": "2024",
+    "keywords": [
+      "convolutional neural network",
+      "crop disease management",
+      "machine learning",
+      "paddy leaf diseases"
+    ],
+    "generated_keywords": [
+      "PaddyShield",
+      "Rice Leaf Disease Detection",
+      "Convolutional Neural Networks",
+      "Crop Disease Management",
+      "Agricultural Technology",
+      "Sri Lankan Agriculture"
+    ],
+    "source_file": "096.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Sentiment Analysis with Support Vector Machines for Travel Agency Ranking and Traveler Decision Support in Sri Lanka",
+    "authors": [
+      "D.D.M. Jayawardana",
+      "G. S. N. Meedin",
+      "H.U.W. Rathnayake"
+    ],
+    "year": "2024",
+    "keywords": [
+      "NLP",
+      "NLTK",
+      "SVM",
+      "Sentiment Analysis",
+      "Machine learning"
+    ],
+    "generated_keywords": [
+      "Sentiment analysis",
+      "Support Vector Machines",
+      "Traveler decision support",
+      "Sri Lanka tourism",
+      "Natural Language Processing",
+      "Online reviews"
+    ],
+    "source_file": "099.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "A Novel Stacked Machine Learning Framework for Enhanced Prediction of Corporate CO2 Emissions in Multisectoral Analysis",
+    "authors": [
+      "K.N.M.P.K.Kosgahakumbura",
+      "P.P.N.V.Kumara",
+      "S.M.M.Lakmali"
+    ],
+    "year": "2024",
+    "keywords": [
+      "carbon emission",
+      "time-series forecasting",
+      "machine learning",
+      "deep learning"
+    ],
+    "generated_keywords": [
+      "CO2 Emissions",
+      "Machine Learning",
+      "Stacked Models",
+      "Corporate Sustainability",
+      "Climate Change",
+      "Predictive Modeling"
+    ],
+    "source_file": "108.pdf"
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "title": "Real Time Energy Forecasting Scheme for Large-Scale PV Solar Power Plants - Cloud Image Segmentation and Contour Detection",
+    "authors": [
+      "K.H.R.P.Hewage",
+      "S.U.Dampage",
+      "E.R.C.Sandamali"
+    ],
+    "year": "2024",
+    "keywords": [
+      "smart grid",
+      "image segmentation",
+      "machine learning",
+      "deep learning",
+      "cloud cover analysis",
+      "contour detection",
+      "grid 4.0"
+    ],
+    "generated_keywords": [
+      "Solar Power Plants",
+      "Cloud Image Segmentation",
+      "Contour Detection",
+      "Energy Forecasting",
+      "Deep Learning",
+      "Smart Grid"
+    ],
+    "source_file": "109.pdf"
   }
 ]
