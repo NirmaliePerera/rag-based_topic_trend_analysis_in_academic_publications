@@ -6,6 +6,7 @@ import json
 import os
 import time
 from pathlib import Path
+
 from PIL import Image
 from google import genai
 from dotenv import load_dotenv
@@ -15,8 +16,8 @@ load_dotenv()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-IMAGE_DIR = PROJECT_ROOT / "output_data" / "gemini_extracted_data" / "first_page_images"
-OUTPUT_JSON = PROJECT_ROOT / "output_data" / "gemini_extracted_data" / "metadata_output" / "metadata.json"
+IMAGE_DIR = PROJECT_ROOT / "output_data" / "Evaluation_Output" / "gemini_first_page_images"
+OUTPUT_JSON = PROJECT_ROOT / "output_data" / "Evaluation_Output" / "gemini_metadata_output" / "metadata.json"
 MODEL_NAME = "gemini-2.5-flash"  # change if needed
 REQUESTS_PER_MINUTE = 5
 REQUEST_INTERVAL_SECONDS = 60 / REQUESTS_PER_MINUTE
@@ -80,6 +81,8 @@ def process_all_images():
             if not isinstance(parsed_metadata, dict):
                 parsed_metadata = {"data": parsed_metadata}
             parsed_metadata["source_image"] = image_path.name
+            if image_path.name.endswith("_page1.png"):
+                parsed_metadata["source_file"] = image_path.name.replace("_page1.png", ".pdf")
             all_metadata.append(parsed_metadata)
         except json.JSONDecodeError:
             all_metadata.append({
